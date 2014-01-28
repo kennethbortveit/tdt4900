@@ -1,8 +1,0 @@
-\contentsline {chapter}{\numberline {1}Introduction}{1}
-\contentsline {part}{I\hspace {1em}Litterature}{2}
-\contentsline {part}{II\hspace {1em}Empirical}{3}
-\contentsline {chapter}{\numberline {2}Method}{4}
-\contentsline {section}{\numberline {2.1}Action Research}{4}
-\contentsline {chapter}{\numberline {3}Discussion}{5}
-\contentsline {chapter}{\numberline {4}Conclusion}{6}
-\contentsline {chapter}{\numberline {A}Day 1}{7}
