@@ -1,14 +1,51 @@
 \contentsline {chapter}{\numberline {1}Introduction}{1}
+\contentsline {section}{\numberline {1.1}Research Questions}{1}
 \contentsline {part}{I\hspace {1em}Literature}{2}
 \contentsline {chapter}{\numberline {2}Electronic Health}{3}
-\contentsline {chapter}{\numberline {3}Information and Communication Technologies in Developing Countries}{4}
-\contentsline {chapter}{\numberline {4}Implementation}{5}
-\contentsline {chapter}{\numberline {5}Mobile}{6}
-\contentsline {chapter}{\numberline {6}Testing}{7}
-\contentsline {chapter}{\numberline {7}Use}{8}
-\contentsline {part}{II\hspace {1em}Empirical}{9}
-\contentsline {chapter}{\numberline {8}Method}{10}
-\contentsline {section}{\numberline {8.1}Action Research}{10}
-\contentsline {part}{III\hspace {1em}Discussion}{11}
-\contentsline {part}{IV\hspace {1em}Conclusion}{12}
-\contentsline {chapter}{\numberline {A}Day 1}{13}
+\contentsline {section}{\numberline {2.1}In General}{3}
+\contentsline {section}{\numberline {2.2}Updated Information}{3}
+\contentsline {section}{\numberline {2.3}Time and space barriers}{3}
+\contentsline {section}{\numberline {2.4}What is the demand?}{3}
+\contentsline {section}{\numberline {2.5}The technology is there, why is it not used?}{3}
+\contentsline {section}{\numberline {2.6}How can ICT's help us in the health sector?}{3}
+\contentsline {section}{\numberline {2.7}Doctor and health personell interviews}{3}
+\contentsline {section}{\numberline {2.8}Mobile}{3}
+\contentsline {chapter}{\numberline {3}Information and Communication Technologies for Developing Countries}{4}
+\contentsline {section}{\numberline {3.1}In General}{4}
+\contentsline {section}{\numberline {3.2}Updated Information}{5}
+\contentsline {section}{\numberline {3.3}The design and actuality gap}{5}
+\contentsline {section}{\numberline {3.4}Success or Failure}{5}
+\contentsline {section}{\numberline {3.5}Success stories}{7}
+\contentsline {subsection}{\numberline {3.5.1}short examples}{7}
+\contentsline {section}{\numberline {3.6}Failure stories}{7}
+\contentsline {subsection}{\numberline {3.6.1}short examples}{7}
+\contentsline {section}{\numberline {3.7}Evidence base}{7}
+\contentsline {section}{\numberline {3.8}Digital Divide}{8}
+\contentsline {section}{\numberline {3.9}The illusion of a computer being something else than a calculator}{8}
+\contentsline {section}{\numberline {3.10}Implicit and explicit components of Design}{8}
+\contentsline {chapter}{\numberline {4}Implementation}{9}
+\contentsline {section}{\numberline {4.1}In General}{9}
+\contentsline {section}{\numberline {4.2}Updated Information}{9}
+\contentsline {section}{\numberline {4.3}Changing Processes}{9}
+\contentsline {section}{\numberline {4.4}Facilitate the transition}{10}
+\contentsline {section}{\numberline {4.5}Over complicating}{10}
+\contentsline {chapter}{\numberline {5}Testing}{11}
+\contentsline {section}{\numberline {5.1}In General}{11}
+\contentsline {section}{\numberline {5.2}Updated Information}{11}
+\contentsline {section}{\numberline {5.3}Defining success and failure}{11}
+\contentsline {subsection}{\numberline {5.3.1}Categories}{11}
+\contentsline {chapter}{\numberline {6}Use}{12}
+\contentsline {section}{\numberline {6.1}In General}{12}
+\contentsline {section}{\numberline {6.2}Updated Information}{12}
+\contentsline {part}{II\hspace {1em}Empirical}{13}
+\contentsline {chapter}{\numberline {7}Case}{14}
+\contentsline {section}{\numberline {7.1}Stakeholders}{14}
+\contentsline {chapter}{\numberline {8}Method}{15}
+\contentsline {section}{\numberline {8.1}Action Research}{15}
+\contentsline {section}{\numberline {8.2}Data Generation}{15}
+\contentsline {subsection}{\numberline {8.2.1}Interview}{15}
+\contentsline {subsection}{\numberline {8.2.2}Observation}{15}
+\contentsline {part}{III\hspace {1em}Discussion}{18}
+\contentsline {part}{IV\hspace {1em}Conclusion}{19}
+\contentsline {chapter}{\numberline {A}Journal}{20}
+\contentsline {section}{\numberline {A.1}Day 14}{20}

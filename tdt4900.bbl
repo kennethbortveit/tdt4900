@@ -5,9 +5,10 @@ Michael Hammer.
 \newblock Reengineering work: Don't automate, obliterate.
 \newblock {\em Harvard Business Review}, 1990.
 
-\bibitem{bjo:risc}
-Briony~J. Oates.
-\newblock {\em Researching Information Systems and Computing}.
-\newblock Sage Publications Ltd, 2006.
+\bibitem{rh:isdc}
+Richard Heeks.
+\newblock Information systems and developing countries: Failure, success, and
+  local improvisations.
+\newblock {\em The information society}, 2000.
 
 \end{thebibliography}
