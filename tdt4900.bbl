@@ -1,5 +1,16 @@
 \begin{thebibliography}{1}
 
+\bibitem{ca:ieeg}
+Chrisanthi Avgerou.
+\newblock How can it enable economic growth in developing countries.
+\newblock {\em Information technology for development}, 1998.
+
+\bibitem{ca:isdc}
+Chrisanthi Avgerou.
+\newblock Information systems in developing countries: A critical research
+  review.
+\newblock {\em Journal of Information Technology}, 2008.
+
 \bibitem{mh:rw}
 Michael Hammer.
 \newblock Reengineering work: Don't automate, obliterate.
@@ -10,5 +21,11 @@ Richard Heeks.
 \newblock Information systems and developing countries: Failure, success, and
   local improvisations.
 \newblock {\em The information society}, 2000.
+
+\bibitem{jbemss:noa}
+Sundeep~Sahay Jørn~Braa, Eric~Monteiro.
+\newblock Networks of action: Sustainable health information systems across
+  developing countries.
+\newblock {\em MIS Quarterly}, 2004.
 
 \end{thebibliography}

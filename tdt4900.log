@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.9.13)  12 FEB 2014 14:44
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.9.13)  5 MAR 2014 15:14
 entering extended mode
 **tdt4900.tex
 (C:\github\tdt4900\tdt4900.tex
@@ -317,57 +317,70 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 2.
  [1
 
-])
+] [2])
 \tf@toc=\write3
- [2]
-(C:\github\tdt4900\tdt4900.lof)
+
+[3] (C:\github\tdt4900\tdt4900.lof)
 \tf@lof=\write4
- [3
+ [4
 
 ] (C:\github\tdt4900\tdt4900.lot)
 \tf@lot=\write5
- (C:\github\tdt4900\abstract/abstract.tex [4
+ (C:\github\tdt4900\abstract/abstract.tex
+[5
 
-]
-[1]) (C:\github\tdt4900\introduction/introduction.tex
+] [1]) (C:\github\tdt4900\introduction/introduction.tex
 Chapter 1.
-) (C:\github\tdt4900\literature/literature.tex [1
+[1
 
-] [2
+]) (C:\github\tdt4900\literature/literature.tex [2] [3
 
 ] (C:\github\tdt4900\literature/ehealth/ehealth.tex
 Chapter 2.
-) (C:\github\tdt4900\literature/ict_in_dev/ict_in_dev.tex [3
+) (C:\github\tdt4900\literature/ict_in_dev/ict_in_dev.tex [4
 
 ]
 Chapter 3.
 
-Overfull \hbox (2.91518pt too wide) in paragraph at lines 20--25
+Overfull \hbox (2.91518pt too wide) in paragraph at lines 24--29
 \OT1/cmr/m/n/14.4 pro-vide no ba-sis for es-ti-ma-tion of over-all fail-ure/success
  []
 
-<literature/ict_in_dev/images/contextIctProblem.png, id=33, 1003.75pt x 556.0775pt>
+[5
+
+] [6]
+Overfull \hbox (6.06859pt too wide) in paragraph at lines 52--55
+\OT1/cmr/m/n/14.4 What hap-pens when the AID funded projects stops be-ing funded?
+ []
+
+
+Overfull \hbox (9.29454pt too wide) in paragraph at lines 56--56
+[]\OT1/cmr/bx/n/14.4 Assimilation In Dys-func-tional Or-ga-ni-za-tional Pro-
+ []
+
+<literature/ict_in_dev/images/contextIctProblem.png, id=46, 1003.75pt x 556.0775pt>
 File: literature/ict_in_dev/images/contextIctProblem.png Graphic file (type png)
 
 <use literature/ict_in_dev/images/contextIctProblem.png>
-Package pdftex.def Info: literature/ict_in_dev/images/contextIctProblem.png used on input line 34.
+Package pdftex.def Info: literature/ict_in_dev/images/contextIctProblem.png used on input line 71.
 (pdftex.def)             Requested size: 390.0pt x 216.06326pt.
- [4
-
-]
-<literature/ict_in_dev/images/iCountryISProjects(1995-2000).png, id=38, 963.6pt x 722.7pt>
+ [7]
+<literature/ict_in_dev/images/iCountryISProjects(1995-2000).png, id=51, 963.6pt x 722.7pt>
 File: literature/ict_in_dev/images/iCountryISProjects(1995-2000).png Graphic file (type png)
 
 <use literature/ict_in_dev/images/iCountryISProjects(1995-2000).png>
-Package pdftex.def Info: literature/ict_in_dev/images/iCountryISProjects(1995-2000).png used on input line 43.
+Package pdftex.def Info: literature/ict_in_dev/images/iCountryISProjects(1995-2000).png used on input line 79.
 (pdftex.def)             Requested size: 390.0pt x 292.4934pt.
- [5 <C:/github/tdt4900/literature/ict_in_dev/images/contextIctProblem.png>] [6 <C:/github/tdt4900/literature/ict_in_dev/
-images/iCountryISProjects(1995-2000).png>] [7])
-(C:\github\tdt4900\literature/implement/implement.tex [8]
-Chapter 4.
-[9
 
-]) (C:\github\tdt4900\literature/testing/testing.tex [10]
+Overfull \vbox (10.8566pt too high) has occurred while \output is active []
+
+ [8 <C:/github/tdt4900/literature/ict_in_dev/images/contextIctProblem.png>] [9 <C:/github/tdt4900/literature/ict_in_dev/
+images/iCountryISProjects(1995-2000).png>]
+[10] [11]) (C:\github\tdt4900\literature/implement/implement.tex [12]
+Chapter 4.
+[13
+
+]) (C:\github\tdt4900\literature/testing/testing.tex [14]
 Chapter 5.
 LaTeX Font Info:    Try loading font information for OMS+cmr on input line 13.
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\omscmr.fd"
@@ -375,68 +388,95 @@ File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <14.4> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 13.
-) (C:\github\tdt4900\literature/use/use.tex [11
+) (C:\github\tdt4900\literature/use/use.tex [15
 
 ]
 Chapter 6.
-)) (C:\github\tdt4900\empirical/empirical.tex [12
+)) (C:\github\tdt4900\empirical/empirical.tex [16
 
-] [13
+] [17
 
 ] (C:\github\tdt4900\empirical/case/case.tex
 Chapter 7.
-) (C:\github\tdt4900\empirical/method/method.tex [14
+) (C:\github\tdt4900\empirical/method/method.tex [18
 
 ]
 Chapter 8.
-<empirical/method/images/overviewOfResearchProcess.png, id=74, 422.57875pt x 872.25874pt>
+<empirical/method/images/overviewOfResearchProcess.png, id=91, 422.57875pt x 872.25874pt>
 File: empirical/method/images/overviewOfResearchProcess.png Graphic file (type png)
 
 <use empirical/method/images/overviewOfResearchProcess.png>
 Package pdftex.def Info: empirical/method/images/overviewOfResearchProcess.png used on input line 5.
 (pdftex.def)             Requested size: 206.76233pt x 426.79134pt.
 
-<empirical/method/images/overOrdnetActionMethod.png, id=75, 963.6pt x 722.7pt>
+<empirical/method/images/overOrdnetActionMethod.png, id=92, 963.6pt x 722.7pt>
 File: empirical/method/images/overOrdnetActionMethod.png Graphic file (type png)
 
 <use empirical/method/images/overOrdnetActionMethod.png>
 Package pdftex.def Info: empirical/method/images/overOrdnetActionMethod.png used on input line 12.
 (pdftex.def)             Requested size: 369.88582pt x 277.40778pt.
-)) (C:\github\tdt4900\discussion/discussion.tex [15
+)) (C:\github\tdt4900\discussion/discussion.tex [19
 
-] [16 <C:/github/tdt4900/empirical/method/images/overviewOfResearchProcess.png>] [17 <C:/github/tdt4900/empirical/method
-/images/overOrdnetActionMethod.png>] [18
+] [20 <C:/github/tdt4900/empirical/method/images/overviewOfResearchProcess.png>] [21 <C:/github/tdt4900/empirical/method
+/images/overOrdnetActionMethod.png>] [22
 
-]) (C:\github\tdt4900\conclusion/conclusion.tex [19
+]) (C:\github\tdt4900\conclusion/conclusion.tex [23
 
 ])
-(C:\github\tdt4900\appendix/appendix.tex (C:\github\tdt4900\appendix/journal/journal.tex
+(C:\github\tdt4900\appendix/appendix.tex (C:\github\tdt4900\appendix/requirements/requirements.tex
 Appendix A.
-(C:\github\tdt4900\appendix/journal/days/day_14.tex))) (C:\github\tdt4900\tdt4900.bbl [20
+[24
 
-]) [21
+] <appendix/requirements/img/req1.png, id=114, 963.6pt x 722.7pt>
+File: appendix/requirements/img/req1.png Graphic file (type png)
+ <use appendix/requirements/img/req1.png>
+Package pdftex.def Info: appendix/requirements/img/req1.png used on input line 52.
+(pdftex.def)             Requested size: 390.0pt x 292.4934pt.
+
+<appendix/requirements/img/req2.png, id=115, 963.6pt x 722.7pt>
+File: appendix/requirements/img/req2.png Graphic file (type png)
+ <use appendix/requirements/img/req2.png>
+Package pdftex.def Info: appendix/requirements/img/req2.png used on input line 61.
+(pdftex.def)             Requested size: 390.0pt x 292.4934pt.
+
+<appendix/requirements/img/req3.png, id=116, 963.6pt x 722.7pt>
+File: appendix/requirements/img/req3.png Graphic file (type png)
+ <use appendix/requirements/img/req3.png>
+Package pdftex.def Info: appendix/requirements/img/req3.png used on input line 70.
+(pdftex.def)             Requested size: 390.0pt x 292.4934pt.
+ [25] [26 <C:/github/tdt4900/appendix/requirements/img/req1.png>] [27 <C:/github/tdt4900/appendix/requirements/img/req2.
+png>]
+<appendix/requirements/img/req4.png, id=128, 963.6pt x 722.7pt>
+File: appendix/requirements/img/req4.png Graphic file (type png)
+ <use appendix/requirements/img/req4.png>
+Package pdftex.def Info: appendix/requirements/img/req4.png used on input line 79.
+(pdftex.def)             Requested size: 390.0pt x 292.4934pt.
+)
+(C:\github\tdt4900\appendix/journal/journal.tex [28 <C:/github/tdt4900/appendix/requirements/img/req3.png>] [29 <C:/gith
+ub/tdt4900/appendix/requirements/img/req4.png>]
+Appendix B.
+(C:\github\tdt4900\appendix/journal/days/20140303_day_1.tex))) (C:\github\tdt4900\tdt4900.bbl [30
+
+]) [31
 
 ]
-(C:\github\tdt4900\tdt4900.aux)
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
- ) 
+(C:\github\tdt4900\tdt4900.aux) ) 
 Here is how much of TeX's memory you used:
- 1496 strings out of 493921
- 21064 string characters out of 3144870
- 70993 words of memory out of 3000000
- 4718 multiletter control sequences out of 15000+200000
+ 1529 strings out of 493921
+ 22022 string characters out of 3144870
+ 72046 words of memory out of 3000000
+ 4741 multiletter control sequences out of 15000+200000
  9761 words of font info for 34 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 27i,6n,19p,265b,227s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/
-type1/public/amsfonts/cm/cmmi12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Prog
-ram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/publi
-c/amsfonts/cm/cmsy10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on tdt4900.pdf (27 pages, 220435 bytes).
+ 27i,6n,20p,492b,290s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Progra
+m Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public
+/amsfonts/cm/cmr12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files (x8
+6)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/c
+m/cmti12.pfb>
+Output written on tdt4900.pdf (38 pages, 357066 bytes).
 PDF statistics:
- 122 PDF objects out of 1000 (max. 8388607)
+ 167 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 21 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 41 words of extra memory for PDF output out of 10000 (max. 10000000)
 
