@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.9.13)  5 MAR 2014 15:14
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.9.13)  10 MAR 2014 10:55
 entering extended mode
 **tdt4900.tex
 (C:\github\tdt4900\tdt4900.tex
@@ -317,17 +317,17 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 2.
  [1
 
-] [2])
+] [2]
+[3])
 \tf@toc=\write3
-
-[3] (C:\github\tdt4900\tdt4900.lof)
+ [4] (C:\github\tdt4900\tdt4900.lof)
 \tf@lof=\write4
- [4
+ [5
 
 ] (C:\github\tdt4900\tdt4900.lot)
 \tf@lot=\write5
  (C:\github\tdt4900\abstract/abstract.tex
-[5
+[6
 
 ] [1]) (C:\github\tdt4900\introduction/introduction.tex
 Chapter 1.
@@ -358,14 +358,14 @@ Overfull \hbox (9.29454pt too wide) in paragraph at lines 56--56
 []\OT1/cmr/bx/n/14.4 Assimilation In Dys-func-tional Or-ga-ni-za-tional Pro-
  []
 
-<literature/ict_in_dev/images/contextIctProblem.png, id=46, 1003.75pt x 556.0775pt>
+<literature/ict_in_dev/images/contextIctProblem.png, id=49, 1003.75pt x 556.0775pt>
 File: literature/ict_in_dev/images/contextIctProblem.png Graphic file (type png)
 
 <use literature/ict_in_dev/images/contextIctProblem.png>
 Package pdftex.def Info: literature/ict_in_dev/images/contextIctProblem.png used on input line 71.
 (pdftex.def)             Requested size: 390.0pt x 216.06326pt.
  [7]
-<literature/ict_in_dev/images/iCountryISProjects(1995-2000).png, id=51, 963.6pt x 722.7pt>
+<literature/ict_in_dev/images/iCountryISProjects(1995-2000).png, id=54, 963.6pt x 722.7pt>
 File: literature/ict_in_dev/images/iCountryISProjects(1995-2000).png Graphic file (type png)
 
 <use literature/ict_in_dev/images/iCountryISProjects(1995-2000).png>
@@ -402,14 +402,14 @@ Chapter 7.
 
 ]
 Chapter 8.
-<empirical/method/images/overviewOfResearchProcess.png, id=91, 422.57875pt x 872.25874pt>
+<empirical/method/images/overviewOfResearchProcess.png, id=94, 422.57875pt x 872.25874pt>
 File: empirical/method/images/overviewOfResearchProcess.png Graphic file (type png)
 
 <use empirical/method/images/overviewOfResearchProcess.png>
 Package pdftex.def Info: empirical/method/images/overviewOfResearchProcess.png used on input line 5.
 (pdftex.def)             Requested size: 206.76233pt x 426.79134pt.
 
-<empirical/method/images/overOrdnetActionMethod.png, id=92, 963.6pt x 722.7pt>
+<empirical/method/images/overOrdnetActionMethod.png, id=95, 963.6pt x 722.7pt>
 File: empirical/method/images/overOrdnetActionMethod.png Graphic file (type png)
 
 <use empirical/method/images/overOrdnetActionMethod.png>
@@ -427,56 +427,265 @@ Package pdftex.def Info: empirical/method/images/overOrdnetActionMethod.png used
 Appendix A.
 [24
 
-] <appendix/requirements/img/req1.png, id=114, 963.6pt x 722.7pt>
-File: appendix/requirements/img/req1.png Graphic file (type png)
- <use appendix/requirements/img/req1.png>
-Package pdftex.def Info: appendix/requirements/img/req1.png used on input line 52.
-(pdftex.def)             Requested size: 390.0pt x 292.4934pt.
+]
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+                             
+l.28 ...raceptive Progestative Distributed & PPD &
+                                                   ? \\
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
 
-<appendix/requirements/img/req2.png, id=115, 963.6pt x 722.7pt>
-File: appendix/requirements/img/req2.png Graphic file (type png)
- <use appendix/requirements/img/req2.png>
-Package pdftex.def Info: appendix/requirements/img/req2.png used on input line 61.
-(pdftex.def)             Requested size: 390.0pt x 292.4934pt.
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+                             
+l.29 ...l Contraceptive Progestative Stock & PPS &
+                                                   ? \\
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
 
-<appendix/requirements/img/req3.png, id=116, 963.6pt x 722.7pt>
-File: appendix/requirements/img/req3.png Graphic file (type png)
- <use appendix/requirements/img/req3.png>
-Package pdftex.def Info: appendix/requirements/img/req3.png used on input line 70.
-(pdftex.def)             Requested size: 390.0pt x 292.4934pt.
- [25] [26 <C:/github/tdt4900/appendix/requirements/img/req1.png>] [27 <C:/github/tdt4900/appendix/requirements/img/req2.
-png>]
-<appendix/requirements/img/req4.png, id=128, 963.6pt x 722.7pt>
-File: appendix/requirements/img/req4.png Graphic file (type png)
- <use appendix/requirements/img/req4.png>
-Package pdftex.def Info: appendix/requirements/img/req4.png used on input line 79.
-(pdftex.def)             Requested size: 390.0pt x 292.4934pt.
-)
-(C:\github\tdt4900\appendix/journal/journal.tex [28 <C:/github/tdt4900/appendix/requirements/img/req3.png>] [29 <C:/gith
-ub/tdt4900/appendix/requirements/img/req4.png>]
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+                             
+l.30 ...Contraceptive Combined Distributed & PCD &
+                                                   ? \\
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+                             
+l.31 4 & Oral Contraceptive Combined Stock & PCS &
+                                                   ? \\
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+                             
+l.32 5 & Condom Distributed & CMD &
+                                    ? \\
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+                             
+l.33 6 & Condom Stock & CMS &
+                              ? \\
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+                             
+l.34 7 & Injectables (DMPA) Distributed & DPD &
+                                                ? \\
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+                             
+l.35 8 & Injectables (DMPA) Stock & DPS &
+                                          ? \\
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+                             
+l.36 9 & Misoprostol Distributed & MPD &
+                                         ? \\
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+                             
+l.37 10 & Misoprostol Stock & MPS &
+                                    ? \\
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+                             
+l.38 11 & Primo Red Distributed & PRD &
+                                        ? \\
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+                             
+l.39 12 & Primo Red Stock & PRS &
+                                  ? \\
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+                             
+l.42 15 & Zinc Distributed & ZND &
+                                   ? \\
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+                             
+l.43 16 & Zinc Stock & ZNS &
+                             ? \\
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+                             
+l.44 17 & ORS Distributed & RSD &
+                                  ? \\
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+                             
+l.45 18 & ORS Stock & RSS &
+                            ? \\
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+                             
+l.46 19 & Amoxicillin Distributed & AMD &
+                                          ? \\
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+                             
+l.47 20 & Amoxicillin Stock & AMS &
+                                    ? \\
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+                             
+l.48 21 & Mebendazole Distributed & MBD &
+                                          ? \\
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+                             
+l.49 22 & Mebendazole Stock & MBS &
+                                    ? \\
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+                             
+l.50 23 & Vitamin A Distributed & VAD &
+                                        ? \\
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+                             
+l.51 24 & Vitamin A Stock & VAS &
+                                  ? \\
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+                             
+l.52 25 & RDT Distributed & RDD &
+                                  ? \\
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+                             
+l.53 26 & RDT Stock & RDS &
+                            ? \\
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+
+Overfull \hbox (408.78749pt too wide) in paragraph at lines 24--56
+\OT1/cmr/m/n/14.4 http://localhost:8080/dhis2/sms/testSMS.action [] 
+ []
+
+) (C:\github\tdt4900\appendix/journal/journal.tex [25]
+Overfull \vbox (345.43329pt too high) has occurred while \output is active []
+
+ [26]
 Appendix B.
-(C:\github\tdt4900\appendix/journal/days/20140303_day_1.tex))) (C:\github\tdt4900\tdt4900.bbl [30
+(C:\github\tdt4900\appendix/journal/days/20140303_day_1.tex) (C:\github\tdt4900\appendix/journal/days/20140304_day_2.tex
+[27
 
-]) [31
+]
+Overfull \hbox (214.235pt too wide) in paragraph at lines 14--22
+[][] 
+ []
+
+) (C:\github\tdt4900\appendix/journal/days/20140305_day_3.tex [28])
+(C:\github\tdt4900\appendix/journal/days/20140306_day_4.tex [29])
+(C:\github\tdt4900\appendix/journal/days/20140307_day_5.tex) (C:\github\tdt4900\appendix/journal/days/20140308_day_6.tex
+[30]) (C:\github\tdt4900\appendix/journal/days/20140309_day_7.tex [31])
+(C:\github\tdt4900\appendix/journal/days/20140310_day_8.tex))) (C:\github\tdt4900\tdt4900.bbl [32]) [33
 
 ]
 (C:\github\tdt4900\tdt4900.aux) ) 
 Here is how much of TeX's memory you used:
- 1529 strings out of 493921
- 22022 string characters out of 3144870
- 72046 words of memory out of 3000000
- 4741 multiletter control sequences out of 15000+200000
+ 1525 strings out of 493921
+ 22214 string characters out of 3144870
+ 76002 words of memory out of 3000000
+ 4721 multiletter control sequences out of 15000+200000
  9761 words of font info for 34 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 27i,6n,20p,492b,290s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 27i,6n,20p,492b,227s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Progra
 m Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public
 /amsfonts/cm/cmr12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files (x8
 6)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/c
 m/cmti12.pfb>
-Output written on tdt4900.pdf (38 pages, 357066 bytes).
+Output written on tdt4900.pdf (41 pages, 246143 bytes).
 PDF statistics:
- 167 PDF objects out of 1000 (max. 8388607)
+ 168 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 41 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 21 words of extra memory for PDF output out of 10000 (max. 10000000)
 
