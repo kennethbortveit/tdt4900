@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.9.13)  10 MAR 2014 10:55
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.9.13)  31 MAR 2014 08:49
 entering extended mode
 **tdt4900.tex
 (C:\github\tdt4900\tdt4900.tex
@@ -274,7 +274,9 @@ Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 ))
 \Gin@req@height=\dimen103
 \Gin@req@width=\dimen104
-) (C:\github\tdt4900\tdt4900.aux)
+) (C:\github\tdt4900\tdt4900.aux
+(C:\github\tdt4900\empirical/method/strategy/strategy.aux) (C:\github\tdt4900\empirical/method/data/data.aux)
+(C:\github\tdt4900\empirical/method/analysis/analysis.aux))
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 7.
 LaTeX Font Info:    ... okay on input line 7.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 7.
@@ -318,16 +320,16 @@ LaTeX Font Info:    External font `cmex10' loaded for size
  [1
 
 ] [2]
-[3])
+[3] [4])
 \tf@toc=\write3
- [4] (C:\github\tdt4900\tdt4900.lof)
+ [5] (C:\github\tdt4900\tdt4900.lof)
 \tf@lof=\write4
- [5
+ [6
 
 ] (C:\github\tdt4900\tdt4900.lot)
 \tf@lot=\write5
- (C:\github\tdt4900\abstract/abstract.tex
-[6
+
+(C:\github\tdt4900\abstract/abstract.tex [7
 
 ] [1]) (C:\github\tdt4900\introduction/introduction.tex
 Chapter 1.
@@ -335,20 +337,16 @@ Chapter 1.
 
 ]) (C:\github\tdt4900\literature/literature.tex [2] [3
 
-] (C:\github\tdt4900\literature/ehealth/ehealth.tex
+] (C:\github\tdt4900\literature/ict_in_dev/ict_in_dev.tex
 Chapter 2.
-) (C:\github\tdt4900\literature/ict_in_dev/ict_in_dev.tex [4
-
-]
-Chapter 3.
 
 Overfull \hbox (2.91518pt too wide) in paragraph at lines 24--29
 \OT1/cmr/m/n/14.4 pro-vide no ba-sis for es-ti-ma-tion of over-all fail-ure/success
  []
 
-[5
+[4
 
-] [6]
+] [5]
 Overfull \hbox (6.06859pt too wide) in paragraph at lines 52--55
 \OT1/cmr/m/n/14.4 What hap-pens when the AID funded projects stops be-ing funded?
  []
@@ -364,7 +362,7 @@ File: literature/ict_in_dev/images/contextIctProblem.png Graphic file (type png)
 <use literature/ict_in_dev/images/contextIctProblem.png>
 Package pdftex.def Info: literature/ict_in_dev/images/contextIctProblem.png used on input line 71.
 (pdftex.def)             Requested size: 390.0pt x 216.06326pt.
- [7]
+ [6]
 <literature/ict_in_dev/images/iCountryISProjects(1995-2000).png, id=54, 963.6pt x 722.7pt>
 File: literature/ict_in_dev/images/iCountryISProjects(1995-2000).png Graphic file (type png)
 
@@ -374,9 +372,13 @@ Package pdftex.def Info: literature/ict_in_dev/images/iCountryISProjects(1995-20
 
 Overfull \vbox (10.8566pt too high) has occurred while \output is active []
 
- [8 <C:/github/tdt4900/literature/ict_in_dev/images/contextIctProblem.png>] [9 <C:/github/tdt4900/literature/ict_in_dev/
+ [7 <C:/github/tdt4900/literature/ict_in_dev/images/contextIctProblem.png>] [8 <C:/github/tdt4900/literature/ict_in_dev/
 images/iCountryISProjects(1995-2000).png>]
-[10] [11]) (C:\github\tdt4900\literature/implement/implement.tex [12]
+[9] [10]) (C:\github\tdt4900\literature/ehealth/ehealth.tex [11]
+Chapter 3.
+) (C:\github\tdt4900\literature/implement/implement.tex [12
+
+]
 Chapter 4.
 [13
 
@@ -396,296 +398,111 @@ Chapter 6.
 
 ] [17
 
-] (C:\github\tdt4900\empirical/case/case.tex
+] (C:\github\tdt4900\empirical/method/method.tex
 Chapter 7.
-) (C:\github\tdt4900\empirical/method/method.tex [18
-
-]
-Chapter 8.
 <empirical/method/images/overviewOfResearchProcess.png, id=94, 422.57875pt x 872.25874pt>
 File: empirical/method/images/overviewOfResearchProcess.png Graphic file (type png)
 
 <use empirical/method/images/overviewOfResearchProcess.png>
 Package pdftex.def Info: empirical/method/images/overviewOfResearchProcess.png used on input line 5.
 (pdftex.def)             Requested size: 206.76233pt x 426.79134pt.
+ [18
 
-<empirical/method/images/overOrdnetActionMethod.png, id=95, 963.6pt x 722.7pt>
+] [19 <C:/github/tdt4900/empirical/method/images/overviewOfResearchProcess.png>] (C:\github\tdt4900\empirical/method/str
+ategy/strategy.tex
+<empirical/method/images/overOrdnetActionMethod.png, id=102, 963.6pt x 722.7pt>
 File: empirical/method/images/overOrdnetActionMethod.png Graphic file (type png)
 
 <use empirical/method/images/overOrdnetActionMethod.png>
-Package pdftex.def Info: empirical/method/images/overOrdnetActionMethod.png used on input line 12.
+Package pdftex.def Info: empirical/method/images/overOrdnetActionMethod.png used on input line 4.
 (pdftex.def)             Requested size: 369.88582pt x 277.40778pt.
-)) (C:\github\tdt4900\discussion/discussion.tex [19
+) [20
 
-] [20 <C:/github/tdt4900/empirical/method/images/overviewOfResearchProcess.png>] [21 <C:/github/tdt4900/empirical/method
-/images/overOrdnetActionMethod.png>] [22
+ <C:/github/tdt4900/empirical/method/images/overOrdnetActionMethod.png>] (C:\github\tdt4900\empirical/method/data/data.t
+ex) [21
 
-]) (C:\github\tdt4900\conclusion/conclusion.tex [23
+
+]
+(C:\github\tdt4900\empirical/method/analysis/analysis.tex) [22
+
+
+]) (C:\github\tdt4900\empirical/case/case.tex
+Chapter 8.
+)) (C:\github\tdt4900\discussion/discussion.tex [23
+
+
+] [24
+
+]) (C:\github\tdt4900\conclusion/conclusion.tex [25
 
 ])
 (C:\github\tdt4900\appendix/appendix.tex (C:\github\tdt4900\appendix/requirements/requirements.tex
 Appendix A.
-[24
+[26
 
 ]
-! Extra alignment tab has been changed to \cr.
-<recently read> \endtemplate 
-                             
-l.28 ...raceptive Progestative Distributed & PPD &
-                                                   ? \\
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-! Extra alignment tab has been changed to \cr.
-<recently read> \endtemplate 
-                             
-l.29 ...l Contraceptive Progestative Stock & PPS &
-                                                   ? \\
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-! Extra alignment tab has been changed to \cr.
-<recently read> \endtemplate 
-                             
-l.30 ...Contraceptive Combined Distributed & PCD &
-                                                   ? \\
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-! Extra alignment tab has been changed to \cr.
-<recently read> \endtemplate 
-                             
-l.31 4 & Oral Contraceptive Combined Stock & PCS &
-                                                   ? \\
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-! Extra alignment tab has been changed to \cr.
-<recently read> \endtemplate 
-                             
-l.32 5 & Condom Distributed & CMD &
-                                    ? \\
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-! Extra alignment tab has been changed to \cr.
-<recently read> \endtemplate 
-                             
-l.33 6 & Condom Stock & CMS &
-                              ? \\
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-! Extra alignment tab has been changed to \cr.
-<recently read> \endtemplate 
-                             
-l.34 7 & Injectables (DMPA) Distributed & DPD &
-                                                ? \\
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-! Extra alignment tab has been changed to \cr.
-<recently read> \endtemplate 
-                             
-l.35 8 & Injectables (DMPA) Stock & DPS &
-                                          ? \\
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-! Extra alignment tab has been changed to \cr.
-<recently read> \endtemplate 
-                             
-l.36 9 & Misoprostol Distributed & MPD &
-                                         ? \\
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-! Extra alignment tab has been changed to \cr.
-<recently read> \endtemplate 
-                             
-l.37 10 & Misoprostol Stock & MPS &
-                                    ? \\
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-! Extra alignment tab has been changed to \cr.
-<recently read> \endtemplate 
-                             
-l.38 11 & Primo Red Distributed & PRD &
-                                        ? \\
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-! Extra alignment tab has been changed to \cr.
-<recently read> \endtemplate 
-                             
-l.39 12 & Primo Red Stock & PRS &
-                                  ? \\
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-! Extra alignment tab has been changed to \cr.
-<recently read> \endtemplate 
-                             
-l.42 15 & Zinc Distributed & ZND &
-                                   ? \\
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-! Extra alignment tab has been changed to \cr.
-<recently read> \endtemplate 
-                             
-l.43 16 & Zinc Stock & ZNS &
-                             ? \\
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-! Extra alignment tab has been changed to \cr.
-<recently read> \endtemplate 
-                             
-l.44 17 & ORS Distributed & RSD &
-                                  ? \\
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-! Extra alignment tab has been changed to \cr.
-<recently read> \endtemplate 
-                             
-l.45 18 & ORS Stock & RSS &
-                            ? \\
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-! Extra alignment tab has been changed to \cr.
-<recently read> \endtemplate 
-                             
-l.46 19 & Amoxicillin Distributed & AMD &
-                                          ? \\
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-! Extra alignment tab has been changed to \cr.
-<recently read> \endtemplate 
-                             
-l.47 20 & Amoxicillin Stock & AMS &
-                                    ? \\
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-! Extra alignment tab has been changed to \cr.
-<recently read> \endtemplate 
-                             
-l.48 21 & Mebendazole Distributed & MBD &
-                                          ? \\
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-! Extra alignment tab has been changed to \cr.
-<recently read> \endtemplate 
-                             
-l.49 22 & Mebendazole Stock & MBS &
-                                    ? \\
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-! Extra alignment tab has been changed to \cr.
-<recently read> \endtemplate 
-                             
-l.50 23 & Vitamin A Distributed & VAD &
-                                        ? \\
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-! Extra alignment tab has been changed to \cr.
-<recently read> \endtemplate 
-                             
-l.51 24 & Vitamin A Stock & VAS &
-                                  ? \\
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-! Extra alignment tab has been changed to \cr.
-<recently read> \endtemplate 
-                             
-l.52 25 & RDT Distributed & RDD &
-                                  ? \\
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-! Extra alignment tab has been changed to \cr.
-<recently read> \endtemplate 
-                             
-l.53 26 & RDT Stock & RDS &
-                            ? \\
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-
-Overfull \hbox (408.78749pt too wide) in paragraph at lines 24--56
+Overfull \hbox (427.44574pt too wide) in paragraph at lines 24--56
 \OT1/cmr/m/n/14.4 http://localhost:8080/dhis2/sms/testSMS.action [] 
  []
 
-) (C:\github\tdt4900\appendix/journal/journal.tex [25]
-Overfull \vbox (345.43329pt too high) has occurred while \output is active []
-
- [26]
+) (C:\github\tdt4900\appendix/rights/rights.tex [27]) (C:\github\tdt4900\appendix/interviews/interviews.tex [28]
+[29]
 Appendix B.
+(C:\github\tdt4900\appendix/interviews/diagnosis/diagnosis.tex)) (C:\github\tdt4900\appendix/journal/journal.tex
+[30
+
+]
+Appendix C.
 (C:\github\tdt4900\appendix/journal/days/20140303_day_1.tex) (C:\github\tdt4900\appendix/journal/days/20140304_day_2.tex
-[27
+[31
 
 ]
 Overfull \hbox (214.235pt too wide) in paragraph at lines 14--22
 [][] 
  []
 
-) (C:\github\tdt4900\appendix/journal/days/20140305_day_3.tex [28])
-(C:\github\tdt4900\appendix/journal/days/20140306_day_4.tex [29])
+) (C:\github\tdt4900\appendix/journal/days/20140305_day_3.tex [32])
+(C:\github\tdt4900\appendix/journal/days/20140306_day_4.tex [33])
 (C:\github\tdt4900\appendix/journal/days/20140307_day_5.tex) (C:\github\tdt4900\appendix/journal/days/20140308_day_6.tex
-[30]) (C:\github\tdt4900\appendix/journal/days/20140309_day_7.tex [31])
-(C:\github\tdt4900\appendix/journal/days/20140310_day_8.tex))) (C:\github\tdt4900\tdt4900.bbl [32]) [33
+[34]) (C:\github\tdt4900\appendix/journal/days/20140309_day_7.tex [35])
+(C:\github\tdt4900\appendix/journal/days/20140310_day_8.tex) (C:\github\tdt4900\appendix/journal/days/20140311_day_9.tex
+) (C:\github\tdt4900\appendix/journal/days/20140312_day_10.tex [36]
+Overfull \hbox (13.48993pt too wide) in paragraph at lines 3--6
+\OT1/cmr/m/n/14.4 en re-sult should be some-thing enu-mer-ated list with all the specifics.
+ []
+
+) (C:\github\tdt4900\appendix/journal/days/20140313_day_11.tex)
+(C:\github\tdt4900\appendix/journal/days/20140314_day_12.tex [37])
+(C:\github\tdt4900\appendix/journal/days/20140315_day_13.tex)
+(C:\github\tdt4900\appendix/journal/days/20140316_day_14.tex [38])
+(C:\github\tdt4900\appendix/journal/days/20140317_day_15.tex [39])
+(C:\github\tdt4900\appendix/journal/days/20140318_day_16.tex [40])
+(C:\github\tdt4900\appendix/journal/days/20140319_day_17.tex [41]
+Overfull \hbox (3.92844pt too wide) in paragraph at lines 20--22
+[]\OT1/cmr/m/n/14.4 It would be ben-e-fi-cial if the team had a spe-cial-ist on databases.
+ []
+
+[42]) (C:\github\tdt4900\appendix/journal/days/20140320_day_18.tex))) (C:\github\tdt4900\tdt4900.bbl [43]) [44
 
 ]
-(C:\github\tdt4900\tdt4900.aux) ) 
+(C:\github\tdt4900\tdt4900.aux (C:\github\tdt4900\empirical/method/strategy/strategy.aux)
+(C:\github\tdt4900\empirical/method/data/data.aux) (C:\github\tdt4900\empirical/method/analysis/analysis.aux)) ) 
 Here is how much of TeX's memory you used:
- 1525 strings out of 493921
- 22214 string characters out of 3144870
- 76002 words of memory out of 3000000
- 4721 multiletter control sequences out of 15000+200000
+ 1601 strings out of 493921
+ 25369 string characters out of 3144870
+ 75754 words of memory out of 3000000
+ 4725 multiletter control sequences out of 15000+200000
  9761 words of font info for 34 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
  27i,6n,20p,492b,227s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Progra
-m Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public
-/amsfonts/cm/cmr12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files (x8
-6)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/c
-m/cmti12.pfb>
-Output written on tdt4900.pdf (41 pages, 246143 bytes).
+<C:/Prog
+ram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/publ
+ic/amsfonts/cm/cmmi12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files 
+(x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts
+/cm/cmsy10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on tdt4900.pdf (53 pages, 264916 bytes).
 PDF statistics:
- 168 PDF objects out of 1000 (max. 8388607)
+ 206 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  21 words of extra memory for PDF output out of 10000 (max. 10000000)
 
