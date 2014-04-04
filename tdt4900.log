@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.9.13)  31 MAR 2014 08:49
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.9.13)  31 MAR 2014 13:30
 entering extended mode
 **tdt4900.tex
 (C:\github\tdt4900\tdt4900.tex
@@ -277,18 +277,18 @@ Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 ) (C:\github\tdt4900\tdt4900.aux
 (C:\github\tdt4900\empirical/method/strategy/strategy.aux) (C:\github\tdt4900\empirical/method/data/data.aux)
 (C:\github\tdt4900\empirical/method/analysis/analysis.aux))
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
 
 (C:\Users\Kenneth\AppData\Roaming\MiKTeX\2.9\tex\context\base\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -305,9 +305,9 @@ LaTeX Font Info:    ... okay on input line 7.
 \everyMPtoPDFconversion=\toks18
 )
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <14.4> on input line 8.
+(Font)              <14.4> on input line 10.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 8.
+(Font)              <7> on input line 10.
  [1
 
 {C:/Users/Kenneth/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] (C:\github\tdt4900\tdt4900.toc
@@ -482,14 +482,25 @@ Overfull \hbox (3.92844pt too wide) in paragraph at lines 20--22
 []\OT1/cmr/m/n/14.4 It would be ben-e-fi-cial if the team had a spe-cial-ist on databases.
  []
 
-[42]) (C:\github\tdt4900\appendix/journal/days/20140320_day_18.tex))) (C:\github\tdt4900\tdt4900.bbl [43]) [44
+[42]) (C:\github\tdt4900\appendix/journal/days/20140320_day_18.tex)
+(C:\github\tdt4900\appendix/journal/days/20140321_day_19.tex [43])
+(C:\github\tdt4900\appendix/journal/days/20140322_day_20.tex)
+(C:\github\tdt4900\appendix/journal/days/20140323_day_21.tex)
+(C:\github\tdt4900\appendix/journal/days/20140324_day_22.tex [44])
+(C:\github\tdt4900\appendix/journal/days/20140325_day_23.tex)
+(C:\github\tdt4900\appendix/journal/days/20140326_day_24.tex [45])
+(C:\github\tdt4900\appendix/journal/days/20140327_day_25.tex [46])
+(C:\github\tdt4900\appendix/journal/days/20140328_day_26.tex [47])
+(C:\github\tdt4900\appendix/journal/days/20140329_day_27.tex [48])
+(C:\github\tdt4900\appendix/journal/days/20140330_day_28.tex [49])
+(C:\github\tdt4900\appendix/journal/days/20140331_day_29.tex))) (C:\github\tdt4900\tdt4900.bbl [50]) [51
 
 ]
 (C:\github\tdt4900\tdt4900.aux (C:\github\tdt4900\empirical/method/strategy/strategy.aux)
 (C:\github\tdt4900\empirical/method/data/data.aux) (C:\github\tdt4900\empirical/method/analysis/analysis.aux)) ) 
 Here is how much of TeX's memory you used:
- 1601 strings out of 493921
- 25369 string characters out of 3144870
+ 1634 strings out of 493921
+ 26832 string characters out of 3144870
  75754 words of memory out of 3000000
  4725 multiletter control sequences out of 15000+200000
  9761 words of font info for 34 fonts, out of 3000000 for 9000
@@ -500,9 +511,9 @@ ram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program
 ic/amsfonts/cm/cmmi12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files 
 (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts
 /cm/cmsy10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on tdt4900.pdf (53 pages, 264916 bytes).
+Output written on tdt4900.pdf (60 pages, 276381 bytes).
 PDF statistics:
- 206 PDF objects out of 1000 (max. 8388607)
+ 228 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  21 words of extra memory for PDF output out of 10000 (max. 10000000)
 

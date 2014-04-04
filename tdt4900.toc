@@ -157,3 +157,35 @@
 \contentsline {subsection}{\numberline {C.18.2}Importing Users with Postgres}{43}
 \contentsline {subsection}{\numberline {C.18.3}Generating passwords}{43}
 \contentsline {subsection}{\numberline {C.18.4}Made the Password App}{43}
+\contentsline {section}{\numberline {C.19}Day 19}{44}
+\contentsline {subsection}{\numberline {C.19.1}Before lunch}{44}
+\contentsline {section}{\numberline {C.20}Day 20}{44}
+\contentsline {subsection}{\numberline {C.20.1}Going to the mall}{44}
+\contentsline {section}{\numberline {C.21}Day 21}{44}
+\contentsline {subsection}{\numberline {C.21.1}Havanna}{44}
+\contentsline {section}{\numberline {C.22}Day 22}{45}
+\contentsline {subsection}{\numberline {C.22.1}Before lunch}{45}
+\contentsline {section}{\numberline {C.23}Day 23}{45}
+\contentsline {subsection}{\numberline {C.23.1}In the AM}{45}
+\contentsline {subsection}{\numberline {C.23.2}DHIS2 interoperability MEMMS}{45}
+\contentsline {subsection}{\numberline {C.23.3}Proposed meeting}{45}
+\contentsline {section}{\numberline {C.24}Day 24}{46}
+\contentsline {subsection}{\numberline {C.24.1}Good Morning}{46}
+\contentsline {section}{\numberline {C.25}Day 25}{46}
+\contentsline {subsection}{\numberline {C.25.1}VISA}{47}
+\contentsline {subsection}{\numberline {C.25.2}For my masters}{47}
+\contentsline {section}{\numberline {C.26}Day 26}{47}
+\contentsline {subsection}{\numberline {C.26.1}Email brief}{48}
+\contentsline {section}{\numberline {C.27}Day 27}{48}
+\contentsline {subsection}{\numberline {C.27.1}Chimps}{49}
+\contentsline {subsection}{\numberline {C.27.2}Kanalope walk}{49}
+\contentsline {subsection}{\numberline {C.27.3}Dinner}{49}
+\contentsline {section}{\numberline {C.28}Day 28}{49}
+\contentsline {subsection}{\numberline {C.28.1}Breakfast}{49}
+\contentsline {subsection}{\numberline {C.28.2}Car drive}{49}
+\contentsline {subsection}{\numberline {C.28.3}Museum in the old capital}{50}
+\contentsline {subsection}{\numberline {C.28.4}Meeting Borah}{50}
+\contentsline {subsection}{\numberline {C.28.5}Sunburn}{50}
+\contentsline {section}{\numberline {C.29}Day 29}{50}
+\contentsline {subsection}{\numberline {C.29.1}Good morning}{50}
+\contentsline {subsection}{\numberline {C.29.2}Just got lunch}{50}
