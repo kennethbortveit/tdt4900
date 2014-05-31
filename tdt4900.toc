@@ -1,0 +1,55 @@
+\contentsline {chapter}{\numberline {1}Introduction}{6}{chapter.1}
+\contentsline {section}{\numberline {1.1}Philosophy}{6}{section.1.1}
+\contentsline {section}{\numberline {1.2}Purpose}{6}{section.1.2}
+\contentsline {section}{\numberline {1.3}Products of this research}{7}{section.1.3}
+\contentsline {section}{\numberline {1.4}Research Questions}{7}{section.1.4}
+\contentsline {section}{\numberline {1.5}Background}{8}{section.1.5}
+\contentsline {section}{\numberline {1.6}Motivation}{8}{section.1.6}
+\contentsline {chapter}{\numberline {2}Literature Review}{9}{chapter.2}
+\contentsline {section}{\numberline {2.1}Information and Communication Technologies in Developing Countries}{9}{section.2.1}
+\contentsline {chapter}{\numberline {3}Case Context}{10}{chapter.3}
+\contentsline {section}{\numberline {3.1}Brief History}{11}{section.3.1}
+\contentsline {section}{\numberline {3.2}More Recent}{12}{section.3.2}
+\contentsline {section}{\numberline {3.3}Health Information System Programme}{12}{section.3.3}
+\contentsline {subsection}{\numberline {3.3.1}HISP Strategy}{13}{subsection.3.3.1}
+\contentsline {section}{\numberline {3.4}District Health Information System}{15}{section.3.4}
+\contentsline {subsection}{\numberline {3.4.1}Gathering}{16}{subsection.3.4.1}
+\contentsline {subsection}{\numberline {3.4.2}Managing}{18}{subsection.3.4.2}
+\contentsline {subsection}{\numberline {3.4.3}Presenting}{20}{subsection.3.4.3}
+\contentsline {subsection}{\numberline {3.4.4}Application Development}{21}{subsection.3.4.4}
+\contentsline {section}{\numberline {3.5}Administrative Structure}{21}{section.3.5}
+\contentsline {section}{\numberline {3.6}Health Management Information System in Rwanda}{26}{section.3.6}
+\contentsline {section}{\numberline {3.7}Ministry of Health}{26}{section.3.7}
+\contentsline {section}{\numberline {3.8}Community Health Desk}{26}{section.3.8}
+\contentsline {subsection}{\numberline {3.8.1}Community Health Workers in Rwanda}{26}{subsection.3.8.1}
+\contentsline {section}{\numberline {3.9}Cell Coordinators}{27}{section.3.9}
+\contentsline {chapter}{\numberline {4}Research Methodology}{29}{chapter.4}
+\contentsline {section}{\numberline {4.1}Action Research}{29}{section.4.1}
+\contentsline {section}{\numberline {4.2}Diagnosis}{29}{section.4.2}
+\contentsline {subsection}{\numberline {4.2.1}Situation Report}{29}{subsection.4.2.1}
+\contentsline {section}{\numberline {4.3}Planning}{30}{section.4.3}
+\contentsline {section}{\numberline {4.4}Intervention}{30}{section.4.4}
+\contentsline {subsection}{\numberline {4.4.1}Use Cases}{30}{subsection.4.4.1}
+\contentsline {subsection}{\numberline {4.4.2}Configuring DHIS2}{30}{subsection.4.4.2}
+\contentsline {subsection}{\numberline {4.4.3}Algorithm}{30}{subsection.4.4.3}
+\contentsline {subsection}{\numberline {4.4.4}User Importer}{30}{subsection.4.4.4}
+\contentsline {subsection}{\numberline {4.4.5}The Essential Predictore}{30}{subsection.4.4.5}
+\contentsline {section}{\numberline {4.5}Evaluation}{30}{section.4.5}
+\contentsline {subsection}{\numberline {4.5.1}SMS demo}{30}{subsection.4.5.1}
+\contentsline {subsection}{\numberline {4.5.2}Algorithm Presentation}{30}{subsection.4.5.2}
+\contentsline {subsection}{\numberline {4.5.3}Situation Report}{30}{subsection.4.5.3}
+\contentsline {section}{\numberline {4.6}Reflection}{30}{section.4.6}
+\contentsline {chapter}{\numberline {5}Case}{31}{chapter.5}
+\contentsline {section}{\numberline {5.1}Situation Report}{31}{section.5.1}
+\contentsline {section}{\numberline {5.2}Diagnosis}{31}{section.5.2}
+\contentsline {subsection}{\numberline {5.2.1}Objectives}{31}{subsection.5.2.1}
+\contentsline {subsection}{\numberline {5.2.2}Use Cases}{32}{subsection.5.2.2}
+\contentsline {section}{\numberline {5.3}Planning}{35}{section.5.3}
+\contentsline {section}{\numberline {5.4}Intervention}{37}{section.5.4}
+\contentsline {subsection}{\numberline {5.4.1}Setting up the Test Environment}{37}{subsection.5.4.1}
+\contentsline {subsection}{\numberline {5.4.2}Setting up the mobile instance}{37}{subsection.5.4.2}
+\contentsline {subsection}{\numberline {5.4.3}User Importer}{38}{subsection.5.4.3}
+\contentsline {subsection}{\numberline {5.4.4}Re-Supply Algorithm}{38}{subsection.5.4.4}
+\contentsline {subsection}{\numberline {5.4.5}The Essential Predictore}{41}{subsection.5.4.5}
+\contentsline {chapter}{\numberline {6}Discussion Of Results}{43}{chapter.6}
+\contentsline {chapter}{\numberline {7}Conclusions}{44}{chapter.7}

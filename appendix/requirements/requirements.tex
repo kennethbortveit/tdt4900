@@ -1,0 +1,56 @@
+\chapter{Requirements Document}
+\section{The real deal is somewhere else!}
+\section{Context}
+This requirements document is for setting up a environment for a SMS based reporting system with the DHIS2. The system should be able to support these four use cases.
+
+\begin{enumerate}
+	\item The users will be able to receive automated SMS and email notifications based on rules that compare database values.
+	\item The users will be able to receive an automated reminder if a report is more than 4 days delayed.
+	\item The users will be provided with a predefined format for reporting.
+	\item If the user reports values that does not get processed, then he/she will receive a notification of what has happened and directions for necessary steps in order to complete the report.
+\end{enumerate} 
+
+\section{Setting up Testing Environment}
+
+\subsection{Testing without phone}
+\subsubsection{Operating System}
+\subsubsection{Tomcat}
+\subsubsection{DHIS2}
+The hierarchy has to be at a village level. This is the level we want to be reporting on.
+\subsubsection{Postgres}
+\subsubsection{Dataelements}
+When creating data elements we store the zero values.
+\subsubsection{Testing Script}
+http://localhost:8080/dhis2/sms/testSMS.action
+\begin{tabular}{|c|c|c|c|}
+\hline
+\textbf{Number} \textbf{Name} & \textbf{SMS code} & \textbf{Description} \\
+1 & Oral Contraceptive Progestative Distributed & PPD & ? \\
+2 & Oral Contraceptive Progestative Stock & PPS & ? \\
+3 & Oral Contraceptive Combined Distributed & PCD & ? \\
+4 & Oral Contraceptive Combined Stock & PCS & ? \\
+5 & Condom Distributed & CMD & ? \\
+6 & Condom Stock & CMS & ? \\
+7 & Injectables (DMPA) Distributed & DPD & ? \\
+8 & Injectables (DMPA) Stock & DPS & ? \\
+9 & Misoprostol Distributed & MPD & ? \\
+10 & Misoprostol Stock & MPS & ? \\
+11 & Primo Red Distributed & PRD & ? \\
+12 & Primo Red Stock & PRS & ? \\
+13 & Primo Yellow Distributed & PYD & ? \\
+14 & Primo Yellow Stock & PYS & ? \\ 
+15 & Zinc Distributed & ZND & ? \\
+16 & Zinc Stock & ZNS & ? \\
+17 & ORS Distributed & RSD & ? \\
+18 & ORS Stock & RSS & ? \\
+19 & Amoxicillin Distributed & AMD & ? \\
+20 & Amoxicillin Stock & AMS & ? \\
+21 & Mebendazole Distributed & MBD & ? \\
+22 & Mebendazole Stock & MBS & ? \\
+23 & Vitamin A Distributed & VAD & ? \\
+24 & Vitamin A Stock & VAS & ? \\
+25 & RDT Distributed & RDD & ? \\
+26 & RDT Stock & RDS & ? \\
+\hline
+\end{tabular}
+
