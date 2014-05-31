@@ -2,27 +2,40 @@
 
 \usepackage[utf8]{inputenc}
 \usepackage{graphicx}
+\usepackage{glossaries}
+\usepackage{hyperref}
+\usepackage{multirow}
 
+\makeglossaries
 \title{TDT4900}
 \author{Kenneth Børtveit}
 
 \begin{document}
-\maketitle
+
+\hypersetup{pageanchor=false}
+
+\input{title/title}
+\input{abstract/abstract}
+\input{acknowledgments/acknowledgments}
+\input{keywords/keywords}
+
+\hypersetup{pageanchor=true}
 
 \tableofcontents
-
 \listoffigures
-
 \listoftables
+\input{glossaries/glossaries}
 
-\input{abstract/abstract}
 \input{introduction/introduction}
 \input{literature/literature}
-\input{empirical/empirical}
+\input{context/context}
+\input{method/method}
+\input{case/case}
 \input{discussion/discussion}
-\input{conclusion/conclusion}
-\input{appendix/appendix}
+\input{conclusions/conclusions}
+
 
 \bibliography{tdt4900}
 \bibliographystyle{plain}
+%\input{appendix/appendix}
 \end{document}

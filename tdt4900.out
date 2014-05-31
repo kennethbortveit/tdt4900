@@ -1,0 +1,50 @@
+\BOOKMARK [0][-]{chapter.1}{Introduction}{}% 1
+\BOOKMARK [1][-]{section.1.1}{Philosophy}{chapter.1}% 2
+\BOOKMARK [1][-]{section.1.2}{Purpose}{chapter.1}% 3
+\BOOKMARK [1][-]{section.1.3}{Products of this research}{chapter.1}% 4
+\BOOKMARK [1][-]{section.1.4}{Research Questions}{chapter.1}% 5
+\BOOKMARK [1][-]{section.1.5}{Background}{chapter.1}% 6
+\BOOKMARK [1][-]{section.1.6}{Motivation}{chapter.1}% 7
+\BOOKMARK [0][-]{chapter.2}{Literature Review}{}% 8
+\BOOKMARK [1][-]{section.2.1}{Information and Communication Technologies in Developing Countries}{chapter.2}% 9
+\BOOKMARK [0][-]{chapter.3}{Case Context}{}% 10
+\BOOKMARK [1][-]{section.3.1}{Brief History}{chapter.3}% 11
+\BOOKMARK [1][-]{section.3.2}{More Recent}{chapter.3}% 12
+\BOOKMARK [1][-]{section.3.3}{Health Information System Programme}{chapter.3}% 13
+\BOOKMARK [2][-]{subsection.3.3.1}{HISP Strategy}{section.3.3}% 14
+\BOOKMARK [1][-]{section.3.4}{District Health Information System}{chapter.3}% 15
+\BOOKMARK [2][-]{subsection.3.4.1}{Gathering}{section.3.4}% 16
+\BOOKMARK [2][-]{subsection.3.4.2}{Managing}{section.3.4}% 17
+\BOOKMARK [2][-]{subsection.3.4.3}{Presenting}{section.3.4}% 18
+\BOOKMARK [2][-]{subsection.3.4.4}{Application Development}{section.3.4}% 19
+\BOOKMARK [1][-]{section.3.5}{Administrative Structure}{chapter.3}% 20
+\BOOKMARK [1][-]{section.3.6}{Health Management Information System in Rwanda}{chapter.3}% 21
+\BOOKMARK [1][-]{section.3.7}{Ministry of Health}{chapter.3}% 22
+\BOOKMARK [1][-]{section.3.8}{Community Health Desk}{chapter.3}% 23
+\BOOKMARK [2][-]{subsection.3.8.1}{Community Health Workers in Rwanda}{section.3.8}% 24
+\BOOKMARK [1][-]{section.3.9}{Cell Coordinators}{chapter.3}% 25
+\BOOKMARK [0][-]{chapter.4}{Research Methodology}{}% 26
+\BOOKMARK [1][-]{section.4.1}{Action Research}{chapter.4}% 27
+\BOOKMARK [1][-]{section.4.2}{Diagnosis}{chapter.4}% 28
+\BOOKMARK [2][-]{subsection.4.2.1}{Situation Report}{section.4.2}% 29
+\BOOKMARK [1][-]{section.4.3}{Planning}{chapter.4}% 30
+\BOOKMARK [1][-]{section.4.4}{Intervention}{chapter.4}% 31
+\BOOKMARK [2][-]{subsection.4.4.1}{Use Cases}{section.4.4}% 32
+\BOOKMARK [2][-]{subsection.4.4.2}{Configuring DHIS2}{section.4.4}% 33
+\BOOKMARK [2][-]{subsection.4.4.3}{Algorithm}{section.4.4}% 34
+\BOOKMARK [2][-]{subsection.4.4.4}{User Importer}{section.4.4}% 35
+\BOOKMARK [2][-]{subsection.4.4.5}{The Essential Predictore}{section.4.4}% 36
+\BOOKMARK [1][-]{section.4.5}{Evaluation}{chapter.4}% 37
+\BOOKMARK [2][-]{subsection.4.5.1}{SMS demo}{section.4.5}% 38
+\BOOKMARK [2][-]{subsection.4.5.2}{Algorithm Presentation}{section.4.5}% 39
+\BOOKMARK [2][-]{subsection.4.5.3}{Situation Report}{section.4.5}% 40
+\BOOKMARK [1][-]{section.4.6}{Reflection}{chapter.4}% 41
+\BOOKMARK [0][-]{chapter.5}{Case}{}% 42
+\BOOKMARK [1][-]{section.5.1}{Situation Report}{chapter.5}% 43
+\BOOKMARK [1][-]{section.5.2}{Diagnosis}{chapter.5}% 44
+\BOOKMARK [2][-]{subsection.5.2.1}{Objectives}{section.5.2}% 45
+\BOOKMARK [2][-]{subsection.5.2.2}{Use Cases}{section.5.2}% 46
+\BOOKMARK [2][-]{subsection.5.2.3}{Planning}{section.5.2}% 47
+\BOOKMARK [2][-]{subsection.5.2.4}{Re-Supply Algorithm}{section.5.2}% 48
+\BOOKMARK [0][-]{chapter.6}{Discussion Of Results}{}% 49
+\BOOKMARK [0][-]{chapter.7}{Conclusions}{}% 50
