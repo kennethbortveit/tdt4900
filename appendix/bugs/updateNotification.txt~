@@ -1,2 +1,0 @@
-When DHIS2 reimports a SMS the 'update success' does not appear unless some
-clicking has taken place. Seems like it is triggered by a mouse event.
