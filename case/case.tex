@@ -18,10 +18,17 @@ The overall objective off all parties involved in this case was to configure and
 We started out with four simple objectives. 
 
 \begin{description}
+<<<<<<< HEAD
 \item[\#1:] Send SMS and email notifications based on rules.
 \item[\#2:] Send SMS and email reminder if a report is more than 4 days delayed.
 \item[\#3:] If user data does not map correctly user feedback should be provided.
 \item[\#4:] A functional SMS based reporting system.
+=======
+\item[\#1] Send SMS and email notifications based on rules.
+\item[\#2] Send SMS and email reminder if a report is more than 4 days delayed.
+\item[\#3] If user data does not map correctly user feedback should be provided.
+\item[\#4] A functional SMS based reporting system.
+>>>>>>> 67309e5eaf802120ae711c557522bece188d36aa
 \end{description}
 
 This was the basis for our case.
@@ -136,6 +143,7 @@ This was the basis for our case.
 
 Based on the four objectives we made four use cases that was supposed to represent each one. Objective \#1 would be represented with use case \ref{tab:notifications}, objective \#2 with \ref{tab:reminders}, \#3 with \ref{tab:feedback} and \#4 with \ref{tab:smsreport}. These use cases worked as guidelines for our further work. They were not updated later on, because of the continuous updated requirements from \gls{chd} and other co-workers. That is one of the key characterizations of this project. The requirements kept on updating as more and more people got involved in the process. The more progress we made the less progress we made. As the project was coming more and more realized, more interest were made to the project, and more requirements were added. There were a kind of common understanding in the team. Once you got the picture, you didn't need to operate on a model anymore. Everyone kinda knew what needed to be done. The result of the diagnosis were essentially a clarification of what we were supposed to do and who are involved. The clients are \gls{chd}. A meeting took place and a list of contact information was exchanged. The users of the system are \gls{chw}'s, Cell \gls{chw} Supervisors, \gls{hc} \gls{chw} Supervisors and District Pharmacists. The basic idea is that the \gls{chd} would like to have \gls{hmis} make a system that enables \gls{chw}'s to report using \gls{sms} and based on this have automatic generated orders sent to the \gls{hc}'s and District Pharmacists.
 
+<<<<<<< HEAD
 \section{Planning}
 
 Our planning phase became somewhat glued together with the intervention. And continually altered. New problems were made visible by the interventions we made, and took us back to the planning phase. Making it very difficult to follow the action research model. In a perfect world, it is possible to plan everything to the point, but in our case new knowledge about the system was discovered along with our interventions and in turn, our plans had to be changed. 
@@ -167,6 +175,10 @@ The user importer was made in order to import user from a csv file. \gls{dhis2} 
 \end{figure}
 
 The user importer creates user accounts based on firstname, surname, village and phonenumber. After the user accounts are created they are able to send in \gls{sms}-reports based on the village they work from. 
+=======
+\subsection{Planning}
+
+>>>>>>> 67309e5eaf802120ae711c557522bece188d36aa
 
 \subsection{Re-Supply Algorithm}
 
@@ -184,6 +196,7 @@ disp_{n-2} & = & stk_{n-3} + rcd_{n-2} - stk_{n-2}
 
 
 \begin{description}
+<<<<<<< HEAD
 \item[$\mathbf{reorder_{n}}$]
 This variable represents the quantity of how much is needed at the next re-supply of one village. $n$ in this case represents the last month. If in May, it represents reorder quantity for the end of month of April.
 \item[$\mathbf{amc_{n}}$]
@@ -193,12 +206,24 @@ This variable is calculated based on the the values reported and is the number o
 \item[$\mathbf{stk_{n}}$]
 The quantity in stock at the end of the month of one village. Usually reported within 1--5 days into the next month it represents. Stock in April is usually reported between 1st and 5th of May.
 \item[$\mathbf{rcd_{n}}$]
+=======
+\item[$reorder_{n}$]
+This variable represents the quantity of how much is needed at the next re-supply of one village. $n$ in this case represents the last month. If in May, it represents reorder quantity for the end of month of April.
+\item[$amc_{n}$]
+Represents the average monthly consumption based on the last 3 months in one village. I in May, that would be the average monthly consumption based on February, March and April.
+\item[$disp_{n}$]
+This variable is calculated based on the the values reported and is the number of items distributed by one village during one month.
+\item[$stk_{n}$]
+The quantity in stock at the end of the month of one village. Usually reported within 1--5 days into the next month it represents. Stock in April is usually reported between 1st and 5th of May.
+\item[$rcd_{n}$]
+>>>>>>> 67309e5eaf802120ae711c557522bece188d36aa
 This variable is the sum of items received in one village during the month it represents. If a \gls{chw} receives 10 condoms 2nd of April, it should be reported the same day. If a village receives another 10 condoms the 13th of April, that should also be reported the same day it is received. $rcd_{n}$ for April would then be the sum of those values, 20.
 \begin{equation}
 rcd_{n} = \sum_{k = 1}^{j} rcd_{n,k}
 \label{eq:received}
 \end{equation}.
 A more mathematical description in equation \ref{eq:received}, where j represents the number of days in the month.
+<<<<<<< HEAD
 \end{description}
 
 \subsection{The Essential Predictore}
@@ -212,3 +237,6 @@ In order to generate the threshold values to send reminders from we chose to mak
 \end{figure}
 
 The collaboration in this application is something worth taking note of. Neither one of the team member knew exactly what the other was doing. The application was in fact copy-pasted together after making the the \gls{gui} and SQL-functionality separately. The application realizes the re-supply algorithm in a JAVA application and works with \gls{dhis2}. So all the tools from \gls{dhis2} could be taken advantage of. 
+=======
+\end{description}
+>>>>>>> 67309e5eaf802120ae711c557522bece188d36aa
