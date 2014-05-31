@@ -658,6 +658,36 @@ parent={},%
 %
 }%
 }%
+\ifglsentryexists{ndc}{}%
+{%
+\gls@defglossaryentry{ndc}%
+{%
+name={NDC},%
+sort={NDC},%
+type={main},%
+first={National Data Center (NDC)},%
+firstplural={National Data Centers(NDCs)},%
+text={NDC},%
+plural={NDCs},%
+description={National Data Center},%
+descriptionplural={National Data Center\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={National Data Center},%
+longplural={National Data Centers},%
+short={NDC},%
+shortplural={NDCs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
 \ifglsentryexists{pepfar}{}%
 {%
 \gls@defglossaryentry{pepfar}%

@@ -44,7 +44,12 @@
 \contentsline {section}{\numberline {5.2}Diagnosis}{31}{section.5.2}
 \contentsline {subsection}{\numberline {5.2.1}Objectives}{31}{subsection.5.2.1}
 \contentsline {subsection}{\numberline {5.2.2}Use Cases}{32}{subsection.5.2.2}
-\contentsline {subsection}{\numberline {5.2.3}Planning}{35}{subsection.5.2.3}
-\contentsline {subsection}{\numberline {5.2.4}Re-Supply Algorithm}{35}{subsection.5.2.4}
-\contentsline {chapter}{\numberline {6}Discussion Of Results}{38}{chapter.6}
-\contentsline {chapter}{\numberline {7}Conclusions}{39}{chapter.7}
+\contentsline {section}{\numberline {5.3}Planning}{35}{section.5.3}
+\contentsline {section}{\numberline {5.4}Intervention}{37}{section.5.4}
+\contentsline {subsection}{\numberline {5.4.1}Setting up the Test Environment}{37}{subsection.5.4.1}
+\contentsline {subsection}{\numberline {5.4.2}Setting up the mobile instance}{37}{subsection.5.4.2}
+\contentsline {subsection}{\numberline {5.4.3}User Importer}{38}{subsection.5.4.3}
+\contentsline {subsection}{\numberline {5.4.4}Re-Supply Algorithm}{38}{subsection.5.4.4}
+\contentsline {subsection}{\numberline {5.4.5}The Essential Predictore}{41}{subsection.5.4.5}
+\contentsline {chapter}{\numberline {6}Discussion Of Results}{43}{chapter.6}
+\contentsline {chapter}{\numberline {7}Conclusions}{44}{chapter.7}

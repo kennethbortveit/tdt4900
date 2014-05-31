@@ -44,7 +44,12 @@
 \BOOKMARK [1][-]{section.5.2}{Diagnosis}{chapter.5}% 44
 \BOOKMARK [2][-]{subsection.5.2.1}{Objectives}{section.5.2}% 45
 \BOOKMARK [2][-]{subsection.5.2.2}{Use Cases}{section.5.2}% 46
-\BOOKMARK [2][-]{subsection.5.2.3}{Planning}{section.5.2}% 47
-\BOOKMARK [2][-]{subsection.5.2.4}{Re-Supply Algorithm}{section.5.2}% 48
-\BOOKMARK [0][-]{chapter.6}{Discussion Of Results}{}% 49
-\BOOKMARK [0][-]{chapter.7}{Conclusions}{}% 50
+\BOOKMARK [1][-]{section.5.3}{Planning}{chapter.5}% 47
+\BOOKMARK [1][-]{section.5.4}{Intervention}{chapter.5}% 48
+\BOOKMARK [2][-]{subsection.5.4.1}{Setting up the Test Environment}{section.5.4}% 49
+\BOOKMARK [2][-]{subsection.5.4.2}{Setting up the mobile instance}{section.5.4}% 50
+\BOOKMARK [2][-]{subsection.5.4.3}{User Importer}{section.5.4}% 51
+\BOOKMARK [2][-]{subsection.5.4.4}{Re-Supply Algorithm}{section.5.4}% 52
+\BOOKMARK [2][-]{subsection.5.4.5}{The Essential Predictore}{section.5.4}% 53
+\BOOKMARK [0][-]{chapter.6}{Discussion Of Results}{}% 54
+\BOOKMARK [0][-]{chapter.7}{Conclusions}{}% 55
