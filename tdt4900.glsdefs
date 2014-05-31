@@ -1,0 +1,810 @@
+\ifglsentryexists{ad}{}%
+{%
+\gls@defglossaryentry{ad}%
+{%
+name={AD},%
+sort={AD},%
+type={main},%
+first={Anno Domini (AD)},%
+firstplural={Anno Dominis(ADs)},%
+text={AD},%
+plural={ADs},%
+description={Anno Domini},%
+descriptionplural={Anno Domini\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Anno Domini},%
+longplural={Anno Dominis},%
+short={AD},%
+shortplural={ADs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{anc}{}%
+{%
+\gls@defglossaryentry{anc}%
+{%
+name={ANC},%
+sort={ANC},%
+type={main},%
+first={Antenatal Care (ANC)},%
+firstplural={Antenatal Cares(ANCs)},%
+text={ANC},%
+plural={ANCs},%
+description={Antenatal Care},%
+descriptionplural={Antenatal Care\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Antenatal Care},%
+longplural={Antenatal Cares},%
+short={ANC},%
+shortplural={ANCs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{bc}{}%
+{%
+\gls@defglossaryentry{bc}%
+{%
+name={BC},%
+sort={BC},%
+type={main},%
+first={Before Christ (BC)},%
+firstplural={Before Christs(BCs)},%
+text={BC},%
+plural={BCs},%
+description={Before Christ},%
+descriptionplural={Before Christ\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Before Christ},%
+longplural={Before Christs},%
+short={BC},%
+shortplural={BCs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{chw}{}%
+{%
+\gls@defglossaryentry{chw}%
+{%
+name={CHW},%
+sort={CHW},%
+type={main},%
+first={Community Health Worker (CHW)},%
+firstplural={Community Health Workers(CHWs)},%
+text={CHW},%
+plural={CHWs},%
+description={Community Health Worker},%
+descriptionplural={Community Health Worker\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Community Health Worker},%
+longplural={Community Health Workers},%
+short={CHW},%
+shortplural={CHWs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{chd}{}%
+{%
+\gls@defglossaryentry{chd}%
+{%
+name={CHD},%
+sort={CHD},%
+type={main},%
+first={Community Help Desk (CHD)},%
+firstplural={Community Help Desks(CHDs)},%
+text={CHD},%
+plural={CHDs},%
+description={Community Help Desk},%
+descriptionplural={Community Help Desk\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Community Help Desk},%
+longplural={Community Help Desks},%
+short={CHD},%
+shortplural={CHDs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{coia}{}%
+{%
+\gls@defglossaryentry{coia}%
+{%
+name={CoIA},%
+sort={CoIA},%
+type={main},%
+first={Commission on Information and Accountability (CoIA)},%
+firstplural={Commission on Information and Accountabilitys(CoIAs)},%
+text={CoIA},%
+plural={CoIAs},%
+description={Commission on Information and Accountability},%
+descriptionplural={Commission on Information and Accountability\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Commission on Information and Accountability},%
+longplural={Commission on Information and Accountabilitys},%
+short={CoIA},%
+shortplural={CoIAs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{dot}{}%
+{%
+\gls@defglossaryentry{dot}%
+{%
+name={DOT},%
+sort={DOT},%
+type={main},%
+first={directly observed treatment (DOT)},%
+firstplural={directly observed treatments(DOTs)},%
+text={DOT},%
+plural={DOTs},%
+description={directly observed treatment},%
+descriptionplural={directly observed treatment\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={directly observed treatment},%
+longplural={directly observed treatments},%
+short={DOT},%
+shortplural={DOTs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{dhis}{}%
+{%
+\gls@defglossaryentry{dhis}%
+{%
+name={DHIS},%
+sort={DHIS},%
+type={main},%
+first={District Health Information System (DHIS)},%
+firstplural={District Health Information Systems(DHISs)},%
+text={DHIS},%
+plural={DHISs},%
+description={District Health Information System},%
+descriptionplural={District Health Information System\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={District Health Information System},%
+longplural={District Health Information Systems},%
+short={DHIS},%
+shortplural={DHISs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{dhis2}{}%
+{%
+\gls@defglossaryentry{dhis2}%
+{%
+name={DHIS2},%
+sort={DHIS2},%
+type={main},%
+first={District Health Information System 2 (DHIS2)},%
+firstplural={District Health Information System 2s(DHIS2s)},%
+text={DHIS2},%
+plural={DHIS2s},%
+description={District Health Information System 2},%
+descriptionplural={District Health Information System 2\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={District Health Information System 2},%
+longplural={District Health Information System 2s},%
+short={DHIS2},%
+shortplural={DHIS2s},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{drc}{}%
+{%
+\gls@defglossaryentry{drc}%
+{%
+name={DRC},%
+sort={DRC},%
+type={main},%
+first={Democratic Republic of Congo (DRC)},%
+firstplural={Democratic Republic of Congos(DRCs)},%
+text={DRC},%
+plural={DRCs},%
+description={Democratic Republic of Congo},%
+descriptionplural={Democratic Republic of Congo\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Democratic Republic of Congo},%
+longplural={Democratic Republic of Congos},%
+short={DRC},%
+shortplural={DRCs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{gis}{}%
+{%
+\gls@defglossaryentry{gis}%
+{%
+name={GIS},%
+sort={GIS},%
+type={main},%
+first={Geographic Information System (GIS)},%
+firstplural={Geographic Information Systems(GISs)},%
+text={GIS},%
+plural={GISs},%
+description={Geographic Information System},%
+descriptionplural={Geographic Information System\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Geographic Information System},%
+longplural={Geographic Information Systems},%
+short={GIS},%
+shortplural={GISs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{gni}{}%
+{%
+\gls@defglossaryentry{gni}%
+{%
+name={GNI},%
+sort={GNI},%
+type={main},%
+first={Gross National Income (GNI)},%
+firstplural={Gross National Incomes(GNIs)},%
+text={GNI},%
+plural={GNIs},%
+description={Gross National Income},%
+descriptionplural={Gross National Income\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Gross National Income},%
+longplural={Gross National Incomes},%
+short={GNI},%
+shortplural={GNIs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{gsm}{}%
+{%
+\gls@defglossaryentry{gsm}%
+{%
+name={GSM},%
+sort={GSM},%
+type={main},%
+first={Global System for Mobile (GSM)},%
+firstplural={Global System for Mobiles(GSMs)},%
+text={GSM},%
+plural={GSMs},%
+description={Global System for Mobile},%
+descriptionplural={Global System for Mobile\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Global System for Mobile},%
+longplural={Global System for Mobiles},%
+short={GSM},%
+shortplural={GSMs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{gui}{}%
+{%
+\gls@defglossaryentry{gui}%
+{%
+name={GUI},%
+sort={GUI},%
+type={main},%
+first={G (GUI)},%
+firstplural={Gs(GUIs)},%
+text={GUI},%
+plural={GUIs},%
+description={G},%
+descriptionplural={G\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={G},%
+longplural={Gs},%
+short={GUI},%
+shortplural={GUIs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{hc}{}%
+{%
+\gls@defglossaryentry{hc}%
+{%
+name={HC},%
+sort={HC},%
+type={main},%
+first={Health Center (HC)},%
+firstplural={Health Centers(HCs)},%
+text={HC},%
+plural={HCs},%
+description={Health Center},%
+descriptionplural={Health Center\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Health Center},%
+longplural={Health Centers},%
+short={HC},%
+shortplural={HCs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{hisp}{}%
+{%
+\gls@defglossaryentry{hisp}%
+{%
+name={HISP},%
+sort={HISP},%
+type={main},%
+first={Health Information System Program (HISP)},%
+firstplural={Health Information System Programs(HISPs)},%
+text={HISP},%
+plural={HISPs},%
+description={Health Information System Program},%
+descriptionplural={Health Information System Program\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Health Information System Program},%
+longplural={Health Information System Programs},%
+short={HISP},%
+shortplural={HISPs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{hmis}{}%
+{%
+\gls@defglossaryentry{hmis}%
+{%
+name={HMIS},%
+sort={HMIS},%
+type={main},%
+first={Health Management Information Systems (HMIS)},%
+firstplural={Health Management Information Systemss(HMISs)},%
+text={HMIS},%
+plural={HMISs},%
+description={Health Management Information Systems},%
+descriptionplural={Health Management Information Systems\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Health Management Information Systems},%
+longplural={Health Management Information Systemss},%
+short={HMIS},%
+shortplural={HMISs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{html}{}%
+{%
+\gls@defglossaryentry{html}%
+{%
+name={HTML},%
+sort={HTML},%
+type={main},%
+first={Hypertext Markup Language (HTML)},%
+firstplural={Hypertext Markup Languages(HTMLs)},%
+text={HTML},%
+plural={HTMLs},%
+description={Hypertext Markup Language},%
+descriptionplural={Hypertext Markup Language\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Hypertext Markup Language},%
+longplural={Hypertext Markup Languages},%
+short={HTML},%
+shortplural={HTMLs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{ict}{}%
+{%
+\gls@defglossaryentry{ict}%
+{%
+name={ICT},%
+sort={ICT},%
+type={main},%
+first={information and communication technology (ICT)},%
+firstplural={information and communication technologys(ICTs)},%
+text={ICT},%
+plural={ICTs},%
+description={information and communication technology},%
+descriptionplural={information and communication technology\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={information and communication technology},%
+longplural={information and communication technologys},%
+short={ICT},%
+shortplural={ICTs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{moh}{}%
+{%
+\gls@defglossaryentry{moh}%
+{%
+name={MOH},%
+sort={MOH},%
+type={main},%
+first={Ministry of Health (MOH)},%
+firstplural={Ministry of Healths(MOHs)},%
+text={MOH},%
+plural={MOHs},%
+description={Ministry of Health},%
+descriptionplural={Ministry of Health\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Ministry of Health},%
+longplural={Ministry of Healths},%
+short={MOH},%
+shortplural={MOHs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{norad}{}%
+{%
+\gls@defglossaryentry{norad}%
+{%
+name={NORAD},%
+sort={NORAD},%
+type={main},%
+first={Norwegian Agency for Development Cooperation (NORAD)},%
+firstplural={Norwegian Agency for Development Cooperations(NORADs)},%
+text={NORAD},%
+plural={NORADs},%
+description={Norwegian Agency for Development Cooperation},%
+descriptionplural={Norwegian Agency for Development Cooperation\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Norwegian Agency for Development Cooperation},%
+longplural={Norwegian Agency for Development Cooperations},%
+short={NORAD},%
+shortplural={NORADs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{ncd}{}%
+{%
+\gls@defglossaryentry{ncd}%
+{%
+name={NCD},%
+sort={NCD},%
+type={main},%
+first={non-communicable disease (NCD)},%
+firstplural={non-communicable diseases(NCDs)},%
+text={NCD},%
+plural={NCDs},%
+description={non-communicable disease},%
+descriptionplural={non-communicable disease\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={non-communicable disease},%
+longplural={non-communicable diseases},%
+short={NCD},%
+shortplural={NCDs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{pepfar}{}%
+{%
+\gls@defglossaryentry{pepfar}%
+{%
+name={PEPFAR},%
+sort={PEPFAR},%
+type={main},%
+first={President's Emergency Plan for AIDS Relief (PEPFAR)},%
+firstplural={President's Emergency Plan for AIDS Reliefs(PEPFARs)},%
+text={PEPFAR},%
+plural={PEPFARs},%
+description={President's Emergency Plan for AIDS Relief},%
+descriptionplural={President's Emergency Plan for AIDS Relief\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={President's Emergency Plan for AIDS Relief},%
+longplural={President's Emergency Plan for AIDS Reliefs},%
+short={PEPFAR},%
+shortplural={PEPFARs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{rpf}{}%
+{%
+\gls@defglossaryentry{rpf}%
+{%
+name={RPF},%
+sort={RPF},%
+type={main},%
+first={Rwandan Patriotic Front (RPF)},%
+firstplural={Rwandan Patriotic Fronts(RPFs)},%
+text={RPF},%
+plural={RPFs},%
+description={Rwandan Patriotic Front},%
+descriptionplural={Rwandan Patriotic Front\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Rwandan Patriotic Front},%
+longplural={Rwandan Patriotic Fronts},%
+short={RPF},%
+shortplural={RPFs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{sms}{}%
+{%
+\gls@defglossaryentry{sms}%
+{%
+name={SMS},%
+sort={SMS},%
+type={main},%
+first={Simple Message Service (SMS)},%
+firstplural={Simple Message Services(SMSs)},%
+text={SMS},%
+plural={SMSs},%
+description={Simple Message Service},%
+descriptionplural={Simple Message Service\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Simple Message Service},%
+longplural={Simple Message Services},%
+short={SMS},%
+shortplural={SMSs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{tb}{}%
+{%
+\gls@defglossaryentry{tb}%
+{%
+name={TB},%
+sort={TB},%
+type={main},%
+first={tuberculosis (TB)},%
+firstplural={tuberculosiss(TBs)},%
+text={TB},%
+plural={TBs},%
+description={tuberculosis},%
+descriptionplural={tuberculosis\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={tuberculosis},%
+longplural={tuberculosiss},%
+short={TB},%
+shortplural={TBs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{uio}{}%
+{%
+\gls@defglossaryentry{uio}%
+{%
+name={UiO},%
+sort={UiO},%
+type={main},%
+first={University of Oslo (UiO)},%
+firstplural={University of Oslos(UiOs)},%
+text={UiO},%
+plural={UiOs},%
+description={University of Oslo},%
+descriptionplural={University of Oslo\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={University of Oslo},%
+longplural={University of Oslos},%
+short={UiO},%
+shortplural={UiOs},%
+counter={page},%
+parent={},%
+%
+}%
+}%

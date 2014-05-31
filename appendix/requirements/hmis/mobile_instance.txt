@@ -1,0 +1,13 @@
+kenneth@197.243.18.88:2292
+
+
+MOBIL INSTANCE POSTGRES
+
+user: kenneth
+temp_pass: DHIS2000
+
+
+DHIS MOBILE INSTANCE
+
+user: admin
+password: district
