@@ -178,6 +178,36 @@ parent={},%
 %
 }%
 }%
+\ifglsentryexists{coia}{}%
+{%
+\gls@defglossaryentry{coia}%
+{%
+name={CoIA},%
+sort={CoIA},%
+type={main},%
+first={Commission on Information and Accountability (CoIA)},%
+firstplural={Commission on Information and Accountability\acrpluralsuffix  (CoIA\acrpluralsuffix )},%
+text={CoIA},%
+plural={CoIA\acrpluralsuffix },%
+description={Commission on Information and Accountability},%
+descriptionplural={Commission on Information and Accountability\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Commission on Information and Accountability},%
+longplural={Commission on Information and Accountabilitys},%
+short={CoIA},%
+shortplural={CoIAs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
 \ifglsentryexists{dot}{}%
 {%
 \gls@defglossaryentry{dot}%
