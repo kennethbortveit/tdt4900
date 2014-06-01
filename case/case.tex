@@ -38,11 +38,17 @@ Notifications here are meant as in the broadest of meanings. The idea is that th
 \subsection{Objective \#2}
 This objective is straight forward. If a \gls{chw} in charge of reporting at a village does not report after 4 days of the previous reporting month, a reminder should be sent. 
 \subsection{Objective \#3}
-
+Sometimes when a \gls{chw} reports data, syntax error may happen. It is also preferable to have some kind of feedback when everything is just fine. Just to know that everything is working. 
+The appropriate instructions for fixing mistakes should also be in the feedback from the system.
 \subsection{Objective \#4}
-\section{Situation Report}
+In this case a functional reporting system would be a system that is ready to receive \gls{sms} reports from the \gls{chw}'s. These messages are stored in the \gls{clmis} database ready to be analyzed. 
 
-The overall objective off all parties involved in this case was to configure and develop a system that could receive \gls{sms}-reports. 
+\section{Refining and Defining the Requirements}
+As a part of a diagnosis we started out with trying to define usecases for each of the objectives. 
+This would make it more clear what needed to be done in order to meet them.
+It was very diffiult to pinpoint exactly what needed to be done bacause of the projects size. 
+\gls{hmis} was in charge of configuring and develop the system. \gls{hmis} was doing this for the \gls{chd}, both located in the the same department, \gls{moh}. 
+Collecting the requirements would then be based on what we understood from what the \gls{chd} could tell us. \gls{hmis} had already made some progress on this part.  
 
 \begin{figure}
 \centering
@@ -50,6 +56,131 @@ The overall objective off all parties involved in this case was to configure and
 \caption{\gls{chw} Supply Chain in the Future}
 \label{chwSupplyChainPresent}
 \end{figure}
+
+Figure \ref{chwSupplyChainFuture} shows the desired \gls{bpm}. The specifics did not allways match what had previously been discussed, but the important part was to get an overall picture of how thing should work. For an example we will see that the \gls{chw}'s would rather report on what they receive instead of what they dispense. After analyzing the \gls{chw} supply chain \gls{bpm} we found the following. 
+Activity 1, 2, 3, 7 was supported as long as the \gls{chw} had a mobile phone. After discussing it with one of \gls{chd}'s team members, it was fairly safe to assume this. 
+Activity 4 relates directly to objective \#4.
+Activity 6 relates to objective \#3. 
+Activity 5 relates to objective \#2 and Activity 8 and 11 to objective \#1. Activity 9--10, 12--17 should supported as long as the objectives were met. 
+This puts our objectives in context of a bigger picture.
+
+\subsection{Use Cases}
+\begin{table}
+	\centering
+	\begin{tabular}{|p{5cm}|p{7cm}|}
+		\hline
+		\multicolumn{2}{|c|}{\textbf{Send SMS and Email Notifications}}\\
+		\hline
+		\textbf{Goal:} & Create orders\\
+		\hline
+		\textbf{Primary Actor:} & System\\
+		\hline
+		\multirow{3}{*}{\textbf{Secondary Actor:}}	& Cell CHW Supervisor \\
+																								& HC CHW Supervisor \\ 
+																								& District Pharmacist \\
+		\hline
+		\multirow{4}{*}{\textbf{Main Success Scenario:}}	& 1. CHW reports distributed and stock values. \\
+																											& 2. System processes report. \\
+																											& 3. System calculates essential drugs needed for each level. \\
+																											& 4. System sends orders to cell, sector and district. \\
+		\hline
+		\textbf{Extensions:} & \\
+		\hline
+	\end{tabular}
+	\caption{Textual Use Case: Send SMS and Email Notifications}
+	\label{tab:notifications}
+\end{table}
+
+
+\begin{table}
+	\centering
+	\begin{tabular}{|p{5cm}|p{7cm}|}
+		\hline
+		\multicolumn{2}{|c|}{\textbf{Send SMS and Email Reminders}}\\
+		\hline
+		\textbf{Goal:} & Send reminder \\
+		\hline
+		\textbf{Primary Actor:} & System \\
+		\hline
+		\multirow{2}{*}{\textbf{Secondary Actor:}}	& CHW \\
+																								& Cell CHW Supervisor \\
+		\hline
+		\multirow{5}{*}{\textbf{Main Success Scenario:}}	& 1. CHW misses report deadline. \\
+																											& 2. 5 days goes by. \\
+																											& 3. System sends reminder by email and SMS. \\
+																											& 4. Another 5 days goes by. \\
+																											& 5. System sends reminder by email and SMS. \\
+																											
+		\hline
+		\textbf{Extensions:} & \\
+		\hline
+	\end{tabular}
+	\caption{Textual Use Case: Send SMS and Email Reminders}
+	\label{tab:reminders}
+\end{table}
+
+
+\begin{table}
+	\centering
+	\begin{tabular}{|p{5cm}|p{7cm}|}
+		\hline
+		\multicolumn{2}{|c|}{\textbf{Send Report Feedback}} \\
+		\hline
+		\textbf{Goal:} & Process SMS message\\
+		\hline
+		\textbf{Primary Actor:} & System \\
+		\hline
+		\textbf{Secondary Actor:} & Community Health Worker \\
+		\hline
+		\multirow{6}{*}{\textbf{Main Success Scenario:}}	& 1. CHW reports data incorrectly by SMS. \\
+																											& 2. System receives SMS. \\
+																											& 3. SMS triggers feedback message. \\
+																											& 4. CHW corrects message and re-sends report. \\
+																											& 5. System processes SMS. \\
+																											& 6. System updates database. \\
+		\hline
+		\textbf{Extensions:} & \\
+		\hline
+	\end{tabular}
+	\caption{Textual Use Case: Send Report Feedback}
+	\label{tab:feedback}
+\end{table}
+
+\begin{table}
+	\centering
+	\begin{tabular}{|p{5cm}|p{7cm}|}
+		\hline
+		\multicolumn{2}{|c|}{\textbf{Report Using SMS}}\\
+		\hline
+		\textbf{Goal:} & Update Database \\
+		\hline
+		\textbf{Primary Actor:} & Community Health Worker\\
+		\hline
+		\textbf{Secondary Actor:} & System \\
+		\hline
+		\multirow{5}{*}{\textbf{Main Success Scenario:}}	& 1. CHW reports stock and distributed values of essential drugs. \\
+																											& 2. System receives SMS. \\
+																											& 3. System processes SMS. \\
+																											& 4. System updates database. \\
+																											& 5. System sends confirmation SMS to CHW. \\
+		\hline
+		\textbf{Extensions:} & \\
+		\hline
+	\end{tabular}
+	\caption{Textual Use Case: Report Using SMS}
+	\label{tab:smsreport}
+\end{table}
+
+As a seen in use case tables \ref{tab:notifications}, \ref{tab:reminders}, \ref{tab:feedback} and \ref{tab:smsreport}, the specifics did change, along with the development process, but it gave us the necessary guidelines to understand the desired outcome.
+The obstacles then became somewhat clearer. The \gls{chw}'s needed a server to communicate with and the server needed to be able to communicate with the \gls{chw} supervisors at the different levels in the health hierarchy.
+
+\section{Planning}
+
+
+\section{Situation Report}
+
+The overall objective off all parties involved in this case was to configure and develop a system that could receive \gls{sms}-reports. 
+
 
 \section{Diagnosis}
 

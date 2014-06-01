@@ -88,6 +88,36 @@ parent={},%
 %
 }%
 }%
+\ifglsentryexists{bpm}{}%
+{%
+\gls@defglossaryentry{bpm}%
+{%
+name={BPM},%
+sort={BPM},%
+type={main},%
+first={Business Process Model (BPM)},%
+firstplural={Business Process Models(BPMs)},%
+text={BPM},%
+plural={BPMs},%
+description={Business Process Model},%
+descriptionplural={Business Process Model\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Business Process Model},%
+longplural={Business Process Models},%
+short={BPM},%
+shortplural={BPMs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
 \ifglsentryexists{chw}{}%
 {%
 \gls@defglossaryentry{chw}%

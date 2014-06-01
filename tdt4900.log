@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.5.5)  1 JUN 2014 19:38
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.5.5)  2 JUN 2014 01:40
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -627,7 +627,20 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 \openout4 = `tdt4900.glo'.
 
 Package glossaries Info: Writing glossary file tdt4900.glo on input line 9.
- (./tdt4900.aux)
+ (./tdt4900.aux
+
+LaTeX Warning: Label `tab:notifications' multiply defined.
+
+
+LaTeX Warning: Label `tab:reminders' multiply defined.
+
+
+LaTeX Warning: Label `tab:feedback' multiply defined.
+
+
+LaTeX Warning: Label `tab:smsreport' multiply defined.
+
+)
 \openout1 = `tdt4900.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 13.
@@ -644,7 +657,7 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 13.
 LaTeX Font Info:    ... okay on input line 13.
 LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 13.
 LaTeX Font Info:    ... okay on input line 13.
-(/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
+ (/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count140
 \scratchdimen=\dimen131
@@ -757,7 +770,7 @@ Overfull \hbox (0.33015pt too wide) in paragraph at lines 35--40
 ng
  []
 
-[15] <context/img/networkOfAction.jpg, id=1019, 776.14969pt x 569.12625pt>
+[15] <context/img/networkOfAction.jpg, id=1067, 776.14969pt x 569.12625pt>
 File: context/img/networkOfAction.jpg Graphic file (type jpg)
 
 <use context/img/networkOfAction.jpg>
@@ -765,14 +778,14 @@ Package pdftex.def Info: context/img/networkOfAction.jpg used on input line 54.
 
 (pdftex.def)             Requested size: 390.0pt x 285.97794pt.
  [16] [17 <./context/img/networkOfAction.jpg>] <context/img/dhis2Dash.png, id=1
-036, 635.37375pt x 301.125pt>
+084, 635.37375pt x 301.125pt>
 File: context/img/dhis2Dash.png Graphic file (type png)
 
 <use context/img/dhis2Dash.png>
 Package pdftex.def Info: context/img/dhis2Dash.png used on input line 69.
 (pdftex.def)             Requested size: 390.0pt x 184.83926pt.
  [18] [19 <./context/img/dhis2Dash.png>]
-[20] <context/img/dhis2DataEntry.png, id=1060, 635.37375pt x 300.12125pt>
+[20] <context/img/dhis2DataEntry.png, id=1108, 635.37375pt x 300.12125pt>
 File: context/img/dhis2DataEntry.png Graphic file (type png)
 
 <use context/img/dhis2DataEntry.png>
@@ -780,7 +793,7 @@ Package pdftex.def Info: context/img/dhis2DataEntry.png used on input line 104.
 
 (pdftex.def)             Requested size: 390.0pt x 184.22314pt.
 
-<context/img/dataStructure.jpg, id=1061, 816.04875pt x 568.37344pt>
+<context/img/dataStructure.jpg, id=1109, 816.04875pt x 568.37344pt>
 File: context/img/dataStructure.jpg Graphic file (type jpg)
 
 <use context/img/dataStructure.jpg>
@@ -788,7 +801,7 @@ Package pdftex.def Info: context/img/dataStructure.jpg used on input line 112.
 (pdftex.def)             Requested size: 390.0pt x 271.63667pt.
  [21 <./context/img/dhis2DataEntry.png (PNG copy)>] [22 <./context/img/dataStru
 cture.jpg>]
-<context/img/gisExample.png, id=1072, 642.4pt x 301.125pt>
+<context/img/gisExample.png, id=1120, 642.4pt x 301.125pt>
 File: context/img/gisExample.png Graphic file (type png)
 
 <use context/img/gisExample.png>
@@ -809,7 +822,7 @@ Underfull \hbox (badness 6658) in paragraph at lines 137--137
 \OT1/cmr/bx/n/12 grams or par-tial
  []
 
-<context/img/countriesUsing.png, id=1078, 1213.53375pt x 605.26125pt>
+<context/img/countriesUsing.png, id=1127, 1213.53375pt x 605.26125pt>
 File: context/img/countriesUsing.png Graphic file (type png)
 
 <use context/img/countriesUsing.png>
@@ -817,28 +830,28 @@ Package pdftex.def Info: context/img/countriesUsing.png used on input line 171.
 
 (pdftex.def)             Requested size: 390.0pt x 194.51874pt.
 
-<context/img/africa.jpg, id=1081, 1120.185pt x 735.49782pt>
+<context/img/africa.jpg, id=1130, 1120.185pt x 735.49782pt>
 File: context/img/africa.jpg Graphic file (type jpg)
 
 <use context/img/africa.jpg>
 Package pdftex.def Info: context/img/africa.jpg used on input line 182.
 (pdftex.def)             Requested size: 390.0pt x 256.07013pt.
 
-<context/img/eastAfrica.jpg, id=1082, 1120.185pt x 661.72218pt>
+<context/img/eastAfrica.jpg, id=1131, 1120.185pt x 661.72218pt>
 File: context/img/eastAfrica.jpg Graphic file (type jpg)
 
 <use context/img/eastAfrica.jpg>
 Package pdftex.def Info: context/img/eastAfrica.jpg used on input line 189.
 (pdftex.def)             Requested size: 390.0pt x 230.38449pt.
 
-<context/img/rwanda.jpg, id=1083, 1120.185pt x 661.47125pt>
+<context/img/rwanda.jpg, id=1132, 1120.185pt x 661.47125pt>
 File: context/img/rwanda.jpg Graphic file (type jpg)
 
 <use context/img/rwanda.jpg>
 Package pdftex.def Info: context/img/rwanda.jpg used on input line 196.
 (pdftex.def)             Requested size: 390.0pt x 230.29712pt.
 
-<context/img/rwandaAdminStructure.jpg, id=1084, 773.89125pt x 578.91281pt>
+<context/img/rwandaAdminStructure.jpg, id=1133, 773.89125pt x 578.91281pt>
 File: context/img/rwandaAdminStructure.jpg Graphic file (type jpg)
 
 <use context/img/rwandaAdminStructure.jpg>
@@ -907,53 +920,59 @@ Overfull \hbox (0.30553pt too wide) in paragraph at lines 26--27
 t
  []
 
-[35] [36] <case/img/chwSupplyChainFuture.png, id=1155, 646.8165pt x 418.509pt>
+[35] [36] [37]
+<case/img/chwSupplyChainFuture.png, id=1206, 646.8165pt x 418.509pt>
 File: case/img/chwSupplyChainFuture.png Graphic file (type png)
 
 <use case/img/chwSupplyChainFuture.png>
-Package pdftex.def Info: case/img/chwSupplyChainFuture.png used on input line 4
-9.
+Package pdftex.def Info: case/img/chwSupplyChainFuture.png used on input line 5
+5.
 (pdftex.def)             Requested size: 390.0pt x 252.33981pt.
- [37 <./case/img/chwSupplyChainFuture.png (PNG copy)>] [38] [39] [40]
-<case/img/orderFlow.jpg, id=1182, 816.04875pt x 564.60938pt>
+
+
+LaTeX Warning: Reference `chwSupplyChainFuture' on page 38 undefined on input l
+ine 60.
+
+[38 <./case/img/chwSupplyChainFuture.png (PNG copy)>] [39] [40] [41] [42]
+[43] [44] <case/img/orderFlow.jpg, id=1245, 816.04875pt x 564.60938pt>
 File: case/img/orderFlow.jpg Graphic file (type jpg)
 
 <use case/img/orderFlow.jpg>
-Package pdftex.def Info: case/img/orderFlow.jpg used on input line 184.
+Package pdftex.def Info: case/img/orderFlow.jpg used on input line 315.
 (pdftex.def)             Requested size: 390.0pt x 269.83774pt.
- [41] [42 <./case/img/orderFlow.jpg>] [43] [44]
-<case/img/userImporterScreenShot.png, id=1205, 779.91376pt x 558.085pt>
+ [45] [46 <./case/img/orderFlow.jpg>] [47] [48]
+<case/img/userImporterScreenShot.png, id=1264, 779.91376pt x 558.085pt>
 File: case/img/userImporterScreenShot.png Graphic file (type png)
 
 <use case/img/userImporterScreenShot.png>
 Package pdftex.def Info: case/img/userImporterScreenShot.png used on input line
- 217.
+ 348.
 (pdftex.def)             Requested size: 390.0pt x 279.06737pt.
- [45 <./case/img/userImporterScreenShot.png (PNG copy)>]
-Overfull \hbox (7.54738pt too wide) in paragraph at lines 243--244
+ [49 <./case/img/userImporterScreenShot.png (PNG copy)>]
+Overfull \hbox (7.54738pt too wide) in paragraph at lines 374--375
 []\OT1/cmr/m/n/17.28 Represents the av-er-age monthly con-sump-tion based
  []
 
-[46]
-<case/img/essentialPredictoreScreenShot.png, id=1219, 812.03375pt x 343.2825pt>
+[50]
+<case/img/essentialPredictoreScreenShot.png, id=1276, 812.03375pt x 343.2825pt>
 File: case/img/essentialPredictoreScreenShot.png Graphic file (type png)
 <use case/img/essentialPredictoreScreenShot.png>
 Package pdftex.def Info: case/img/essentialPredictoreScreenShot.png used on inp
-ut line 262.
+ut line 393.
 (pdftex.def)             Requested size: 390.0pt x 164.868pt.
 ) (./discussion/discussion.tex
-Overfull \hbox (4.88599pt too wide) in paragraph at lines 267--1
+Overfull \hbox (4.88599pt too wide) in paragraph at lines 398--1
 []\OT1/cmr/m/n/17.28 The col-lab-o-ra-tion in this ap-pli-ca-tion is some-thing
  worth
  []
 
-[47] [48 <./case/img/essentialPredictoreScreenShot.png (PNG copy)>]
+[51] [52 <./case/img/essentialPredictoreScreenShot.png (PNG copy)>]
 Chapter 6.
-) (./conclusions/conclusions.tex [49
+) (./conclusions/conclusions.tex [53
 
 ]
 Chapter 7.
-) (./tdt4900.bbl [50
+) (./tdt4900.bbl [54
 
 ]
 Underfull \hbox (badness 2753) in paragraph at lines 15--20
@@ -1019,7 +1038,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 45--48
  , 2012.
  []
 
-[51
+[55
 
 ]
 Underfull \hbox (badness 3219) in paragraph at lines 66--69
@@ -1055,29 +1074,29 @@ Underfull \hbox (badness 10000) in paragraph at lines 90--93
 []$\OT1/cmtt/m/n/17.28 http : / / databank . worldbank . org / data /
  []
 
-[52]
+[56]
 Underfull \hbox (badness 1189) in paragraph at lines 95--98
 \OT1/cmr/m/n/17.28 and ppp.  []$\OT1/cmtt/m/n/17.28 http : / / databank . world
 bank . org /
  []
 
-) (./appendix/appendix.tex (./appendix/requirements/requirements.tex [53]
+) (./appendix/appendix.tex (./appendix/requirements/requirements.tex [57]
 Appendix A.
-[54
+[58
 
 ]
 Overfull \hbox (534.97359pt too wide) in paragraph at lines 24--56
 \OT1/cmr/m/n/17.28 http://localhost:8080/dhis2/sms/testSMS.action [] 
  []
 
-) (./appendix/rights/rights.tex [55]
+) (./appendix/rights/rights.tex [59]
 Overfull \vbox (23.29163pt too high) has occurred while \output is active []
 
 
-[56]) (./appendix/interviews/interviews.tex [57]
+[60]) (./appendix/interviews/interviews.tex [61]
 Appendix B.
 (./appendix/interviews/diagnosis/diagnosis.tex))
-(./appendix/journal/journal.tex [58
+(./appendix/journal/journal.tex [62
 
 ]
 Appendix C.
@@ -1087,14 +1106,14 @@ Overfull \hbox (6.9454pt too wide) in paragraph at lines 3--7
 sted
  []
 
-) (./appendix/journal/days/20140304_day_2.tex [59
+) (./appendix/journal/days/20140304_day_2.tex [63
 
 ]
 Overfull \hbox (281.95485pt too wide) in paragraph at lines 14--22
 [][] 
  []
 
-) (./appendix/journal/days/20140305_day_3.tex [60] [61]
+) (./appendix/journal/days/20140305_day_3.tex [64] [65]
 LaTeX Font Info:    Try loading font information for OMS+cmr on input line 25.
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
@@ -1103,41 +1122,41 @@ File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <17.28> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 25.
 )
-(./appendix/journal/days/20140306_day_4.tex [62])
+(./appendix/journal/days/20140306_day_4.tex [66])
 (./appendix/journal/days/20140307_day_5.tex)
-(./appendix/journal/days/20140308_day_6.tex [63])
-(./appendix/journal/days/20140309_day_7.tex [64])
+(./appendix/journal/days/20140308_day_6.tex [67])
+(./appendix/journal/days/20140309_day_7.tex [68])
 (./appendix/journal/days/20140310_day_8.tex)
-(./appendix/journal/days/20140311_day_9.tex [65])
+(./appendix/journal/days/20140311_day_9.tex [69])
 (./appendix/journal/days/20140312_day_10.tex)
 (./appendix/journal/days/20140313_day_11.tex)
-(./appendix/journal/days/20140314_day_12.tex [66])
-(./appendix/journal/days/20140315_day_13.tex [67])
+(./appendix/journal/days/20140314_day_12.tex [70])
+(./appendix/journal/days/20140315_day_13.tex [71])
 (./appendix/journal/days/20140316_day_14.tex)
-(./appendix/journal/days/20140317_day_15.tex [68] [69] [70])
-(./appendix/journal/days/20140318_day_16.tex [71])
-(./appendix/journal/days/20140319_day_17.tex [72] [73])
-(./appendix/journal/days/20140320_day_18.tex [74])
+(./appendix/journal/days/20140317_day_15.tex [72] [73] [74])
+(./appendix/journal/days/20140318_day_16.tex [75])
+(./appendix/journal/days/20140319_day_17.tex [76] [77])
+(./appendix/journal/days/20140320_day_18.tex [78])
 (./appendix/journal/days/20140321_day_19.tex)
 (./appendix/journal/days/20140322_day_20.tex)
-(./appendix/journal/days/20140323_day_21.tex [75])
+(./appendix/journal/days/20140323_day_21.tex [79])
 (./appendix/journal/days/20140324_day_22.tex)
-(./appendix/journal/days/20140325_day_23.tex [76])
-(./appendix/journal/days/20140326_day_24.tex [77])
-(./appendix/journal/days/20140327_day_25.tex [78])
-(./appendix/journal/days/20140328_day_26.tex [79])
-(./appendix/journal/days/20140329_day_27.tex [80])
-(./appendix/journal/days/20140330_day_28.tex [81])
-(./appendix/journal/days/20140331_day_29.tex [82]
+(./appendix/journal/days/20140325_day_23.tex [80])
+(./appendix/journal/days/20140326_day_24.tex [81])
+(./appendix/journal/days/20140327_day_25.tex [82])
+(./appendix/journal/days/20140328_day_26.tex [83])
+(./appendix/journal/days/20140329_day_27.tex [84])
+(./appendix/journal/days/20140330_day_28.tex [85])
+(./appendix/journal/days/20140331_day_29.tex [86]
 Overfull \hbox (0.36203pt too wide) in paragraph at lines 3--6
 \OT1/cmr/m/n/17.28 I am work-ing on get-ting a av-er-age con-sump-tion by month
 .
  []
 
-) (./appendix/journal/days/20140401_day_30.tex [83])
+) (./appendix/journal/days/20140401_day_30.tex [87])
 (./appendix/journal/days/20140402_day_31.tex)
 (./appendix/journal/days/20140403_day_32.tex)
-(./appendix/journal/days/20140404_day_33.tex [84]
+(./appendix/journal/days/20140404_day_33.tex [88]
 Overfull \hbox (2.0616pt too wide) in paragraph at lines 2--6
 \OT1/cmr/m/n/17.28 trans-la-tion of SMS mes-sages will be pos-si-ble 2.15. Work
 ed
@@ -1145,69 +1164,42 @@ ed
 
 )))
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 41.
- [85]
+ [89]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 41.
  (./tdt4900.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 41.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 41.
+Package rerunfilecheck Info: File `tdt4900.out' has not changed.
+(rerunfilecheck)             Checksum: 65DAB01A8A69EF2F447428E2A97E0767;11562.
 
 
-Package rerunfilecheck Warning: File `tdt4900.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
+LaTeX Warning: There were undefined references.
 
-Package rerunfilecheck Info: Checksums for `tdt4900.out':
-(rerunfilecheck)             Before: ABDBCCF1465822BD8C3F965B7641EF7E;11018
-(rerunfilecheck)             After:  E4535652A1A95B74384B9639D30FE1D7;11356.
 
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 11388 strings out of 493304
- 167447 string characters out of 6139872
- 304761 words of memory out of 5000000
- 14122 multiletter control sequences out of 15000+600000
+ 11430 strings out of 493304
+ 168002 string characters out of 6139872
+ 305085 words of memory out of 5000000
+ 14161 multiletter control sequences out of 15000+600000
  12549 words of font info for 45 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
  46i,12n,35p,1713b,494s stack positions out of 5000i,500n,10000p,200000b,80000s
-pdfTeX warning (dest): name{equation.5.6.7} has been referenced but does not 
-exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.5.6.5} has been referenced but does not 
-exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.5.6.4} has been referenced but does not 
-exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.5.6.3} has been referenced but does not 
-exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.5.6.2} has been referenced but does not 
-exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.5.6.1} has been referenced but does not 
-exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.5.4.2} has been referenced but does not 
-exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.5.4.1} has been referenced but does not 
-exist, replaced by a fixed one
-
-</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/
-share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/
-texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texliv
-e/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf
--dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/f
-onts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/ty
-pe1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/pu
-blic/amsfonts/cm/cmti12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/a
-msfonts/cm/cmtt12.pfb>
-Output written on tdt4900.pdf (88 pages, 1768136 bytes).
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></us
+r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/shar
+e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texl
+ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist
+/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/
+type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/
+public/amsfonts/cm/cmti12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public
+/amsfonts/cm/cmtt12.pfb>
+Output written on tdt4900.pdf (92 pages, 1775728 bytes).
 PDF statistics:
- 1552 PDF objects out of 1728 (max. 8388607)
- 1423 compressed objects within 15 object streams
- 356 named destinations out of 1000 (max. 500000)
- 1431 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1608 PDF objects out of 1728 (max. 8388607)
+ 1475 compressed objects within 15 object streams
+ 359 named destinations out of 1000 (max. 500000)
+ 1495 words of extra memory for PDF output out of 10000 (max. 10000000)
 
