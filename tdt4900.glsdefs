@@ -568,6 +568,36 @@ parent={},%
 %
 }%
 }%
+\ifglsentryexists{lmis}{}%
+{%
+\gls@defglossaryentry{lmis}%
+{%
+name={LMIS},%
+sort={LMIS},%
+type={main},%
+first={Logistics Management Information System (LMIS)},%
+firstplural={Logistics Management Information Systems(LMISs)},%
+text={LMIS},%
+plural={LMISs},%
+description={Logistics Management Information System},%
+descriptionplural={Logistics Management Information System\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Logistics Management Information System},%
+longplural={Logistics Management Information Systems},%
+short={LMIS},%
+shortplural={LMISs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
 \ifglsentryexists{moh}{}%
 {%
 \gls@defglossaryentry{moh}%
@@ -773,6 +803,36 @@ long={Simple Message Service},%
 longplural={Simple Message Services},%
 short={SMS},%
 shortplural={SMSs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{smsc}{}%
+{%
+\gls@defglossaryentry{smsc}%
+{%
+name={SMSC},%
+sort={SMSC},%
+type={main},%
+first={Simple Message Service Center (SMSC)},%
+firstplural={Simple Message Service Centers(SMSCs)},%
+text={SMSC},%
+plural={SMSCs},%
+description={Simple Message Service Center},%
+descriptionplural={Simple Message Service Center\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Simple Message Service Center},%
+longplural={Simple Message Service Centers},%
+short={SMSC},%
+shortplural={SMSCs},%
 counter={page},%
 parent={},%
 %
