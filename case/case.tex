@@ -147,6 +147,19 @@ Our planning phase became somewhat glued together with the intervention. And con
 \label{fig:chworder}
 \end{figure}
 
+\begin{figure}
+\centering
+
+\caption{Model of SMS data flow}
+\label{fig:smsdataflow}
+\end{figure}
+
+As seen in figure \ref{fig:chworder}, some overall plan were already in place. The result should be that the \gls{chw}'s should report what they receive whenever they receive any items. This will be registered in the database at the \gls{ndc}. 
+This would be straight from a village level to the national level. At the \gls{ndc} there will be a server running \gls{dhis2}, ready to receive data from MTN, the biggest mobile company in Rwanda. The \gls{sms} actually has to go through a \gls{smsc}, before being forwarded to the server at the \gls{ndc}. 
+The \gls{dhis2}-instance, from now called "the mobile instnce", will run all the necessary calculations and generate all the results. 
+So one of the tasks to be done was to set-up the mobile instance. 
+We knew that this would take some time, so in the mean time we sat up a test environment so that we could test our solutions. 
+
 \section{Intervention}
 
 \subsection{Setting up the Test Environment}
