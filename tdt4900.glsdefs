@@ -148,19 +148,19 @@ parent={},%
 %
 }%
 }%
-\ifglsentryexists{coia}{}%
+\ifglsentryexists{clmis}{}%
 {%
-\gls@defglossaryentry{coia}%
+\gls@defglossaryentry{clmis}%
 {%
-name={CoIA},%
-sort={CoIA},%
+name={Community Logistics Management Information System},%
+sort={Community Logistics Management Information System},%
 type={main},%
-first={Commission on Information and Accountability (CoIA)},%
-firstplural={Commission on Information and Accountabilitys(CoIAs)},%
-text={CoIA},%
-plural={CoIAs},%
-description={Commission on Information and Accountability},%
-descriptionplural={Commission on Information and Accountability\acrpluralsuffix },%
+first={\protect \newacronym (Community Logistics Management Information System)},%
+firstplural={\protect \newacronym s(Community Logistics Management Information Systems)},%
+text={Community Logistics Management Information System},%
+plural={Community Logistics Management Information Systems},%
+description={\newacronym },%
+descriptionplural={\newacronym \acrpluralsuffix },%
 symbol={\relax },%
 symbolplural={\relax },%
 user1={},%
@@ -169,10 +169,10 @@ user3={},%
 user4={},%
 user5={},%
 user6={},%
-long={Commission on Information and Accountability},%
-longplural={Commission on Information and Accountabilitys},%
-short={CoIA},%
-shortplural={CoIAs},%
+long={\protect \newacronym },%
+longplural={\protect \newacronym s},%
+short={Community Logistics Management Information System},%
+shortplural={Community Logistics Management Information Systems},%
 counter={page},%
 parent={},%
 %
@@ -293,6 +293,36 @@ long={Democratic Republic of Congo},%
 longplural={Democratic Republic of Congos},%
 short={DRC},%
 shortplural={DRCs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{elmis}{}%
+{%
+\gls@defglossaryentry{elmis}%
+{%
+name={E-LMIS},%
+sort={E-LMIS},%
+type={main},%
+first={Electronic Logistics Management Information System (E-LMIS)},%
+firstplural={Electronic Logistics Management Information Systems(E-LMISs)},%
+text={E-LMIS},%
+plural={E-LMISs},%
+description={Electronic Logistics Management Information System},%
+descriptionplural={Electronic Logistics Management Information System\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Electronic Logistics Management Information System},%
+longplural={Electronic Logistics Management Information Systems},%
+short={E-LMIS},%
+shortplural={E-LMISs},%
 counter={page},%
 parent={},%
 %
@@ -718,6 +748,36 @@ parent={},%
 %
 }%
 }%
+\ifglsentryexists{msh}{}%
+{%
+\gls@defglossaryentry{msh}%
+{%
+name={MSH},%
+sort={MSH},%
+type={main},%
+first={Management Sciences for Health (MSH)},%
+firstplural={Management Sciences for Healths(MSHs)},%
+text={MSH},%
+plural={MSHs},%
+description={Management Sciences for Health},%
+descriptionplural={Management Sciences for Health\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Management Sciences for Health},%
+longplural={Management Sciences for Healths},%
+short={MSH},%
+shortplural={MSHs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
 \ifglsentryexists{pepfar}{}%
 {%
 \gls@defglossaryentry{pepfar}%
@@ -893,6 +953,36 @@ long={University of Oslo},%
 longplural={University of Oslos},%
 short={UiO},%
 shortplural={UiOs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{(}{}%
+{%
+\gls@defglossaryentry{(}%
+{%
+name={C},%
+sort={C},%
+type={main},%
+first={o (C)},%
+firstplural={os(Cs)},%
+text={C},%
+plural={Cs},%
+description={o},%
+descriptionplural={o\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={o},%
+longplural={os},%
+short={C},%
+shortplural={Cs},%
 counter={page},%
 parent={},%
 %
