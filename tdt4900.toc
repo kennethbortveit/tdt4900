@@ -51,16 +51,16 @@
 \contentsline {section}{\numberline {5.4}Refining and Defining the Requirements}{37}{section.5.4}
 \contentsline {subsection}{\numberline {5.4.1}Use Cases}{39}{subsection.5.4.1}
 \contentsline {section}{\numberline {5.5}Planning}{41}{section.5.5}
-\contentsline {section}{\numberline {5.6}Situation Report}{41}{section.5.6}
+\contentsline {section}{\numberline {5.6}Situation Report}{42}{section.5.6}
 \contentsline {section}{\numberline {5.7}Diagnosis}{42}{section.5.7}
 \contentsline {subsection}{\numberline {5.7.1}Objectives}{42}{subsection.5.7.1}
-\contentsline {subsection}{\numberline {5.7.2}Use Cases}{44}{subsection.5.7.2}
-\contentsline {section}{\numberline {5.8}Planning}{45}{section.5.8}
+\contentsline {subsection}{\numberline {5.7.2}Use Cases}{43}{subsection.5.7.2}
+\contentsline {section}{\numberline {5.8}Planning}{46}{section.5.8}
 \contentsline {section}{\numberline {5.9}Intervention}{47}{section.5.9}
 \contentsline {subsection}{\numberline {5.9.1}Setting up the Test Environment}{47}{subsection.5.9.1}
 \contentsline {subsection}{\numberline {5.9.2}Setting up the mobile instance}{48}{subsection.5.9.2}
 \contentsline {subsection}{\numberline {5.9.3}User Importer}{48}{subsection.5.9.3}
-\contentsline {subsection}{\numberline {5.9.4}Re-Supply Algorithm}{49}{subsection.5.9.4}
+\contentsline {subsection}{\numberline {5.9.4}Re-Supply Algorithm}{50}{subsection.5.9.4}
 \contentsline {subsection}{\numberline {5.9.5}The Essential Predictore}{51}{subsection.5.9.5}
 \contentsline {chapter}{\numberline {6}Discussion Of Results}{53}{chapter.6}
 \contentsline {chapter}{\numberline {7}Conclusions}{54}{chapter.7}
