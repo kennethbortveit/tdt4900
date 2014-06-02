@@ -177,144 +177,52 @@ The communication channels that should be used between the system and the users 
 
 
 \section{Planning}
+\begin{figure}
+\centering
+\includegraphics[width=\textwidth]{case/img/lmisWorkPlan}
+\caption{Activity Plan For the \gls{chw} \gls{lmis}}
+\label{fig:activityPlan}
+\end{figure}
 With the objectives put in context we could start planning the specific activites for intervention. 
-The idea was to set up a test environment for the system. 
-We could then simulate all the use cases and in the process uncover the specific requirements of the system along the way.  
-This would also be a good way to show the clients, the \gls{chd}, our progress. 
-In parallell we would also start on setting up the real server at the \gls{ndc} in Rwanda. 
-This would actually be the same procedure as with the test environment, but shifted forward in time so that any activity would first be done in the test environment. 
-
-
-\section{Situation Report}
-
-The overall objective off all parties involved in this case was to configure and develop a system that could receive \gls{sms}-reports. 
-
-
-\section{Diagnosis}
-
-\subsection{Objectives}
-We started out with four simple objectives. 
-
+In our case the \gls{hmis} team made the overall plan for the project as in figure \ref{fig:activityPlan}.
+The objectives then relates to the following points of intervention, but taken into account that there are dependencies along the different activities.  
 \begin{description}
-\item[\#1:] Send SMS and email notifications based on rules.
-\item[\#2:] Send SMS and email reminder if a report is more than 4 days delayed.
-\item[\#3:] If user data does not map correctly user feedback should be provided.
-\item[\#4:] A functional SMS based reporting system.
+\item[\textbf{Objective \#1}]\hfill
+	\begin{description}
+	\item[3.4]Develop algorithm for estimating resupply amounts.
+	\item[3.7]Design SMS alerts for stocklow warnings to Cell and HC CHW coordinators.
+	\item[3.8]Add parameters table for setting minstock, reorderlevel, defaultsupply by drug.
+	\item[3.9]Design triggers to email reports to HC CHW supervisors and District Pharmacy staff.
+	\end{description}
+\item[\textbf{Objective \#2}]\hfill
+	\begin{description}
+	\item[3.5]Design SMS alerts for late stock reports.
+	\end{description}
+\item[\textbf{Objective \#3}]\hfill
+	\begin{description}
+	\item[3.6]Translate SMS feedback messages into Kinyarwanda.
+	\end{description}
+\item[\textbf{Objective \#4}]\hfill 
+	\begin{description}
+	\item[3.1]Import cell and village hierarchy into the DHIS-2.
+	\item[3.2]Clean up and import all CHWs with phone numbers into DHIS-2 as users.
+	\item[3.3]Create data elements for reporting (on the job training).
+	\end{description}
+
 \end{description}
 
-This was the basis for our case.
+The \gls{clmis} will in its final state run on servers at the \gls{ndc}.
+This would then involve another party when trying to configure and develop the \gls{clmis}. 
+Often taken for granted is stable power supply and internet access. 
+In our case, this was not the case. On could experience power cuts on a daily basis.
+And working directly on a server under these curcumstances is not very productive. 
+Taking this into account we decided to set up a test environment that we could work with. 
+Making our configurations and testing possible instantly before we make the changes on the live server at the \gls{ndc}. 
+This duplicated our work some, but makes it easier to develop and configure. For an example, one does not need to stop everybody's work if one happens to play with the database to much. Also it makes it easier to divide tasks so that they can run in parallell. 
 
-\subsection{Use Cases}
-
-\begin{table}
-	\centering
-	\begin{tabular}{|p{5cm}|p{7cm}|}
-		\hline
-		\multicolumn{2}{|c|}{\textbf{Send SMS and Email Notifications}}\\
-		\hline
-		\textbf{Goal:} & Create orders\\
-		\hline
-		\textbf{Primary Actor:} & System\\
-		\hline
-		\multirow{3}{*}{\textbf{Secondary Actor:}}	& Cell CHW Supervisor \\
-																								& HC CHW Supervisor \\ 
-																								& District Pharmacist \\
-		\hline
-		\multirow{4}{*}{\textbf{Main Success Scenario:}}	& 1. CHW reports distributed and stock values. \\
-																											& 2. System processes report. \\
-																											& 3. System calculates essential drugs needed for each level. \\
-																											& 4. System sends orders to cell, sector and district. \\
-		\hline
-		\textbf{Extensions:} & \\
-		\hline
-	\end{tabular}
-	\caption{Textual Use Case: Send SMS and Email Notifications}
-	\label{tab:notifications}
-\end{table}
-
-
-\begin{table}
-	\centering
-	\begin{tabular}{|p{5cm}|p{7cm}|}
-		\hline
-		\multicolumn{2}{|c|}{\textbf{Send SMS and Email Reminders}}\\
-		\hline
-		\textbf{Goal:} & Send reminder \\
-		\hline
-		\textbf{Primary Actor:} & System \\
-		\hline
-		\multirow{2}{*}{\textbf{Secondary Actor:}}	& CHW \\
-																								& Cell CHW Supervisor \\
-		\hline
-		\multirow{5}{*}{\textbf{Main Success Scenario:}}	& 1. CHW misses report deadline. \\
-																											& 2. 5 days goes by. \\
-																											& 3. System sends reminder by email and SMS. \\
-																											& 4. Another 5 days goes by. \\
-																											& 5. System sends reminder by email and SMS. \\
-																											
-		\hline
-		\textbf{Extensions:} & \\
-		\hline
-	\end{tabular}
-	\caption{Textual Use Case: Send SMS and Email Reminders}
-	\label{tab:reminders}
-\end{table}
-
-
-\begin{table}
-	\centering
-	\begin{tabular}{|p{5cm}|p{7cm}|}
-		\hline
-		\multicolumn{2}{|c|}{\textbf{Send Report Feedback}} \\
-		\hline
-		\textbf{Goal:} & Process SMS message\\
-		\hline
-		\textbf{Primary Actor:} & System \\
-		\hline
-		\textbf{Secondary Actor:} & Community Health Worker \\
-		\hline
-		\multirow{6}{*}{\textbf{Main Success Scenario:}}	& 1. CHW reports data incorrectly by SMS. \\
-																											& 2. System receives SMS. \\
-																											& 3. SMS triggers feedback message. \\
-																											& 4. CHW corrects message and re-sends report. \\
-																											& 5. System processes SMS. \\
-																											& 6. System updates database. \\
-		\hline
-		\textbf{Extensions:} & \\
-		\hline
-	\end{tabular}
-	\caption{Textual Use Case: Send Report Feedback}
-	\label{tab:feedback}
-\end{table}
-
-\begin{table}
-	\centering
-	\begin{tabular}{|p{5cm}|p{7cm}|}
-		\hline
-		\multicolumn{2}{|c|}{\textbf{Report Using SMS}}\\
-		\hline
-		\textbf{Goal:} & Update Database \\
-		\hline
-		\textbf{Primary Actor:} & Community Health Worker\\
-		\hline
-		\textbf{Secondary Actor:} & System \\
-		\hline
-		\multirow{5}{*}{\textbf{Main Success Scenario:}}	& 1. CHW reports stock and distributed values of essential drugs. \\
-																											& 2. System receives SMS. \\
-																											& 3. System processes SMS. \\
-																											& 4. System updates database. \\
-																											& 5. System sends confirmation SMS to CHW. \\
-		\hline
-		\textbf{Extensions:} & \\
-		\hline
-	\end{tabular}
-	\caption{Textual Use Case: Report Using SMS}
-	\label{tab:smsreport}
-\end{table}
-
+\section{Notes}
 Based on the four objectives we made four use cases that was supposed to represent each one. Objective \#1 would be represented with use case \ref{tab:notifications}, objective \#2 with \ref{tab:reminders}, \#3 with \ref{tab:feedback} and \#4 with \ref{tab:smsreport}. These use cases worked as guidelines for our further work. They were not updated later on, because of the continuous updated requirements from \gls{chd} and other co-workers. That is one of the key characterizations of this project. The requirements kept on updating as more and more people got involved in the process. The more progress we made the less progress we made. As the project was coming more and more realized, more interest were made to the project, and more requirements were added. There were a kind of common understanding in the team. Once you got the picture, you didn't need to operate on a model anymore. Everyone kinda knew what needed to be done. The result of the diagnosis were essentially a clarification of what we were supposed to do and who are involved. The clients are \gls{chd}. A meeting took place and a list of contact information was exchanged. The users of the system are \gls{chw}'s, Cell \gls{chw} Supervisors, \gls{hc} \gls{chw} Supervisors and District Pharmacists. The basic idea is that the \gls{chd} would like to have \gls{hmis} make a system that enables \gls{chw}'s to report using \gls{sms} and based on this have automatic generated orders sent to the \gls{hc}'s and District Pharmacists.
 
-\section{Planning}
 
 Our planning phase became somewhat glued together with the intervention. And continually altered. New problems were made visible by the interventions we made, and took us back to the planning phase. Making it very difficult to follow the action research model. In a perfect world, it is possible to plan everything to the point, but in our case new knowledge about the system was discovered along with our interventions and in turn, our plans had to be changed. 
 
@@ -339,16 +247,16 @@ So one of the tasks to be done was to set-up the mobile instance.
 We knew that this would take some time, so in the mean time we sat up a test environment so that we could test our solutions. 
 
 
-\section{Intervention}
+\subsection{Intervention}
 
-\subsection{Setting up the Test Environment}
+\subsubsection{Setting up the Test Environment}
 Our initial idea was to set up a \gls{dhis2} instance for testing purposes. This made it possible for us to check if our objectives was in some way already met with the functionality of \gls{dhis2}. We knew that \gls{dhis2} already supported \gls{sms} reporting, but it had never been tested. This was essentially what we did. Configured \gls{dhis2} to support our case. Turned out that objective \#3 and \#4 was already met with just configuring \gls{dhis2}. One thing that we did not think about that became a problem later was the translation of the feedback messages. \gls{chw}'s do not generally speak English, but the local language kinyarwanda. Fortunately, the translation of the messages was possible in the next version of \gls{dhis2}, so the objective was still met. 
 
-\subsection{Setting up the mobile instance}
+\subsubsection{Setting up the mobile instance}
 We sat up the \gls{dhis2} instance at the \gls{ndc}. This is server that the \gls{chw}'s will send their reports to. This process was very straight forward. The problem with having our instance running at a different location is that we have less control of our system. Now we have to go through another team to make certain changes to the system. Actually just slows down the whole process. Setting up the mobile instance made our plans more real and allowed us to show our work in real life. 
 
 
-\subsection{User Importer}
+\subsubsection{User Importer}
 The user importer was made in order to import user from a csv file. \gls{dhis2} did not support automatically generating usernames and passwords for bulk users. Therefore we needed a program to do this for us. The down side of this approach is that all the users of the system are not included in the process of creating user accounts. This by passes the \gls{hisp} philosophy of including local users in the system. Users may therefore have user accounts they are not aware of. Making the the users feel less ownership of the system. Despite of this we decided to take this approach.The amount of resources spent on manually register all the users would be to vast. 	
 
 \begin{figure}
@@ -360,7 +268,7 @@ The user importer was made in order to import user from a csv file. \gls{dhis2} 
 
 The user importer creates user accounts based on firstname, surname, village and phonenumber. After the user accounts are created they are able to send in \gls{sms}-reports based on the village they work from. 
 
-\subsection{Re-Supply Algorithm}
+\subsubsection{Re-Supply Algorithm}
 
 \begin{equation}
 stk_{n} = stk_{n-1} + rcd_{n} - disp_{n}
@@ -393,7 +301,7 @@ rcd_{n} = \sum_{k = 1}^{j} rcd_{n,k}
 A more mathematical description in equation \ref{eq:received}, where j represents the number of days in the month.
 \end{description}
 
-\subsection{The Essential Predictore}
+\subsubsection{The Essential Predictore}
 In order to generate the threshold values to send reminders from we chose to make a small application to run the algorithm. The application updates the database directly. The funny thing is that this was the only way we knew how to get our result, despite the support we had. The developer team from Oslo has offer the competence we needed, but due to the time frame we decided that we needed to build this application with SQL and JAVA. The application was kind of split in two. One of the team members at \gls{hmis} had a strong familiarity with databases and I had some JAVA experience. The core of the application was made in SQL, then it was wrapped inside a JAVA-\gls{gui}.
 
 \begin{figure}
