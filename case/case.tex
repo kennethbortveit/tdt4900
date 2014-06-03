@@ -185,7 +185,7 @@ The communication channels that should be used between the system and the users 
 \end{figure}
 With the objectives put in context we could start planning the specific activites for intervention. 
 In our case the \gls{hmis} team made the overall plan for the project as in figure \ref{fig:activityPlan}.
-The objectives then relates to the following points of intervention, but taken into account that there are dependencies along the different activities.  
+The objectives then relates to the following points of intervention, take into account that there are dependencies along the different activities. 
 \begin{description}
 \item[\textbf{Objective \#1}]\hfill
 	\begin{description}
@@ -220,44 +220,16 @@ Taking this into account we decided to set up a test environment that we could w
 Making our configurations and testing possible instantly before we make the changes on the live server at the \gls{ndc}. 
 This duplicated our work some, but makes it easier to develop and configure. For an example, one does not need to stop everybody's work if one happens to play with the database to much. Also it makes it easier to divide tasks so that they can run in parallell. 
 
-\section{Notes}
-Based on the four objectives we made four use cases that was supposed to represent each one. Objective \#1 would be represented with use case \ref{tab:notifications}, objective \#2 with \ref{tab:reminders}, \#3 with \ref{tab:feedback} and \#4 with \ref{tab:smsreport}. These use cases worked as guidelines for our further work. They were not updated later on, because of the continuous updated requirements from \gls{chd} and other co-workers. That is one of the key characterizations of this project. The requirements kept on updating as more and more people got involved in the process. The more progress we made the less progress we made. As the project was coming more and more realized, more interest were made to the project, and more requirements were added. There were a kind of common understanding in the team. Once you got the picture, you didn't need to operate on a model anymore. Everyone kinda knew what needed to be done. The result of the diagnosis were essentially a clarification of what we were supposed to do and who are involved. The clients are \gls{chd}. A meeting took place and a list of contact information was exchanged. The users of the system are \gls{chw}'s, Cell \gls{chw} Supervisors, \gls{hc} \gls{chw} Supervisors and District Pharmacists. The basic idea is that the \gls{chd} would like to have \gls{hmis} make a system that enables \gls{chw}'s to report using \gls{sms} and based on this have automatic generated orders sent to the \gls{hc}'s and District Pharmacists.
+\section{Intervention}
+The first thing that needed to be done was to set up the test environment. 
 
 
-Our planning phase became somewhat glued together with the intervention. And continually altered. New problems were made visible by the interventions we made, and took us back to the planning phase. Making it very difficult to follow the action research model. In a perfect world, it is possible to plan everything to the point, but in our case new knowledge about the system was discovered along with our interventions and in turn, our plans had to be changed. 
-
-\begin{figure}
-\centering
-\includegraphics[width=\textwidth]{case/img/orderFlow}
-\caption{Flow of Orders}
-\label{fig:chworder}
-\end{figure}
-
-\begin{figure}
-\centering
-
-\caption{Model of SMS data flow}
-\label{fig:smsdataflow}
-\end{figure}
-
-As seen in figure \ref{fig:chworder}, some overall plan were already in place. The result should be that the \gls{chw}'s should report what they receive whenever they receive any items. This will be registered in the database at the \gls{ndc}. 
-This would be straight from a village level to the national level. At the \gls{ndc} there will be a server running \gls{dhis2}, ready to receive data from MTN, the biggest mobile company in Rwanda. The \gls{sms} actually has to go through a \gls{smsc}, before being forwarded to the server at the \gls{ndc}. 
-The \gls{dhis2}-instance, from now called "the mobile instnce", will run all the necessary calculations and generate all the results. 
-So one of the tasks to be done was to set-up the mobile instance. 
-We knew that this would take some time, so in the mean time we sat up a test environment so that we could test our solutions. 
-
-
-\subsection{Intervention}
-
-\subsubsection{Setting up the Test Environment}
-Our initial idea was to set up a \gls{dhis2} instance for testing purposes. This made it possible for us to check if our objectives was in some way already met with the functionality of \gls{dhis2}. We knew that \gls{dhis2} already supported \gls{sms} reporting, but it had never been tested. This was essentially what we did. Configured \gls{dhis2} to support our case. Turned out that objective \#3 and \#4 was already met with just configuring \gls{dhis2}. One thing that we did not think about that became a problem later was the translation of the feedback messages. \gls{chw}'s do not generally speak English, but the local language kinyarwanda. Fortunately, the translation of the messages was possible in the next version of \gls{dhis2}, so the objective was still met. 
+\subsection{Setting up the Test Environment}
+The \gls{hmis} team had a lot of experience with setting up \gls{dhis2}. 
 
 \subsubsection{Setting up the mobile instance}
-We sat up the \gls{dhis2} instance at the \gls{ndc}. This is server that the \gls{chw}'s will send their reports to. This process was very straight forward. The problem with having our instance running at a different location is that we have less control of our system. Now we have to go through another team to make certain changes to the system. Actually just slows down the whole process. Setting up the mobile instance made our plans more real and allowed us to show our work in real life. 
-
 
 \subsubsection{User Importer}
-The user importer was made in order to import user from a csv file. \gls{dhis2} did not support automatically generating usernames and passwords for bulk users. Therefore we needed a program to do this for us. The down side of this approach is that all the users of the system are not included in the process of creating user accounts. This by passes the \gls{hisp} philosophy of including local users in the system. Users may therefore have user accounts they are not aware of. Making the the users feel less ownership of the system. Despite of this we decided to take this approach.The amount of resources spent on manually register all the users would be to vast. 	
 
 \begin{figure}
 \centering
@@ -265,9 +237,14 @@ The user importer was made in order to import user from a csv file. \gls{dhis2} 
 \caption{Screen Shot of the User Importer}
 \label{fig:screenUser}
 \end{figure}
+\subsubsection{The Essential Predictore}
 
-The user importer creates user accounts based on firstname, surname, village and phonenumber. After the user accounts are created they are able to send in \gls{sms}-reports based on the village they work from. 
-
+\begin{figure}
+\centering
+\includegraphics[width=\textwidth]{case/img/essentialPredictoreScreenShot}
+\caption{Screen Shot of the Essential Predictore}
+\label{fig:essPred}
+\end{figure}
 \subsubsection{Re-Supply Algorithm}
 
 \begin{equation}
@@ -294,21 +271,51 @@ This variable is calculated based on the the values reported and is the number o
 The quantity in stock at the end of the month of one village. Usually reported within 1--5 days into the next month it represents. Stock in April is usually reported between 1st and 5th of May.
 \item[$\mathbf{rcd_{n}}$]
 This variable is the sum of items received in one village during the month it represents. If a \gls{chw} receives 10 condoms 2nd of April, it should be reported the same day. If a village receives another 10 condoms the 13th of April, that should also be reported the same day it is received. $rcd_{n}$ for April would then be the sum of those values, 20.
+\end{description}
+
 \begin{equation}
 rcd_{n} = \sum_{k = 1}^{j} rcd_{n,k}
 \label{eq:received}
 \end{equation}.
+
 A more mathematical description in equation \ref{eq:received}, where j represents the number of days in the month.
-\end{description}
 
-\subsubsection{The Essential Predictore}
-In order to generate the threshold values to send reminders from we chose to make a small application to run the algorithm. The application updates the database directly. The funny thing is that this was the only way we knew how to get our result, despite the support we had. The developer team from Oslo has offer the competence we needed, but due to the time frame we decided that we needed to build this application with SQL and JAVA. The application was kind of split in two. One of the team members at \gls{hmis} had a strong familiarity with databases and I had some JAVA experience. The core of the application was made in SQL, then it was wrapped inside a JAVA-\gls{gui}.
 
-\begin{figure}
-\centering
-\includegraphics[width=\textwidth]{case/img/essentialPredictoreScreenShot}
-\caption{Screen Shot of the Essential Predictore}
-\label{fig:essPred}
-\end{figure}
 
-The collaboration in this application is something worth taking note of. Neither one of the team member knew exactly what the other was doing. The application was in fact copy-pasted together after making the the \gls{gui} and SQL-functionality separately. The application realizes the re-supply algorithm in a JAVA application and works with \gls{dhis2}. So all the tools from \gls{dhis2} could be taken advantage of. 
+
+
+
+%
+%\section{Notes}
+%Based on the four objectives we made four use cases that was supposed to represent each one. Objective \#1 would be represented with use case \ref{tab:notifications}, objective \#2 with \ref{tab:reminders}, \#3 with \ref{tab:feedback} and \#4 with \ref{tab:smsreport}. These use cases worked as guidelines for our further work. They were not updated later on, because of the continuous updated requirements from \gls{chd} and other co-workers. That is one of the key characterizations of this project. The requirements kept on updating as more and more people got involved in the process. The more progress we made the less progress we made. As the project was coming more and more realized, more interest were made to the project, and more requirements were added. There were a kind of common understanding in the team. Once you got the picture, you didn't need to operate on a model anymore. Everyone kinda knew what needed to be done. The result of the diagnosis were essentially a clarification of what we were supposed to do and who are involved. The clients are \gls{chd}. A meeting took place and a list of contact information was exchanged. The users of the system are \gls{chw}'s, Cell \gls{chw} Supervisors, \gls{hc} \gls{chw} Supervisors and District Pharmacists. The basic idea is that the \gls{chd} would like to have \gls{hmis} make a system that enables \gls{chw}'s to report using \gls{sms} and based on this have automatic generated orders sent to the \gls{hc}'s and District Pharmacists.
+%
+%
+%Our planning phase became somewhat glued together with the intervention. And continually altered. New problems were made visible by the interventions we made, and took us back to the planning phase. Making it very difficult to follow the action research model. In a perfect world, it is possible to plan everything to the point, but in our case new knowledge about the system was discovered along with our interventions and in turn, our plans had to be changed. 
+%
+%
+%
+%As seen in figure \ref{fig:chworder}, some overall plan were already in place. The result should be that the \gls{chw}'s should report what they receive whenever they receive any items. This will be registered in the database at the \gls{ndc}. 
+%This would be straight from a village level to the national level. At the \gls{ndc} there will be a server running \gls{dhis2}, ready to receive data from MTN, the biggest mobile company in Rwanda. The \gls{sms} actually has to go through a \gls{smsc}, before being forwarded to the server at the \gls{ndc}. 
+%The \gls{dhis2}-instance, from now called "the mobile instnce", will run all the necessary calculations and generate all the results. 
+%So one of the tasks to be done was to set-up the mobile instance. 
+%We knew that this would take some time, so in the mean time we sat up a test environment so that we could test our solutions. 
+%
+%
+%\subsection{Intervention}
+%
+%\subsubsection{Setting up the Test Environment}
+%Our initial idea was to set up a \gls{dhis2} instance for testing purposes. This made it possible for us to check if our objectives was in some way already met with the functionality of \gls{dhis2}. We knew that \gls{dhis2} already supported \gls{sms} reporting, but it had never been tested. This was essentially what we did. Configured \gls{dhis2} to support our case. Turned out that objective \#3 and \#4 was already met with just configuring \gls{dhis2}. One thing that we did not think about that became a problem later was the translation of the feedback messages. \gls{chw}'s do not generally speak English, but the local language kinyarwanda. Fortunately, the translation of the messages was possible in the next version of \gls{dhis2}, so the objective was still met. 
+%
+%We sat up the \gls{dhis2} instance at the \gls{ndc}. This is server that the \gls{chw}'s will send their reports to. This process was very straight forward. The problem with having our instance running at a different location is that we have less control of our system. Now we have to go through another team to make certain changes to the system. Actually just slows down the whole process. Setting up the mobile instance made our plans more real and allowed us to show our work in real life. 
+%
+%
+%The user importer was made in order to import user from a csv file. \gls{dhis2} did not support automatically generating usernames and passwords for bulk users. Therefore we needed a program to do this for us. The down side of this approach is that all the users of the system are not included in the process of creating user accounts. This by passes the \gls{hisp} philosophy of including local users in the system. Users may therefore have user accounts they are not aware of. Making the the users feel less ownership of the system. Despite of this we decided to take this approach.The amount of resources spent on manually register all the users would be to vast. 	
+%
+%
+%The user importer creates user accounts based on firstname, surname, village and phonenumber. After the user accounts are created they are able to send in \gls{sms}-reports based on the village they work from. 
+%
+%
+%In order to generate the threshold values to send reminders from we chose to make a small application to run the algorithm. The application updates the database directly. The funny thing is that this was the only way we knew how to get our result, despite the support we had. The developer team from Oslo has offer the competence we needed, but due to the time frame we decided that we needed to build this application with SQL and JAVA. The application was kind of split in two. One of the team members at \gls{hmis} had a strong familiarity with databases and I had some JAVA experience. The core of the application was made in SQL, then it was wrapped inside a JAVA-\gls{gui}.
+%
+%
+%The collaboration in this application is something worth taking note of. Neither one of the team member knew exactly what the other was doing. The application was in fact copy-pasted together after making the the \gls{gui} and SQL-functionality separately. The application realizes the re-supply algorithm in a JAVA application and works with \gls{dhis2}. So all the tools from \gls{dhis2} could be taken advantage of. 

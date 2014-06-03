@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.5.5)  3 JUN 2014 00:26
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.5.5)  3 JUN 2014 04:06
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -738,7 +738,7 @@ Overfull \hbox (2.6987pt too wide) in paragraph at lines 8--9
 
 [5
 
-] [6] <case/img/chwSupplyChainFuture.png, id=139, 646.8165pt x 418.509pt>
+] [6] <case/img/chwSupplyChainFuture.png, id=135, 646.8165pt x 418.509pt>
 File: case/img/chwSupplyChainFuture.png Graphic file (type png)
 
 <use case/img/chwSupplyChainFuture.png>
@@ -751,43 +751,36 @@ LaTeX Warning: Reference `chwSupplyChainFuture' on page 7 undefined on input li
 ne 60.
 
 [7] [8 <./case/img/chwSupplyChainFuture.png (PNG copy)>] [9]
-<case/img/lmisWorkPlan.pdf, id=157, 591.20876pt x 597.23125pt>
+<case/img/lmisWorkPlan.pdf, id=153, 591.20876pt x 597.23125pt>
 File: case/img/lmisWorkPlan.pdf Graphic file (type pdf)
 
 <use case/img/lmisWorkPlan.pdf>
 Package pdftex.def Info: case/img/lmisWorkPlan.pdf used on input line 182.
 (pdftex.def)             Requested size: 390.0pt x 393.98247pt.
  [10] [11 <./case/img/lmisWorkPlan.pdf>]
-[12] <case/img/orderFlow.jpg, id=190, 816.04875pt x 564.60938pt>
-File: case/img/orderFlow.jpg Graphic file (type jpg)
-
-<use case/img/orderFlow.jpg>
-Package pdftex.def Info: case/img/orderFlow.jpg used on input line 223.
-(pdftex.def)             Requested size: 390.0pt x 269.83774pt.
- [13 <./case/img/orderFlow.jpg>]
-<case/img/userImporterScreenShot.png, id=196, 779.91376pt x 558.085pt>
+<case/img/userImporterScreenShot.png, id=178, 779.91376pt x 558.085pt>
 File: case/img/userImporterScreenShot.png Graphic file (type png)
 
 <use case/img/userImporterScreenShot.png>
 Package pdftex.def Info: case/img/userImporterScreenShot.png used on input line
- 256.
+ 236.
 (pdftex.def)             Requested size: 390.0pt x 279.06737pt.
- [14] [15 <./case/img/userImporterScreenShot.png (PNG copy)>] [16]
-<case/img/essentialPredictoreScreenShot.png, id=224, 812.03375pt x 343.2825pt>
+
+<case/img/essentialPredictoreScreenShot.png, id=179, 812.03375pt x 343.2825pt>
 File: case/img/essentialPredictoreScreenShot.png Graphic file (type png)
 
 <use case/img/essentialPredictoreScreenShot.png>
 Package pdftex.def Info: case/img/essentialPredictoreScreenShot.png used on inp
-ut line 301.
+ut line 244.
 (pdftex.def)             Requested size: 390.0pt x 164.868pt.
-) (./tdt4900.bbl [17 <./case/img/essentialPredictoreScreenShot.png (PNG copy)>]
-
+ [12] [13 <./case/img/userImporterScreenShot.png (PNG copy)>] [14 <./case/img/e
+ssentialPredictoreScreenShot.png (PNG copy)>]) (./tdt4900.bbl [15]
 Underfull \hbox (badness 3557) in paragraph at lines 22--27
 []\OT1/cmr/m/n/12 Hisp.  []$\OT1/cmtt/m/n/12 http : / / www . mn . uio . no / i
 fi / english / research / networks /
  []
 
-[18
+[16
 
 ]
 Underfull \hbox (badness 10000) in paragraph at lines 75--78
@@ -809,23 +802,23 @@ n/12 http : / / databank .
 
 )
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 41.
- [19]
+ [17]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 41.
  (./tdt4900.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 41.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 41.
 Package rerunfilecheck Info: File `tdt4900.out' has not changed.
-(rerunfilecheck)             Checksum: 8C34C7F1ED59DF3F99E68012D1A06384;907.
+(rerunfilecheck)             Checksum: A45FE967DA10CD3DD611EEE85CED30A2;933.
 
 
 LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 10754 strings out of 493304
- 155996 string characters out of 6139872
- 304283 words of memory out of 5000000
- 13927 multiletter control sequences out of 15000+600000
+ 10741 strings out of 493304
+ 155796 string characters out of 6139872
+ 304193 words of memory out of 5000000
+ 13921 multiletter control sequences out of 15000+600000
  11676 words of font info for 42 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
  46i,11n,35p,1713b,446s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -841,10 +834,10 @@ sfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts
 /cm/cmsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmt
 i12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pf
 b>
-Output written on tdt4900.pdf (22 pages, 797363 bytes).
+Output written on tdt4900.pdf (20 pages, 761581 bytes).
 PDF statistics:
- 340 PDF objects out of 1000 (max. 8388607)
- 291 compressed objects within 3 object streams
- 76 named destinations out of 1000 (max. 500000)
- 138 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 319 PDF objects out of 1000 (max. 8388607)
+ 273 compressed objects within 3 object streams
+ 71 named destinations out of 1000 (max. 500000)
+ 133 words of extra memory for PDF output out of 10000 (max. 10000000)
 

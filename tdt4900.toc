@@ -10,10 +10,9 @@
 \contentsline {section}{\numberline {1.4}Refining and Defining the Requirements}{7}{section.1.4}
 \contentsline {subsection}{\numberline {1.4.1}Use Cases}{7}{subsection.1.4.1}
 \contentsline {section}{\numberline {1.5}Planning}{10}{section.1.5}
-\contentsline {section}{\numberline {1.6}Notes}{12}{section.1.6}
-\contentsline {subsection}{\numberline {1.6.1}Intervention}{14}{subsection.1.6.1}
-\contentsline {subsubsection}{Setting up the Test Environment}{14}{section*.6}
-\contentsline {subsubsection}{Setting up the mobile instance}{14}{section*.7}
-\contentsline {subsubsection}{User Importer}{14}{section*.8}
-\contentsline {subsubsection}{Re-Supply Algorithm}{16}{section*.9}
-\contentsline {subsubsection}{The Essential Predictore}{17}{section*.10}
+\contentsline {section}{\numberline {1.6}Intervention}{12}{section.1.6}
+\contentsline {subsection}{\numberline {1.6.1}Setting up the Test Environment}{12}{subsection.1.6.1}
+\contentsline {subsubsection}{Setting up the mobile instance}{14}{section*.6}
+\contentsline {subsubsection}{User Importer}{14}{section*.7}
+\contentsline {subsubsection}{The Essential Predictore}{14}{section*.8}
+\contentsline {subsubsection}{Re-Supply Algorithm}{14}{section*.9}
