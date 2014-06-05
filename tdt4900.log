@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.5.5)  3 JUN 2014 04:06
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.5.5)  5 JUN 2014 02:43
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -758,23 +758,26 @@ File: case/img/lmisWorkPlan.pdf Graphic file (type pdf)
 Package pdftex.def Info: case/img/lmisWorkPlan.pdf used on input line 182.
 (pdftex.def)             Requested size: 390.0pt x 393.98247pt.
  [10] [11 <./case/img/lmisWorkPlan.pdf>]
-<case/img/userImporterScreenShot.png, id=178, 779.91376pt x 558.085pt>
+
+LaTeX Warning: Reference `fig:smsFlow' on page 12 undefined on input line 236.
+
+[12] <case/img/userImporterScreenShot.png, id=182, 779.91376pt x 558.085pt>
 File: case/img/userImporterScreenShot.png Graphic file (type png)
 
 <use case/img/userImporterScreenShot.png>
 Package pdftex.def Info: case/img/userImporterScreenShot.png used on input line
- 236.
+ 256.
 (pdftex.def)             Requested size: 390.0pt x 279.06737pt.
 
-<case/img/essentialPredictoreScreenShot.png, id=179, 812.03375pt x 343.2825pt>
+<case/img/essentialPredictoreScreenShot.png, id=183, 812.03375pt x 343.2825pt>
 File: case/img/essentialPredictoreScreenShot.png Graphic file (type png)
 
 <use case/img/essentialPredictoreScreenShot.png>
 Package pdftex.def Info: case/img/essentialPredictoreScreenShot.png used on inp
-ut line 244.
+ut line 264.
 (pdftex.def)             Requested size: 390.0pt x 164.868pt.
- [12] [13 <./case/img/userImporterScreenShot.png (PNG copy)>] [14 <./case/img/e
-ssentialPredictoreScreenShot.png (PNG copy)>]) (./tdt4900.bbl [15]
+ [13] [14 <./case/img/userImporterScreenShot.png (PNG copy)> <./case/img/essent
+ialPredictoreScreenShot.png (PNG copy)>]) (./tdt4900.bbl [15]
 Underfull \hbox (badness 3557) in paragraph at lines 22--27
 []\OT1/cmr/m/n/12 Hisp.  []$\OT1/cmtt/m/n/12 http : / / www . mn . uio . no / i
 fi / english / research / networks /
@@ -813,15 +816,18 @@ Package rerunfilecheck Info: File `tdt4900.out' has not changed.
 
 LaTeX Warning: There were undefined references.
 
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
  ) 
 Here is how much of TeX's memory you used:
- 10741 strings out of 493304
- 155796 string characters out of 6139872
+ 10745 strings out of 493304
+ 155850 string characters out of 6139872
  304193 words of memory out of 5000000
- 13921 multiletter control sequences out of 15000+600000
+ 13923 multiletter control sequences out of 15000+600000
  11676 words of font info for 42 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
- 46i,11n,35p,1713b,446s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 46i,11n,35p,1713b,488s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb></usr/share
 /texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texli
@@ -834,10 +840,10 @@ sfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts
 /cm/cmsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmt
 i12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pf
 b>
-Output written on tdt4900.pdf (20 pages, 761581 bytes).
+Output written on tdt4900.pdf (20 pages, 762441 bytes).
 PDF statistics:
- 319 PDF objects out of 1000 (max. 8388607)
- 273 compressed objects within 3 object streams
- 71 named destinations out of 1000 (max. 500000)
+ 323 PDF objects out of 1000 (max. 8388607)
+ 277 compressed objects within 3 object streams
+ 73 named destinations out of 1000 (max. 500000)
  133 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -12,7 +12,7 @@
 \contentsline {section}{\numberline {1.5}Planning}{10}{section.1.5}
 \contentsline {section}{\numberline {1.6}Intervention}{12}{section.1.6}
 \contentsline {subsection}{\numberline {1.6.1}Setting up the Test Environment}{12}{subsection.1.6.1}
-\contentsline {subsubsection}{Setting up the mobile instance}{14}{section*.6}
-\contentsline {subsubsection}{User Importer}{14}{section*.7}
-\contentsline {subsubsection}{The Essential Predictore}{14}{section*.8}
-\contentsline {subsubsection}{Re-Supply Algorithm}{14}{section*.9}
+\contentsline {subsubsection}{Setting up the mobile instance}{13}{section*.6}
+\contentsline {subsubsection}{User Importer}{13}{section*.7}
+\contentsline {subsubsection}{The Essential Predictore}{13}{section*.8}
+\contentsline {subsubsection}{Re-Supply Algorithm}{13}{section*.9}
