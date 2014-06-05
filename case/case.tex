@@ -4,8 +4,7 @@ There has been some interest in the area of \gls{sms} reporting from the \gls{ui
 The \gls{dhis2} software supporting this functionality has been developed, but not yet been used.
 The \gls{hmis} team at the \gls{moh} in Rwanda has for some time been wanting to use \gls{dhis2} in order to make a system for keeping track of \gls{chw}'s essential drugs and supplies. The system, \gls{clmis}, should be able to track \gls{chw}'s stock and distributions of these items. 
 The \gls{hmis} team are actually working for the \gls{chd} who are the clients in this case. 
-
-The current system is primarely a pull system where \gls{chw}'s make monthly visits to their local \gls{hc} \gls{chw} supervisors in order to resupply. 
+The current system is primarily a pull system where \gls{chw}'s make monthly visits to their local \gls{hc} \gls{chw} supervisors in order to resupply. 
 \begin{quotation}
 In order for these \gls{chw}'s to provide uninterupted care to their communities, it is essential to have access to the essential drugs and supplies these health workers dispense.
 \end{quotation}
@@ -54,10 +53,10 @@ Collecting the requirements would then be based on what we understood from what 
 \centering
 \includegraphics[width=\textwidth]{case/img/chwSupplyChainFuture}
 \caption{\gls{chw} Supply Chain in the Future}
-\label{chwSupplyChainPresent}
+\label{fig:chwSupplyChainFuture}
 \end{figure}
 
-Figure \ref{chwSupplyChainFuture} shows the desired \gls{bpm}. The specifics did not allways match what had previously been discussed, but the important part was to get an overall picture of how thing should work. For an example we will see that the \gls{chw}'s would rather report on what they receive instead of what they dispense. After analyzing the \gls{chw} supply chain \gls{bpm} we found the following. 
+Figure \ref{fig:chwSupplyChainFuture} shows the desired \gls{bpm}. The specifics did not allways match what had previously been discussed, but the important part was to get an overall picture of how thing should work. For an example we will see that the \gls{chw}'s would rather report on what they receive instead of what they dispense. After analyzing the \gls{chw} supply chain \gls{bpm} we found the following. 
 Activity 1, 2, 3, 7 was supported as long as the \gls{chw} had a mobile phone. After discussing it with one of \gls{chd}'s team members, it was fairly safe to assume this. 
 Activity 4 relates directly to objective \#4.
 Activity 6 relates to objective \#3. 
@@ -230,33 +229,73 @@ The test environment was set up using an Android smart phone and a laptop.
 \begin{figure}
 \centering
 \caption{Figure of \gls{sms}-flow}
-
+\includegraphics[width=\textwidth]{case/img/smsFlow}
 \label{fig:smsFlow} 
 \end{figure} 
-As seen in figure \ref{fig:smsFlow}, in order for a server to be able to receive \gls{sms}'s, we need a \gls{smsc}. 
-A \gls{sms} usally have.... begin to describe here.
-In a real scenario we would involve a local mobile operator that would provide the \gls{smsc}, but our case this was not an option yet. 
-So we sat up a test environment that would simulate the real thing in order to continually test.
 
 \begin{figure}
 \centering
-
+\includegraphics[width=\textwidth]{case/img/testEnvironment}
 \caption{Figure of Test Environment}
 \label{fig:testEnvironment} 
 \end{figure}
 
+Based on advice from the \gls{hisp}-team at the \gls{uio} we chose to use \gls{smpp} protocol in order to transfer \gls{sms}'s from the \gls{chw}'s. In our case, this requires a connection with a \gls{smsc} at a local mobile operator. Typically the \gls{sms} is typed in by the \gls{chw} and sent to a telephone number, usually a four digit number. The message is then received at the \gls{smsc} where it is forwarded to the server at the receiving end for processing. This is an over simplification, but gets the basic idea across. After processing the server is able to send \gls{sms} feedback to the user. In order for us to simulate this at the office space, we chose to use a \gls{sms} gateway application running on a Android device. When a \gls{sms} with the right code word is received, it forwards the \gls{sms} to the server. 
+
+\subsection{Configuring \gls{dhis2}}
+In order to process the reports \gls{dhis2} has to be ready to receive them.
+This involves creating user accounts with the phone number of the sender, creating data elements and sets that make meaning to the values reported and making the codes for the different supplies and drugs that the \gls{chw} reports on. 
+
+\begin{table}
+\centering
+\begin{tabular}{l l}
+
+\textbf{Data Element Category Combination} &	\textbf{Code} \\
+\hline
+\textbf{Command} & \textit{stk} \\
+amoxicillin\_stk\_eom &	am\\
+condom\_stk\_eom & cm\\
+injectables\_stk\_eom &	dp\\
+mebandazole\_stk\_eom &	mb\\
+misoprostol\_stk\_eom &	ms\\
+ocp\_stk\_eom &	pp\\
+ors\_stk\_eom &	sr\\
+primo\_red\_stk\_eom &	pr\\
+primo\_yellow\_stk\_eom & py\\
+rdt\_stk\_eom &	rd\\
+sureau\_stk\_eom & se\\
+zinc\_stk\_eom & zn \\
+\hline
+\end{tabular}
+\caption{Codes for Drugs and Supplies}
+\label{tab:codesDS}
+\end{table}
 
 \begin{figure}
 \centering
-
-\caption{Figure of how Test simulates the real}
-\label{fig:testConvertReal}
+\includegraphics[height=5cm]{case/img/smsExample}
+\caption{Example \gls{sms} report}
+\label{fig:exsms}
 \end{figure}
-The test environment then 
 
-\subsubsection{Setting up the mobile instance}
+Table \ref{tab:codesDS} shows names and codes for the drugs and supplies in our case. 
+This is data elements for stock at the end of month.
+A typical scenario would be that a \gls{chw} counts each item they have at the village the end of the month. Then creates a text message that is sent to the four digit number provided by the mobile operator. Example message in figure \ref{fig:exsms}. In the example message, \textit{stk} is the code word that tells \gls{dhis2} what kind of data is being reported. The first two letters in the message the maps to the different drugs and supplies in the database with the following value.  
 
-\subsubsection{User Importer}
+\section{Demo 1}
+After the basic set up we had a short demo for a few members of the \gls{hmis} team. 
+This demo showed the most the basic functionality and how we may configure it to fit our requirements. We discussed naming of the different codes and typical issues. One thing was misspelling and user feedback. 
+One thing worth taking note of is that a common spelling error was to type the number '1' instead of the letter 'l' and the number '0' instead of the letter 'o'. We solved this by avoiding the letters in the \gls{sms}. Also, we also took note of that many of the users might not be fluid in or even speak English. The local language is 'Kinyarwanda'. An old Buntu language that is very much used even though Rwanda is transitioning to English. \gls{dhis2} is currently not supporting 'Kinyarwanda'.
+
+\subsection{Setting up the mobile instance}
+In parallel with the setting up the test environment we began configuring the \gls{dhis2} in the cloud service provided by \gls{ndc}. 
+We soon realized that setting up a test environment was worth the time. 
+The \gls{ndc} is being administrated and operated by another team outside the \gls{hmis} team. 
+This caused some delays. Our first goal was to update Ubuntu on our virtual server in the cloud. 
+This took around 6 days from the request was made. Putting this in some perspective. We updated a server during this period. It took about 3 hours. With the test environment in place we could work at our own pace and switch to update the virtual server with pre-tested solutions while work outside our jurisdiction was pending. After updating and setting up the virtual server with \gls{dhis2} collaboration was somewhat easier. Everybody on the \gls{hmis} team had their own user accounts and it became easy to follow our progress as a team. Time spent on configuring was reduced since we already had done it in the test environment.
+
+
+\subsection{User Importer}
 
 \begin{figure}
 \centering

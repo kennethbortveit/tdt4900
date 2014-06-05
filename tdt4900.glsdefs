@@ -898,6 +898,36 @@ parent={},%
 %
 }%
 }%
+\ifglsentryexists{smpp}{}%
+{%
+\gls@defglossaryentry{smpp}%
+{%
+name={SMPP},%
+sort={SMPP},%
+type={main},%
+first={Short Message Peer to Peer (SMPP)},%
+firstplural={Short Message Peer to Peers(SMPPs)},%
+text={SMPP},%
+plural={SMPPs},%
+description={Short Message Peer to Peer},%
+descriptionplural={Short Message Peer to Peer\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Short Message Peer to Peer},%
+longplural={Short Message Peer to Peers},%
+short={SMPP},%
+shortplural={SMPPs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
 \ifglsentryexists{sms}{}%
 {%
 \gls@defglossaryentry{sms}%
