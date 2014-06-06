@@ -1,18 +1,14 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.9.13)  22 MAY 2014 12:31
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.5.5)  6 JUN 2014 07:18
 entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
 **document.tex
-(C:\github\tdt4900\tdt4900-status\document.tex
+(./document.tex
 LaTeX2e <2011/06/27>
-Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, arabic, armenian, assamese, basque, bengali
-, bokmal, bulgarian, catalan, coptic, croatian, czech, danish, dutch, esperanto, estonian, farsi, finnish, french, galic
-ian, german, german-x-2012-05-30, greek, gujarati, hindi, hungarian, icelandic, indonesian, interlingua, irish, italian,
- kannada, kurmanji, latin, latvian, lithuanian, malayalam, marathi, mongolian, mongolianlmc, monogreek, ngerman, ngerman
--x-2012-05-30, nynorsk, oriya, panjabi, pinyin, polish, portuguese, romanian, russian, sanskrit, serbian, slovak, sloven
-ian, spanish, swedish, swissgerman, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, usenglishmax, w
-elsh, loaded.
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\article.cls"
+Babel <3.9h> and hyphenation patterns for 78 languages loaded.
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\size10.clo"
+(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
 File: size10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count79
@@ -27,18 +23,19 @@ File: size10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\inputenc.sty"
+(/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
 Package: inputenc 2008/03/30 v1.1d Input encoding file
 \inpenc@prehook=\toks14
 \inpenc@posthook=\toks15
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\utf8.def"
+(/usr/share/texlive/texmf-dist/tex/latex/base/utf8.def
 File: utf8.def 2008/04/05 v1.1m UTF-8 support for inputenc
 Now handling font encoding OML ...
 ... no UTF-8 mapping file for font encoding OML
 Now handling font encoding T1 ...
 ... processing UTF-8 mapping file for font encoding T1
- ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\t1enc.dfu"
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/t1enc.dfu
 File: t1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
    defining Unicode char U+00A1 (decimal 161)
    defining Unicode char U+00A3 (decimal 163)
@@ -187,7 +184,8 @@ File: t1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
 )
 Now handling font encoding OT1 ...
 ... processing UTF-8 mapping file for font encoding OT1
- ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\ot1enc.dfu"
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/ot1enc.dfu
 File: ot1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
    defining Unicode char U+00A1 (decimal 161)
    defining Unicode char U+00A3 (decimal 163)
@@ -218,7 +216,7 @@ File: ot1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
 Now handling font encoding OMS ...
 ... processing UTF-8 mapping file for font encoding OMS
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\omsenc.dfu"
+(/usr/share/texlive/texmf-dist/tex/latex/base/omsenc.dfu
 File: omsenc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
    defining Unicode char U+00A7 (decimal 167)
    defining Unicode char U+00B6 (decimal 182)
@@ -241,7 +239,9 @@ Now handling font encoding U ...
    defining Unicode char U+2026 (decimal 8230)
    defining Unicode char U+2122 (decimal 8482)
    defining Unicode char U+2423 (decimal 9251)
-)) (C:\github\tdt4900\tdt4900-status\document.aux)
+)) (./document.aux)
+\openout1 = `document.aux'.
+
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
 LaTeX Font Info:    ... okay on input line 9.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 9.
@@ -254,41 +254,32 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 9.
 LaTeX Font Info:    ... okay on input line 9.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 9.
 LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 10.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 10.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 10.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 14.
 
-
-LaTeX Warning: No \author given.
-
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 15.
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\omscmr.fd"
+(/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 15.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 14.
  [1
 
-{C:/Users/Kenneth/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] [2] (C:\github\tdt4900\tdt4900-status\document.aux
-) ) 
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./document.aux) ) 
 Here is how much of TeX's memory you used:
- 451 strings out of 493921
- 4828 string characters out of 3144870
- 53277 words of memory out of 3000000
- 3802 multiletter control sequences out of 15000+200000
- 7280 words of font info for 26 fonts, out of 3000000 for 9000
- 841 hyphenation exceptions out of 8191
- 23i,6n,19p,167b,193s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts
-/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Prog
-ram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/publi
-c/amsfonts/cm/cmsy10.pfb>
-Output written on document.pdf (2 pages, 60938 bytes).
+ 429 strings out of 493304
+ 4365 string characters out of 6139872
+ 56661 words of memory out of 5000000
+ 3954 multiletter control sequences out of 15000+600000
+ 4245 words of font info for 16 fonts, out of 8000000 for 9000
+ 957 hyphenation exceptions out of 8191
+ 23i,4n,19p,166b,145s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/sh
+are/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/te
+xlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/t
+exmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on document.pdf (1 page, 38401 bytes).
 PDF statistics:
- 29 PDF objects out of 1000 (max. 8388607)
+ 20 PDF objects out of 1000 (max. 8388607)
+ 13 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
