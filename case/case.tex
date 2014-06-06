@@ -282,7 +282,7 @@ Table \ref{tab:codesDS} shows names and codes for the drugs and supplies in our 
 This is data elements for stock at the end of month.
 A typical scenario would be that a \gls{chw} counts each item they have at the village the end of the month. Then creates a text message that is sent to the four digit number provided by the mobile operator. Example message in figure \ref{fig:exsms}. In the example message, \textit{stk} is the code word that tells \gls{dhis2} what kind of data is being reported. The first two letters in the message the maps to the different drugs and supplies in the database with the following value.  
 
-\section{Demo 1}
+\subsection{Demo 1}
 After the basic set up we had a short demo for a few members of the \gls{hmis} team. 
 This demo showed the most the basic functionality and how we may configure it to fit our requirements. We discussed naming of the different codes and typical issues. One thing was misspelling and user feedback. 
 One thing worth taking note of is that a common spelling error was to type the number '1' instead of the letter 'l' and the number '0' instead of the letter 'o'. We solved this by avoiding the letters in the \gls{sms}. Also, we also took note of that many of the users might not be fluid in or even speak English. The local language is 'Kinyarwanda'. An old Buntu language that is very much used even though Rwanda is transitioning to English. \gls{dhis2} is currently not supporting 'Kinyarwanda'.
@@ -293,11 +293,11 @@ We soon realized that setting up a test environment was worth the time.
 The \gls{ndc} is being administrated and operated by another team outside the \gls{hmis} team. 
 This caused some delays. Our first goal was to update Ubuntu on our virtual server in the cloud. 
 This took around 6 days from the request was made. Putting this in some perspective. We updated a server during this period. It took about 3 hours. With the test environment in place we could work at our own pace and switch to update the virtual server with pre-tested solutions while work outside our jurisdiction was pending. After updating and setting up the virtual server with \gls{dhis2} collaboration was somewhat easier. Everybody on the \gls{hmis} team had their own user accounts on the mobile instace and it became easy to follow our progress as a team. Time spent on configuring was reduced since we already had done it in the test environment.
-After setting up \gls{dhis2}, the our progress with the mobile instance, \gls{clmis}, stopped. 
-Reason for this is that the \gls{smpp} protocol agreement needed to be signed, there was a disagreement about which department should be responsible for the agreement. As mentioned, the \gls{smpp} protocol was very essential to our solution. 
+After setting up \gls{dhis2}, our progress with the mobile instance, \gls{clmis}, hit the breakes. 
+Reason for this is that the \gls{smpp} protocol agreement needed to be signed. There was a disagreement about which department should be responsible for the agreement. As mentioned, the \gls{smpp} protocol was very essential to our solution, but this had to be put on hold.
 
 
-\subsection{User Importer}
+\subsubsection{User Importer}
 
 \begin{figure}
 \centering
@@ -305,19 +305,22 @@ Reason for this is that the \gls{smpp} protocol agreement needed to be signed, t
 \caption{Screen Shot of the User Importer}
 \label{fig:screenUser}
 \end{figure}
-\subsubsection{The Essential Predictore}
 
-\begin{figure}
-\centering
-\includegraphics[width=\textwidth]{case/img/essentialPredictoreScreenShot}
-\caption{Screen Shot of the Essential Predictore}
-\label{fig:essPred}
-\end{figure}
-\subsubsection{Re-Supply Algorithm}
+With setting up the mobile instance we also had to create the user accounts. 
+The usual way of registering users in the \gls{dhis2} system is for an already registered user to navigate to the create user frame and input the information field by field. Firstname, surname, username, phone number, password and organization unit. With $\approx 45000$ users spread throughout all of Rwanda, this would clearly be a time consuming task. Fortunately we had a list of most of the \gls{chw}'s currently working in Rwanda. This list included all the required fields except username and password. We therefore chose to develop a small java application that could create the user accounts in the database. This application takes a .csv file as input were each row represents a \gls{chw}. The application generates a username based on their names and a random password for each \gls{chw}. After running the application, each \gls{chw} has a user account. There are some issues with doing it this way, like not involving the users in the process of registration. This might lead to users being registered and even don't know that the system exists and further leading to the system not being accepted. After the user is registered, the system are then able to recevie \gls{sms} reports from those users. 
+
+\subsection{Re-Supply Algorithm}
+The main purpose of the \gls{clmis} is of course to facilitate the process of delivering supplies and drugs to the individual \gls{chw}. Stock outs in this case is especially critical! Making sure that supplies are given at the right place at the right time requires a information system. In this case we want to have the information system estimate how much each village needs based on their consumption on a monthly basis. 
 
 \begin{equation}
 stk_{n} = stk_{n-1} + rcd_{n} - disp_{n}
+\label{eq:basicEq}
 \end{equation}
+
+In equation \ref{eq:basicEq} we have the basic formula. How much a village have of an item at the end of month 'n' is what they had from last month, plus what they have received during month 
+'n', minus what they have dispensed the same month. 
+
+By reporting $stk_{n}$ each month we are able to choose between either reporting the quantity of received or dispensed. By reporting what is received, when received, it is easier to track the items. 
 
 \begin{eqnarray}
 reorder_{n} & = & (amc_{n} \cdot 2) - stk_{n} \\
@@ -325,7 +328,10 @@ amc_{n} & = & \frac{disp_{n-2} + disp_{n-1} + disp_{n}}{3} \\
 disp_{n} & = & stk_{n-1} + rcd_{n} - stk_{n} \\
 disp_{n-1} & = & stk_{n-2} + rcd_{n-1} - stk_{n-1} \\
 disp_{n-2} & = & stk_{n-3} + rcd_{n-2} - stk_{n-2}
+\label{eq:reorder}
 \end{eqnarray}
+
+Using this formula we are able to calculate both how much should be reordered and the average monthly consumption.
 
 
 \begin{description}
@@ -339,18 +345,28 @@ This variable is calculated based on the the values reported and is the number o
 The quantity in stock at the end of the month of one village. Usually reported within 1--5 days into the next month it represents. Stock in April is usually reported between 1st and 5th of May.
 \item[$\mathbf{rcd_{n}}$]
 This variable is the sum of items received in one village during the month it represents. If a \gls{chw} receives 10 condoms 2nd of April, it should be reported the same day. If a village receives another 10 condoms the 13th of April, that should also be reported the same day it is received. $rcd_{n}$ for April would then be the sum of those values, 20.
-\end{description}
 
 \begin{equation}
 rcd_{n} = \sum_{k = 1}^{j} rcd_{n,k}
 \label{eq:received}
 \end{equation}.
 
+\end{description}
+
+
+
 A more mathematical description in equation \ref{eq:received}, where j represents the number of days in the month.
 
+\subsubsection{The Essential Predictore}
 
+\begin{figure}
+\centering
+\includegraphics[width=\textwidth]{case/img/essentialPredictoreScreenShot}
+\caption{Screen Shot of the Essential Predictore}
+\label{fig:essPred}
+\end{figure}
 
-
+Based on the reorder algorithm we decided to make an application that would automatically calculate both $amc_{n}$, $reorder_{n}$ and make them available in \gls{dhis2}. This application was partly programmed in POSTGRESQL, then wrapped in JAVA. 
 
 
 %
