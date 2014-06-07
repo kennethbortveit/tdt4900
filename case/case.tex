@@ -287,6 +287,8 @@ After the basic set up we had a short demo for a few members of the \gls{hmis} t
 This demo showed the most the basic functionality and how we may configure it to fit our requirements. We discussed naming of the different codes and typical issues. One thing was misspelling and user feedback. 
 One thing worth taking note of is that a common spelling error was to type the number '1' instead of the letter 'l' and the number '0' instead of the letter 'o'. We solved this by avoiding the letters in the \gls{sms}. Also, we also took note of that many of the users might not be fluid in or even speak English. The local language is 'Kinyarwanda'. An old Buntu language that is very much used even though Rwanda is transitioning to English. \gls{dhis2} is currently not supporting 'Kinyarwanda'.
 
+\subsection{Demo 2}
+
 \subsection{Setting up the mobile instance}
 In parallel with the setting up the test environment we began configuring the \gls{dhis2} in the cloud service provided by \gls{ndc}. 
 We soon realized that setting up a test environment was worth the time. 
@@ -367,7 +369,18 @@ A more mathematical description in equation \ref{eq:received}, where j represent
 \end{figure}
 
 Based on the reorder algorithm we decided to make an application that would automatically calculate both $amc_{n}$, $reorder_{n}$ and make them available in \gls{dhis2}. This application was partly programmed in POSTGRESQL, then wrapped in JAVA. 
+As seen in figure \ref{fig:essPred}, the applications takes as input the database information and a date. 
+The application then calculates the values needed to update the tables in the \gls{dhis2} database. 
+\gls{dhis2} has with the release after 2.15 made it possible to integrate \gls{dhis2} specific applications. 
+If there is going to be a next version of the application it's decided that this will be an integrated application rather than a stand-alone JAVA application. 
 
+\section{Demo 3}
+
+
+\section{Case Summary}
+
+
+\section{East Africa}
 
 %
 %\section{Notes}

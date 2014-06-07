@@ -1,18 +1,14 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.9.13)  6 JUN 2014 13:58
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.5.5)  8 JUN 2014 01:46
 entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
 **tdt4900.tex
-(C:\github\tdt4900\tdt4900.tex
+(./tdt4900.tex
 LaTeX2e <2011/06/27>
-Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, arabic, armenian, assamese, basque, bengali
-, bokmal, bulgarian, catalan, coptic, croatian, czech, danish, dutch, esperanto, estonian, farsi, finnish, french, galic
-ian, german, german-x-2012-05-30, greek, gujarati, hindi, hungarian, icelandic, indonesian, interlingua, irish, italian,
- kannada, kurmanji, latin, latvian, lithuanian, malayalam, marathi, mongolian, mongolianlmc, monogreek, ngerman, ngerman
--x-2012-05-30, nynorsk, oriya, panjabi, pinyin, polish, portuguese, romanian, russian, sanskrit, serbian, slovak, sloven
-ian, spanish, swedish, swissgerman, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, usenglishmax, w
-elsh, loaded.
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\report.cls"
+Babel <3.9h> and hyphenation patterns for 78 languages loaded.
+(/usr/share/texlive/texmf-dist/tex/latex/base/report.cls
 Document Class: report 2007/10/19 v1.4h Standard LaTeX document class
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\size12.clo"
+(/usr/share/texlive/texmf-dist/tex/latex/base/size12.clo
 File: size12.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count79
@@ -28,18 +24,19 @@ File: size12.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\inputenc.sty"
+(/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
 Package: inputenc 2008/03/30 v1.1d Input encoding file
 \inpenc@prehook=\toks14
 \inpenc@posthook=\toks15
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\utf8.def"
+(/usr/share/texlive/texmf-dist/tex/latex/base/utf8.def
 File: utf8.def 2008/04/05 v1.1m UTF-8 support for inputenc
 Now handling font encoding OML ...
 ... no UTF-8 mapping file for font encoding OML
 Now handling font encoding T1 ...
 ... processing UTF-8 mapping file for font encoding T1
- ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\t1enc.dfu"
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/t1enc.dfu
 File: t1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
    defining Unicode char U+00A1 (decimal 161)
    defining Unicode char U+00A3 (decimal 163)
@@ -188,7 +185,8 @@ File: t1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
 )
 Now handling font encoding OT1 ...
 ... processing UTF-8 mapping file for font encoding OT1
- ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\ot1enc.dfu"
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/ot1enc.dfu
 File: ot1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
    defining Unicode char U+00A1 (decimal 161)
    defining Unicode char U+00A3 (decimal 163)
@@ -219,7 +217,7 @@ File: ot1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
 Now handling font encoding OMS ...
 ... processing UTF-8 mapping file for font encoding OMS
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\omsenc.dfu"
+(/usr/share/texlive/texmf-dist/tex/latex/base/omsenc.dfu
 File: omsenc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
    defining Unicode char U+00A7 (decimal 167)
    defining Unicode char U+00B6 (decimal 182)
@@ -243,31 +241,31 @@ Now handling font encoding U ...
    defining Unicode char U+2122 (decimal 8482)
    defining Unicode char U+2423 (decimal 9251)
 ))
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
 \KV@toks@=\toks16
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
 Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
 Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
-File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
 )
 Package graphics Info: Driver file: pdftex.def on input line 91.
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
+(/usr/share/texlive/texmf-dist/tex/latex/pdftex-def/pdftex.def
 File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/infwarerr.sty
 Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
 Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 )
 \Gread@gobject=\count88
@@ -275,28 +273,28 @@ Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 \Gin@req@height=\dimen103
 \Gin@req@width=\dimen104
 )
-(C:\Users\Kenneth\AppData\Roaming\MiKTeX\2.9\tex\latex\glossaries\base\glossaries.sty
-Package: glossaries 2014/04/04 v4.07 (NLCT)
+(/usr/share/texlive/texmf-dist/tex/latex/glossaries/base/glossaries.sty
+Package: glossaries 2014/01/20 v4.03 (NLCT)
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\ifthen.sty"
+(/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
 Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\xkeyval\xkeyval.sty"
+(/usr/share/texlive/texmf-dist/tex/latex/xkeyval/xkeyval.sty
 Package: xkeyval 2012/10/14 v2.6b package option processing (HA)
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\xkeyval\xkeyval.tex"
+(/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkeyval.tex
 \XKV@toks=\toks17
 \XKV@tempa@toks=\toks18
 \XKV@depth=\count89
 File: xkeyval.tex 2012/10/14 v2.6b key=value parser (HA)
 ))
-(C:\Users\Kenneth\AppData\Roaming\MiKTeX\2.9\tex\latex\glossaries\base\mfirstuc.sty
+(/usr/share/texlive/texmf-dist/tex/latex/glossaries/base/mfirstuc.sty
 Package: mfirstuc 2013/11/04 v1.08 (NLCT)
 
-(C:\Users\Kenneth\AppData\Roaming\MiKTeX\2.9\tex\latex\etoolbox\etoolbox.sty
+(/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
 Package: etoolbox 2011/01/03 v2.1 e-TeX tools for LaTeX
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\misc\etex.sty"
+(/usr/share/texlive/texmf-dist/tex/latex/etex-pkg/etex.sty
 Package: etex 1998/03/26 v2.0 eTeX basic definition package (PEB)
 \et@xins=\count90
 )
@@ -305,33 +303,33 @@ Package: etex 1998/03/26 v2.0 eTeX basic definition package (PEB)
 \@glsmfirst=\toks19
 \@glsmrest=\toks20
 )
-(C:\Users\Kenneth\AppData\Roaming\MiKTeX\2.9\tex\latex\textcase\textcase.sty
+(/usr/share/texlive/texmf-dist/tex/latex/textcase/textcase.sty
 Package: textcase 2004/10/07 v0.07 Text only upper/lower case changing (DPC)
 )
-(C:\Users\Kenneth\AppData\Roaming\MiKTeX\2.9\tex\latex\xfor\xfor.sty
+(/usr/share/texlive/texmf-dist/tex/latex/xfor/xfor.sty
 Package: xfor 2009/02/05 v1.05 (NLCT)
 )
-(C:\Users\Kenneth\AppData\Roaming\MiKTeX\2.9\tex\latex\datatool\datatool-base.sty
+(/usr/share/texlive/texmf-dist/tex/latex/datatool/datatool-base.sty
 Package: datatool-base 2013/09/06 v2.18 (NLCT)
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty"
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
 Package: amsmath 2013/01/14 v2.14 AMS math features
 \@mathmargin=\skip43
 
 For additional information on amsmath, use the `?' option.
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amstext.sty"
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
 Package: amstext 2000/06/29 v2.01
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty"
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0
 \@emptytoks=\toks21
 \ex@=\dimen105
 ))
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty"
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d
 \pmbraise@=\dimen106
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty"
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 1999/12/14 v2.01 operator names
 )
 \inf@bad=\count92
@@ -372,22 +370,22 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
 LaTeX Info: Redefining \[ on input line 2665.
 LaTeX Info: Redefining \] on input line 2666.
 )
-(C:\Users\Kenneth\AppData\Roaming\MiKTeX\2.9\tex\latex\substr\substr.sty
+(/usr/share/texlive/texmf-dist/tex/latex/substr/substr.sty
 Package: substr 2009/10/20 v1.2 Handle substrings
 \c@su@anzahl=\count104
 )
-(C:\Users\Kenneth\AppData\Roaming\MiKTeX\2.9\tex\latex\datatool\datatool-fp.sty
+(/usr/share/texlive/texmf-dist/tex/latex/datatool/datatool-fp.sty
 Package: datatool-fp 2013/08/29 v2.17 (NLCT)
 
-(C:\Users\Kenneth\AppData\Roaming\MiKTeX\2.9\tex\latex\fp\fp.sty
+(/usr/share/texlive/texmf-dist/tex/latex/fp/fp.sty
 Package: fp 1995/04/02
 
 `Fixed Point Package', Version 0.8, April 2, 1995 (C) Michael Mehlich
-(C:\Users\Kenneth\AppData\Roaming\MiKTeX\2.9\tex\latex\fp\defpattern.sty
+(/usr/share/texlive/texmf-dist/tex/latex/fp/defpattern.sty
 Package: defpattern 1994/10/12
 \actioncount=\count105
 )
-(C:\Users\Kenneth\AppData\Roaming\MiKTeX\2.9\tex\latex\fp\fp-basic.sty
+(/usr/share/texlive/texmf-dist/tex/latex/fp/fp-basic.sty
 Package: fp-basic 1996/05/13
 \FP@xs=\count106
 \FP@xia=\count107
@@ -399,32 +397,32 @@ Package: fp-basic 1996/05/13
 \FP@regs=\count113
 \FP@times=\count114
 )
-(C:\Users\Kenneth\AppData\Roaming\MiKTeX\2.9\tex\latex\fp\fp-addons.sty
+(/usr/share/texlive/texmf-dist/tex/latex/fp/fp-addons.sty
 Package: fp-addons 1995/03/15
 )
-(C:\Users\Kenneth\AppData\Roaming\MiKTeX\2.9\tex\latex\fp\fp-snap.sty
+(/usr/share/texlive/texmf-dist/tex/latex/fp/fp-snap.sty
 Package: fp-snap 1995/04/05
 )
-(C:\Users\Kenneth\AppData\Roaming\MiKTeX\2.9\tex\latex\fp\fp-exp.sty
+(/usr/share/texlive/texmf-dist/tex/latex/fp/fp-exp.sty
 Package: fp-exp 1995/04/03
 )
-(C:\Users\Kenneth\AppData\Roaming\MiKTeX\2.9\tex\latex\fp\fp-trigo.sty
+(/usr/share/texlive/texmf-dist/tex/latex/fp/fp-trigo.sty
 Package: fp-trigo 1995/04/14
 )
-(C:\Users\Kenneth\AppData\Roaming\MiKTeX\2.9\tex\latex\fp\fp-pas.sty
+(/usr/share/texlive/texmf-dist/tex/latex/fp/fp-pas.sty
 Package: fp-pas 1994/08/29
 )
-(C:\Users\Kenneth\AppData\Roaming\MiKTeX\2.9\tex\latex\fp\fp-random.sty
+(/usr/share/texlive/texmf-dist/tex/latex/fp/fp-random.sty
 Package: fp-random 1995/02/23
 \FPseed=\count115
 )
-(C:\Users\Kenneth\AppData\Roaming\MiKTeX\2.9\tex\latex\fp\fp-eqn.sty
+(/usr/share/texlive/texmf-dist/tex/latex/fp/fp-eqn.sty
 Package: fp-eqn 1995/04/03
 )
-(C:\Users\Kenneth\AppData\Roaming\MiKTeX\2.9\tex\latex\fp\fp-upn.sty
+(/usr/share/texlive/texmf-dist/tex/latex/fp/fp-upn.sty
 Package: fp-upn 1996/10/21
 )
-(C:\Users\Kenneth\AppData\Roaming\MiKTeX\2.9\tex\latex\fp\fp-eval.sty
+(/usr/share/texlive/texmf-dist/tex/latex/fp/fp-eval.sty
 Package: fp-eval 1995/04/03
 )))
 \@dtl@toks=\toks26
@@ -437,28 +435,29 @@ Package: fp-eval 1995/04/03
 \dtl@codeB=\count121
 \@dtl@foreach@level=\count122
 )
-(C:\Users\Kenneth\AppData\Roaming\MiKTeX\2.9\tex\latex\glossaries\base\glossaries-compatible-307.sty
+(/usr/share/texlive/texmf-dist/tex/latex/glossaries/base/glossaries-compatible-
+307.sty
 Package: glossaries-compatible-307 2013/11/14 v4.0 (NLCT)
 )
 \gls@level=\count123
 \@gls@tmpb=\toks27
 \gls@tmplen=\skip47
+\glswrite=\write3
 \glskeylisttok=\toks28
 \glslabeltok=\toks29
 \glsshorttok=\toks30
 \glslongtok=\toks31
 
-(C:\Users\Kenneth\AppData\Roaming\MiKTeX\2.9\tex\latex\glossaries\styles\glossary-hypernav.sty
+(/usr/share/texlive/texmf-dist/tex/latex/glossaries/styles/glossary-hypernav.st
+y
 Package: glossary-hypernav 2013/11/14 v4.0 (NLCT)
-)
-(C:\Users\Kenneth\AppData\Roaming\MiKTeX\2.9\tex\latex\glossaries\styles\glossary-list.sty
+) (/usr/share/texlive/texmf-dist/tex/latex/glossaries/styles/glossary-list.sty
 Package: glossary-list 2013/11/14 v4.0 (NLCT)
 \glslistdottedwidth=\skip48
-)
-(C:\Users\Kenneth\AppData\Roaming\MiKTeX\2.9\tex\latex\glossaries\styles\glossary-long.sty
+) (/usr/share/texlive/texmf-dist/tex/latex/glossaries/styles/glossary-long.sty
 Package: glossary-long 2013/11/14 v4.0 (NLCT)
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\tools\longtable.sty"
+(/usr/share/texlive/texmf-dist/tex/latex/tools/longtable.sty
 Package: longtable 2004/02/01 v4.11 Multi-page Table package (DPC)
 \LTleft=\skip49
 \LTright=\skip50
@@ -479,10 +478,10 @@ Package: longtable 2004/02/01 v4.11 Multi-page Table package (DPC)
 \glsdescwidth=\skip53
 \glspagelistwidth=\skip54
 )
-(C:\Users\Kenneth\AppData\Roaming\MiKTeX\2.9\tex\latex\glossaries\styles\glossary-super.sty
+(/usr/share/texlive/texmf-dist/tex/latex/glossaries/styles/glossary-super.sty
 Package: glossary-super 2013/11/14 v4.0 (NLCT)
 
-(C:\Users\Kenneth\AppData\Roaming\MiKTeX\2.9\tex\latex\supertabular\supertabular.sty
+(/usr/share/texlive/texmf-dist/tex/latex/supertabular/supertabular.sty
 Package: supertabular 2004/02/20 v4.1e the supertabular environment
 \c@tracingst=\count129
 \ST@wd=\dimen115
@@ -501,19 +500,20 @@ Package: supertabular 2004/02/20 v4.1e the supertabular environment
 \ST@dimen=\dimen125
 \ST@pbox=\box32
 ))
-(C:\Users\Kenneth\AppData\Roaming\MiKTeX\2.9\tex\latex\glossaries\styles\glossary-tree.sty
-Package: glossary-tree 2014/03/06 v4.04 (NLCT)
+(/usr/share/texlive/texmf-dist/tex/latex/glossaries/styles/glossary-tree.sty
+Package: glossary-tree 2013/11/14 v4.0 (NLCT)
 \glstreeindent=\skip58
 ))
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\hyperref\hyperref.sty"
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
 Package: hyperref 2012/11/06 v6.83m Hypertext links for LaTeX
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\hobsub-hyperref.sty"
-Package: hobsub-hyperref 2012/04/25 v1.12 Bundle oberdiek, subset hyperref (HO)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+Package: hobsub-hyperref 2012/05/28 v1.13 Bundle oberdiek, subset hyperref (HO)
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\hobsub-generic.sty"
-Package: hobsub-generic 2012/04/25 v1.12 Bundle oberdiek, subset generic (HO)
-Package: hobsub 2012/04/25 v1.12 Construct package bundles (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
+Package: hobsub-generic 2012/05/28 v1.13 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2012/05/28 v1.13 Construct package bundles (HO)
 Package hobsub Info: Skipping package `infwarerr' (already loaded).
 Package hobsub Info: Skipping package `ltxcmds' (already loaded).
 Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
@@ -530,46 +530,48 @@ Package etexcmds Info: Could not find \expanded.
 (etexcmds)             In the latter case, load this package earlier.
 Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
 Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
-Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO)
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
 Package pdftexcmds Info: LuaTeX not detected.
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
 Package: pdfescape 2011/11/25 v1.13 Implements pdfTeX's escape features (HO)
-Package: bigintcalc 2012/04/08 v1.3 Expandable calculations on big integers (HO)
+Package: bigintcalc 2012/04/08 v1.3 Expandable calculations on big integers (HO
+)
 Package: bitset 2011/01/30 v1.1 Handle bit-vector datatype (HO)
 Package: uniquecounter 2011/01/30 v1.2 Provide unlimited unique counter (HO)
 )
 Package hobsub Info: Skipping package `hobsub' (already loaded).
 Package: letltxmacro 2010/09/02 v1.4 Let assignment for LaTeX macros (HO)
-Package: hopatch 2011/06/24 v1.1 Wrapper for package hooks (HO)
+Package: hopatch 2012/05/28 v1.2 Wrapper for package hooks (HO)
 Package: xcolor-patch 2011/01/30 xcolor patch
 Package: atveryend 2011/06/30 v1.8 Hooks at the very end of document (HO)
 Package: atbegshi 2011/10/05 v1.16 At begin shipout hook (HO)
 Package: refcount 2011/10/16 v3.4 Data extraction from label references (HO)
 Package: hycolor 2011/01/30 v1.7 Color options for hyperref/bookmark (HO)
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty"
+(/usr/share/texlive/texmf-dist/tex/generic/ifxetex/ifxetex.sty
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\auxhook.sty"
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/auxhook.sty
 Package: auxhook 2011/03/04 v1.3 Hooks for auxiliary files (HO)
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
 Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
 )
 \@linkdim=\dimen126
 \Hy@linkcounter=\count130
 \Hy@pagecounter=\count131
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\hyperref\pd1enc.def"
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
 File: pd1enc.def 2012/11/06 v6.83m Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
 )
 \Hy@SavedSpaceFactor=\count132
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\hyperref.cfg"
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/hyperref.cfg
 File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
 )
 Package hyperref Info: Hyper figures OFF on input line 4443.
@@ -581,9 +583,9 @@ Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4688.
 \c@Hy@tempcnt=\count133
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ltxmisc\url.sty"
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip11
-Package: url 2006/04/12  ver 3.3  Verb mode for urls, etc.
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
 LaTeX Info: Redefining \url on input line 5041.
 \XeTeXLinkMargin=\dimen127
@@ -606,24 +608,28 @@ LaTeX Info: Redefining \pageref on input line 6369.
 
 Package hyperref Message: Driver (autodetected): hpdftex.
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\hyperref\hpdftex.def"
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def
 File: hpdftex.def 2012/11/06 v6.83m Hyperref driver for pdfTeX
 \Fld@listcount=\count138
 \c@bookmark@seq@number=\count139
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\rerunfilecheck.sty"
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
 Package: rerunfilecheck 2011/04/15 v1.7 Rerun checks for auxiliary files (HO)
-Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 282.
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
 )
 \Hy@SectionHShift=\skip59
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\multirow\multirow.sty"
+(/usr/share/texlive/texmf-dist/tex/latex/multirow/multirow.sty
 \bigstrutjot=\dimen130
 )
-\glswrite=\write3
 \glo@main@file=\write4
+\openout4 = `tdt4900.glo'.
+
 Package glossaries Info: Writing glossary file tdt4900.glo on input line 9.
- (C:\github\tdt4900\tdt4900.aux)
+ (./tdt4900.aux)
+\openout1 = `tdt4900.aux'.
+
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 13.
 LaTeX Font Info:    ... okay on input line 13.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 13.
@@ -638,8 +644,7 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 13.
 LaTeX Font Info:    ... okay on input line 13.
 LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 13.
 LaTeX Font Info:    ... okay on input line 13.
-
-(C:\Users\Kenneth\AppData\Roaming\MiKTeX\2.9\tex\context\base\supp-pdf.mkii
+(/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count140
 \scratchdimen=\dimen131
@@ -652,13 +657,29 @@ LaTeX Font Info:    ... okay on input line 13.
 \MPnumerator=\count144
 \makeMPintoPDFobject=\count145
 \everyMPtoPDFconversion=\toks34
-) (C:\github\tdt4900\tdt4900.glsdefs)
+) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+)
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+(./tdt4900.glsdefs)
 \AtBeginShipoutBox=\box34
 Package hyperref Info: Link coloring OFF on input line 13.
- ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\gettitlestring.sty"
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
 \c@section@level=\count146
@@ -666,55 +687,71 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 13.
 LaTeX Info: Redefining \pageref on input line 13.
 LaTeX Info: Redefining \nameref on input line 13.
- (C:\github\tdt4900\tdt4900.out)
-(C:\github\tdt4900\tdt4900.out)
-\@outlinefile=\write5
-Package hyperref Info: Option `pageanchor' set `false' on input line 15.
- (C:\github\tdt4900\title/title.tex) [1
 
-{C:/Users/Kenneth/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] (C:\github\tdt4900\abstract/abstract.tex [1]) (C:\
-github\tdt4900\acknowledgments/acknowledgments.tex [1]) (C:\github\tdt4900\keywords/keywords.tex)
+(./tdt4900.out) (./tdt4900.out)
+\@outlinefile=\write5
+\openout5 = `tdt4900.out'.
+
+Package hyperref Info: Option `pageanchor' set `false' on input line 15.
+ (./title/title.tex) [1
+
+\openout3 = `tdt4900.ist'.
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./abstract/abstract.tex [
+1])
+(./acknowledgments/acknowledgments.tex [1]) (./keywords/keywords.tex)
 Package hyperref Info: Option `pageanchor' set `true' on input line 22.
- (C:\github\tdt4900\tdt4900.toc [1
+
+(./tdt4900.toc [1
 
 ]
 Overfull \hbox (6.60286pt too wide) in paragraph at lines 56--56
- [][] [][]\OT1/cmr/m/n/12 Configuring []Dis-trict Health In-for-ma-tion Sys-tem 2 (DHIS2)[] []  
+ [][] [][]\OT1/cmr/m/n/12 Configuring []Dis-trict Health In-for-ma-tion Sys-tem
+ 2 (DHIS2)[] []  
  []
 
 )
 \tf@toc=\write6
- [2] (C:\github\tdt4900\tdt4900.lof
+\openout6 = `tdt4900.toc'.
+
+ [2] (./tdt4900.lof
 Overfull \hbox (9.0418pt too wide) in paragraph at lines 9--9
- [][] [][]\OT1/cmr/m/n/12 (Blue, Na-tional rollout)-(Light-Blue, Programs/partial)-(Green, 
+ [][] [][]\OT1/cmr/m/n/12 (Blue, Na-tional rollout)-(Light-Blue, Programs/parti
+al)-(Green, 
  []
 
 )
 \tf@lof=\write7
+\openout7 = `tdt4900.lof'.
+
  [3
 
-] (C:\github\tdt4900\tdt4900.lot)
+] (./tdt4900.lot)
 \tf@lot=\write8
- (C:\github\tdt4900\glossaries/glossaries.tex
-\@gls@deffile=\write9
- (C:\github\tdt4900\tdt4900.gls
-[4
+\openout8 = `tdt4900.lot'.
 
-])) (C:\github\tdt4900\introduction/introduction.tex [5
+ (./glossaries/glossaries.tex
+\@gls@deffile=\write9
+\openout9 = `tdt4900.glsdefs'.
+
+ (./tdt4900.gls [4
+
+]))
+(./introduction/introduction.tex [5
 
 
 ]
 Chapter 1.
 [6
 
-]) (C:\github\tdt4900\literature/literature.tex [7] [8]
+]) (./literature/literature.tex [7] [8]
 Chapter 2.
 
 Overfull \hbox (15.03966pt too wide) in paragraph at lines 3--3
 []\OT1/cmr/bx/n/17.28 Information and Com-mu-ni-ca-tion Tech-nolo-
  []
 
-) (C:\github\tdt4900\context/context.tex [9
+) (./context/context.tex [9
 
 ]
 Chapter 3.
@@ -722,41 +759,48 @@ Chapter 3.
 
 ] [11]
 Overfull \hbox (0.33015pt too wide) in paragraph at lines 35--40
-\OT1/cmr/m/n/14.4 soft-ware, open stan-dards and de-cen-tral-ized decision-making
+\OT1/cmr/m/n/14.4 soft-ware, open stan-dards and de-cen-tral-ized decision-maki
+ng
  []
 
-[12] <context/img/networkOfAction.jpg, id=462, 776.14969pt x 569.12625pt>
+[12] <context/img/networkOfAction.jpg, id=465, 776.14969pt x 569.12625pt>
 File: context/img/networkOfAction.jpg Graphic file (type jpg)
- <use context/img/networkOfAction.jpg>
+
+<use context/img/networkOfAction.jpg>
 Package pdftex.def Info: context/img/networkOfAction.jpg used on input line 54.
+
 (pdftex.def)             Requested size: 390.0pt x 285.97794pt.
- [13]
-[14 <C:/github/tdt4900/context/img/networkOfAction.jpg>] <context/img/dhis2Dash.png, id=478, 635.37375pt x 301.125pt>
+ [13] [14 <./context/img/networkOfAction.jpg>] <context/img/dhis2Dash.png, id=4
+82, 635.37375pt x 301.125pt>
 File: context/img/dhis2Dash.png Graphic file (type png)
 
 <use context/img/dhis2Dash.png>
 Package pdftex.def Info: context/img/dhis2Dash.png used on input line 69.
 (pdftex.def)             Requested size: 390.0pt x 184.83926pt.
- [15] [16 <C:/github/tdt4900/context/img/dhis2Dash.png>] [17]
-<context/img/dhis2DataEntry.png, id=503, 635.37375pt x 300.12125pt>
+ [15] [16 <./context/img/dhis2Dash.png>]
+[17] <context/img/dhis2DataEntry.png, id=507, 635.37375pt x 300.12125pt>
 File: context/img/dhis2DataEntry.png Graphic file (type png)
- <use context/img/dhis2DataEntry.png>
+
+<use context/img/dhis2DataEntry.png>
 Package pdftex.def Info: context/img/dhis2DataEntry.png used on input line 104.
+
 (pdftex.def)             Requested size: 390.0pt x 184.22314pt.
 
-<context/img/dataStructure.jpg, id=504, 816.04875pt x 568.37344pt>
+<context/img/dataStructure.jpg, id=508, 816.04875pt x 568.37344pt>
 File: context/img/dataStructure.jpg Graphic file (type jpg)
- <use context/img/dataStructure.jpg>
+
+<use context/img/dataStructure.jpg>
 Package pdftex.def Info: context/img/dataStructure.jpg used on input line 112.
 (pdftex.def)             Requested size: 390.0pt x 271.63667pt.
- [18 <C:/github/tdt4900/context/img/dhis2DataEntry.png (PNG copy)>] [19 <C:/github/tdt4900/context/img/dataStructure.jpg
->]
-<context/img/gisExample.png, id=514, 642.4pt x 301.125pt>
+ [18 <./context/img/dhis2DataEntry.png (PNG copy)>] [19 <./context/img/dataStru
+cture.jpg>]
+<context/img/gisExample.png, id=518, 642.4pt x 301.125pt>
 File: context/img/gisExample.png Graphic file (type png)
- <use context/img/gisExample.png>
+
+<use context/img/gisExample.png>
 Package pdftex.def Info: context/img/gisExample.png used on input line 123.
 (pdftex.def)             Requested size: 390.0pt x 182.81755pt.
- [20 <C:/github/tdt4900/context/img/gisExample.png (PNG copy)>]
+ [20 <./context/img/gisExample.png (PNG copy)>]
 Underfull \hbox (badness 1173) in paragraph at lines 137--137
 []\OT1/cmr/bx/n/12 Complete na-tional
  []
@@ -771,39 +815,46 @@ Underfull \hbox (badness 6658) in paragraph at lines 137--137
 \OT1/cmr/bx/n/12 grams or par-tial
  []
 
-<context/img/countriesUsing.png, id=520, 1213.53375pt x 605.26125pt>
+<context/img/countriesUsing.png, id=524, 1213.53375pt x 605.26125pt>
 File: context/img/countriesUsing.png Graphic file (type png)
- <use context/img/countriesUsing.png>
+
+<use context/img/countriesUsing.png>
 Package pdftex.def Info: context/img/countriesUsing.png used on input line 171.
+
 (pdftex.def)             Requested size: 390.0pt x 194.51874pt.
 
-<context/img/africa.jpg, id=523, 1120.185pt x 735.49782pt>
+<context/img/africa.jpg, id=527, 1120.185pt x 735.49782pt>
 File: context/img/africa.jpg Graphic file (type jpg)
- <use context/img/africa.jpg>
+
+<use context/img/africa.jpg>
 Package pdftex.def Info: context/img/africa.jpg used on input line 182.
 (pdftex.def)             Requested size: 390.0pt x 256.07013pt.
 
-<context/img/eastAfrica.jpg, id=524, 1120.185pt x 661.72218pt>
+<context/img/eastAfrica.jpg, id=528, 1120.185pt x 661.72218pt>
 File: context/img/eastAfrica.jpg Graphic file (type jpg)
- <use context/img/eastAfrica.jpg>
+
+<use context/img/eastAfrica.jpg>
 Package pdftex.def Info: context/img/eastAfrica.jpg used on input line 189.
 (pdftex.def)             Requested size: 390.0pt x 230.38449pt.
 
-<context/img/rwanda.jpg, id=525, 1120.185pt x 661.47125pt>
+<context/img/rwanda.jpg, id=529, 1120.185pt x 661.47125pt>
 File: context/img/rwanda.jpg Graphic file (type jpg)
- <use context/img/rwanda.jpg>
+
+<use context/img/rwanda.jpg>
 Package pdftex.def Info: context/img/rwanda.jpg used on input line 196.
 (pdftex.def)             Requested size: 390.0pt x 230.29712pt.
 
-<context/img/rwandaAdminStructure.jpg, id=526, 773.89125pt x 578.91281pt>
+<context/img/rwandaAdminStructure.jpg, id=530, 773.89125pt x 578.91281pt>
 File: context/img/rwandaAdminStructure.jpg Graphic file (type jpg)
- <use context/img/rwandaAdminStructure.jpg>
-Package pdftex.def Info: context/img/rwandaAdminStructure.jpg used on input line 206.
-(pdftex.def)             Requested size: 380.35547pt x 284.52756pt.
 
-[21 <C:/github/tdt4900/context/img/countriesUsing.png>] [22] [23 <C:/github/tdt4900/context/img/africa.jpg> <C:/github/t
-dt4900/context/img/eastAfrica.jpg>] [24 <C:/github/tdt4900/context/img/rwanda.jpg>] [25 <C:/github/tdt4900/context/img/r
-wandaAdminStructure.jpg>] [26]
+<use context/img/rwandaAdminStructure.jpg>
+Package pdftex.def Info: context/img/rwandaAdminStructure.jpg used on input lin
+e 206.
+(pdftex.def)             Requested size: 380.35547pt x 284.52756pt.
+ [21 <./context/img/countriesUsing.png>] [22] [23 <./context/img/africa.jpg> <.
+/context/img/eastAfrica.jpg>]
+[24 <./context/img/rwanda.jpg>] [25 <./context/img/rwandaAdminStructure.jpg>]
+[26]
 Underfull \hbox (badness 10000) in paragraph at lines 259--260
 []\OT1/cmr/m/n/12 Follow up of preg-nant
  []
@@ -848,34 +899,39 @@ Underfull \hbox (badness 2698) in paragraph at lines 296--297
 []\OT1/cmr/m/n/12 Verify if the ma-ter-nal health
  []
 
-) (C:\github\tdt4900\method/method.tex [27] [28]
+) (./method/method.tex [27] [28]
 Chapter 4.
 [29
 
-]) (C:\github\tdt4900\case/case.tex [30]
+]) (./case/case.tex [30]
 Chapter 5.
 [31
 
 ]
 Overfull \hbox (0.30553pt too wide) in paragraph at lines 25--26
-\OT1/cmr/m/n/17.28 In or-der to make the case man-agable for a re-search project
+\OT1/cmr/m/n/17.28 In or-der to make the case man-agable for a re-search projec
+t
  []
 
-[32] [33] [34] <case/img/chwSupplyChainFuture.png, id=600, 646.8165pt x 418.509pt>
+[32] [33] [34]
+<case/img/chwSupplyChainFuture.png, id=605, 646.8165pt x 418.509pt>
 File: case/img/chwSupplyChainFuture.png Graphic file (type png)
 
 <use case/img/chwSupplyChainFuture.png>
-Package pdftex.def Info: case/img/chwSupplyChainFuture.png used on input line 54.
+Package pdftex.def Info: case/img/chwSupplyChainFuture.png used on input line 5
+4.
 (pdftex.def)             Requested size: 390.0pt x 252.33981pt.
- [35 <C:/github/tdt4900/case/img/chwSupplyChainFuture.png (PNG copy)>] [36]
-[37] <case/img/lmisWorkPlan.pdf, id=618, 591.20876pt x 597.23125pt>
+ [35 <./case/img/chwSupplyChainFuture.png (PNG copy)>] [36] [37]
+<case/img/lmisWorkPlan.pdf, id=623, 591.20876pt x 597.23125pt>
 File: case/img/lmisWorkPlan.pdf Graphic file (type pdf)
- <use case/img/lmisWorkPlan.pdf>
+
+<use case/img/lmisWorkPlan.pdf>
 Package pdftex.def Info: case/img/lmisWorkPlan.pdf used on input line 181.
 (pdftex.def)             Requested size: 390.0pt x 393.98247pt.
- [38] [39 <C:/github/tdt4900/case/img/lmisWorkPlan.pdf>]
+ [38] [39 <./case/img/lmisWorkPlan.pdf>]
 Overfull \hbox (21.68994pt too wide) in paragraph at lines 191--192
 []\OT1/cmr/m/n/17.28 Develop al-go-rithm for es-ti-mat-ing re-sup-ply amounts. 
+
  []
 
 
@@ -883,15 +939,17 @@ Overfull \hbox (28.06177pt too wide) in paragraph at lines 202--203
 []\OT1/cmr/m/n/17.28 Translate SMS feed-back mes-sages into Kin-yarwanda. 
  []
 
-[40] <case/img/smsFlow.png, id=647, 609.02531pt x 113.67468pt>
+[40] <case/img/smsFlow.png, id=652, 609.02531pt x 113.67468pt>
 File: case/img/smsFlow.png Graphic file (type png)
- <use case/img/smsFlow.png>
+
+<use case/img/smsFlow.png>
 Package pdftex.def Info: case/img/smsFlow.png used on input line 232.
 (pdftex.def)             Requested size: 390.0pt x 72.79489pt.
 
-<case/img/testEnvironment.png, id=648, 580.41844pt x 137.01187pt>
+<case/img/testEnvironment.png, id=653, 580.41844pt x 137.01187pt>
 File: case/img/testEnvironment.png Graphic file (type png)
- <use case/img/testEnvironment.png>
+
+<use case/img/testEnvironment.png>
 Package pdftex.def Info: case/img/testEnvironment.png used on input line 238.
 (pdftex.def)             Requested size: 390.0pt x 92.06297pt.
  [41]
@@ -899,48 +957,54 @@ Package pdftex.def Info: case/img/testEnvironment.png used on input line 238.
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\gls' on input line 245.
 
-[42 <C:/github/tdt4900/case/img/smsFlow.png> <C:/github/tdt4900/case/img/testEnvironment.png>]
-<case/img/smsExample.png, id=657, 225.84375pt x 369.38pt>
+[42 <./case/img/smsFlow.png> <./case/img/testEnvironment.png>]
+<case/img/smsExample.png, id=662, 225.84375pt x 369.38pt>
 File: case/img/smsExample.png Graphic file (type png)
- <use case/img/smsExample.png>
+
+<use case/img/smsExample.png>
 Package pdftex.def Info: case/img/smsExample.png used on input line 276.
 (pdftex.def)             Requested size: 86.98283pt x 142.26378pt.
- [43] [44 <C:/github/tdt4900/case/img/smsExample.png>] [45] <case/img/userImporterScreenShot.png, id=673, 779.91376pt x 
-558.085pt>
+ [43] [44 <./case/img/smsExample.png>] [45]
+<case/img/userImporterScreenShot.png, id=679, 779.91376pt x 558.085pt>
 File: case/img/userImporterScreenShot.png Graphic file (type png)
 
 <use case/img/userImporterScreenShot.png>
-Package pdftex.def Info: case/img/userImporterScreenShot.png used on input line 304.
+Package pdftex.def Info: case/img/userImporterScreenShot.png used on input line
+ 304.
 (pdftex.def)             Requested size: 390.0pt x 279.06737pt.
- [46 <C:/github/tdt4900/case/img/userImporterScreenShot.png (PNG copy)>]
-[47]
+ [46 <./case/img/userImporterScreenShot.png (PNG copy)>] [47]
 Overfull \hbox (7.54738pt too wide) in paragraph at lines 341--342
 []\OT1/cmr/m/n/17.28 Represents the av-er-age monthly con-sump-tion based
  []
 
 [48]
 Overfull \hbox (5.4579pt too wide) in paragraph at lines 358--359
-[]\OT1/cmr/m/n/17.28 A more math-e-mat-i-cal de-scrip-tion in equa-tion []5.7[], where
+[]\OT1/cmr/m/n/17.28 A more math-e-mat-i-cal de-scrip-tion in equa-tion []5.7[]
+, where
  []
 
-<case/img/essentialPredictoreScreenShot.png, id=692, 812.03375pt x 343.2825pt>
+
+<case/img/essentialPredictoreScreenShot.png, id=698, 812.03375pt x 343.2825pt>
 File: case/img/essentialPredictoreScreenShot.png Graphic file (type png)
 
 <use case/img/essentialPredictoreScreenShot.png>
-Package pdftex.def Info: case/img/essentialPredictoreScreenShot.png used on input line 364.
+Package pdftex.def Info: case/img/essentialPredictoreScreenShot.png used on inp
+ut line 364.
 (pdftex.def)             Requested size: 390.0pt x 164.868pt.
- [49]) (C:\github\tdt4900\discussion/discussion.tex [50 <C:/github/tdt4900/case/img/essentialPredictoreScreenShot.png (P
-NG copy)>]
+ [49])
+(./discussion/discussion.tex [50 <./case/img/essentialPredictoreScreenShot.png 
+(PNG copy)>]
 Chapter 6.
-) (C:\github\tdt4900\conclusions/conclusions.tex [51
+) (./conclusions/conclusions.tex [51
 
 ]
 Chapter 7.
-) (C:\github\tdt4900\tdt4900.bbl [52
+) (./tdt4900.bbl [52
 
 ]
 Underfull \hbox (badness 2753) in paragraph at lines 15--20
-[]\OT1/cmr/m/n/17.28 The pro-cess of de-vel-op-ing the dhis.  []$\OT1/cmtt/m/n/17.28 http :
+[]\OT1/cmr/m/n/17.28 The pro-cess of de-vel-op-ing the dhis.  []$\OT1/cmtt/m/n/
+17.28 http :
  []
 
 
@@ -950,27 +1014,32 @@ Underfull \hbox (badness 10000) in paragraph at lines 15--20
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 15--20
-\OT1/cmtt/m/n/17.28 networks / hisp / hisp-[]history . html$[]\OT1/cmr/m/n/17.28 , 2013.
+\OT1/cmtt/m/n/17.28 networks / hisp / hisp-[]history . html$[]\OT1/cmr/m/n/17.2
+8 , 2013.
  []
 
 
 Underfull \hbox (badness 2626) in paragraph at lines 22--27
-[]\OT1/cmr/m/n/17.28 Hisp.  []$\OT1/cmtt/m/n/17.28 http : / / www . mn . uio . no / ifi / english /
+[]\OT1/cmr/m/n/17.28 Hisp.  []$\OT1/cmtt/m/n/17.28 http : / / www . mn . uio . 
+no / ifi / english /
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 22--27
-\OT1/cmtt/m/n/17.28 research / networks / hisp / index . html$[]\OT1/cmr/m/n/17.28 , 2014.
+\OT1/cmtt/m/n/17.28 research / networks / hisp / index . html$[]\OT1/cmr/m/n/17
+.28 , 2014.
  []
 
 
 Underfull \hbox (badness 2409) in paragraph at lines 29--32
-[]\OT1/cmr/m/n/17.28 About hisp.  []$\OT1/cmtt/m/n/17.28 http : / / hispindia . org / index .
+[]\OT1/cmr/m/n/17.28 About hisp.  []$\OT1/cmtt/m/n/17.28 http : / / hispindia .
+ org / index .
  []
 
 
 Underfull \hbox (badness 2334) in paragraph at lines 34--39
-[]\OT1/cmr/m/n/17.28 Network of ac-tion.  []$\OT1/cmtt/m/n/17.28 http : / / www . mn . uio . no /
+[]\OT1/cmr/m/n/17.28 Network of ac-tion.  []$\OT1/cmtt/m/n/17.28 http : / / www
+ . mn . uio . no /
  []
 
 
@@ -980,39 +1049,46 @@ Underfull \hbox (badness 10000) in paragraph at lines 34--39
 
 
 Underfull \hbox (badness 6220) in paragraph at lines 34--39
-\OT1/cmtt/m/n/17.28 network-[]of-[]action . html$[]\OT1/cmr/m/n/17.28 , 2013.  Ac-cessed:
+\OT1/cmtt/m/n/17.28 network-[]of-[]action . html$[]\OT1/cmr/m/n/17.28 , 2013.  
+Ac-cessed:
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 45--48
-[]\OT1/cmr/m/n/17.28 Internet world stats.  []$\OT1/cmtt/m/n/17.28 http : / / www .
+[]\OT1/cmr/m/n/17.28 Internet world stats.  []$\OT1/cmtt/m/n/17.28 http : / / w
+ww .
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 45--48
-\OT1/cmtt/m/n/17.28 internetworldstats . com / stats . htm$[]\OT1/cmr/m/n/17.28 , 2012.
+\OT1/cmtt/m/n/17.28 internetworldstats . com / stats . htm$[]\OT1/cmr/m/n/17.28
+ , 2012.
  []
 
 [53
 
 ]
 Underfull \hbox (badness 3219) in paragraph at lines 66--69
-[]\OT1/cmr/m/n/17.28 Ministry of lo-cal gov-ern-ment.  []$\OT1/cmtt/m/n/17.28 http : / / www .
+[]\OT1/cmr/m/n/17.28 Ministry of lo-cal gov-ern-ment.  []$\OT1/cmtt/m/n/17.28 h
+ttp : / / www .
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 75--78
-[]\OT1/cmr/m/n/17.28 Folkemengden.  []$\OT1/cmtt/m/n/17.28 http : / / www . ssb . no /
+[]\OT1/cmr/m/n/17.28 Folkemengden.  []$\OT1/cmtt/m/n/17.28 http : / / www . ssb
+ . no /
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 75--78
-\OT1/cmtt/m/n/17.28 befolkning / statistikker / folkemengde$[]\OT1/cmr/m/n/17.28 ,
+\OT1/cmtt/m/n/17.28 befolkning / statistikker / folkemengde$[]\OT1/cmr/m/n/17.2
+8 ,
  []
 
 
 Underfull \hbox (badness 7944) in paragraph at lines 85--88
-[]\OT1/cmr/m/n/17.28 Rwanda.  []$\OT1/cmtt/m/n/17.28 http : / / en . wikipedia . org / wiki /
+[]\OT1/cmr/m/n/17.28 Rwanda.  []$\OT1/cmtt/m/n/17.28 http : / / en . wikipedia 
+. org / wiki /
  []
 
 
@@ -1027,36 +1103,48 @@ Underfull \hbox (badness 10000) in paragraph at lines 90--93
 
 [54]
 Underfull \hbox (badness 1189) in paragraph at lines 95--98
-\OT1/cmr/m/n/17.28 and ppp.  []$\OT1/cmtt/m/n/17.28 http : / / databank . worldbank . org /
+\OT1/cmr/m/n/17.28 and ppp.  []$\OT1/cmtt/m/n/17.28 http : / / databank . world
+bank . org /
  []
 
 )
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 41.
  [55]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 41.
- (C:\github\tdt4900\tdt4900.aux)
+ (./tdt4900.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 41.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 41.
-Package rerunfilecheck Info: File `tdt4900.out' has not changed.
-(rerunfilecheck)             Checksum: 0B3BEDB5C0C8A5315531D34A26C9072D;4095.
+
+
+Package rerunfilecheck Warning: File `tdt4900.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `tdt4900.out':
+(rerunfilecheck)             Before: 9B325BAC68DA9851F5446FCBAD19C524;4034
+(rerunfilecheck)             After:  0EF4D2961A6C4690EFB5C2B541DE8C4C;4092.
  ) 
 Here is how much of TeX's memory you used:
- 11044 strings out of 493921
- 162718 string characters out of 3144870
- 301432 words of memory out of 3000000
- 13902 multiletter control sequences out of 15000+200000
- 12896 words of font info for 46 fonts, out of 3000000 for 9000
- 841 hyphenation exceptions out of 8191
- 46i,12n,42p,1761b,512s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/
-type1/public/amsfonts/cm/cmex10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Pro
-gram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/publ
-ic/amsfonts/cm/cmr12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files (
-x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts
-/cm/cmti12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on tdt4900.pdf (58 pages, 1847313 bytes).
+ 11052 strings out of 493304
+ 160771 string characters out of 6139872
+ 303645 words of memory out of 5000000
+ 14077 multiletter control sequences out of 15000+600000
+ 12896 words of font info for 46 fonts, out of 8000000 for 9000
+ 957 hyphenation exceptions out of 8191
+ 46i,12n,35p,1713b,488s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></us
+r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/shar
+e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texl
+ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist
+/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/
+type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/
+public/amsfonts/cm/cmti12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public
+/amsfonts/cm/cmtt12.pfb>
+Output written on tdt4900.pdf (58 pages, 1770922 bytes).
 PDF statistics:
- 827 PDF objects out of 1000 (max. 8388607)
- 187 named destinations out of 1000 (max. 500000)
+ 838 PDF objects out of 1000 (max. 8388607)
+ 737 compressed objects within 8 object streams
+ 188 named destinations out of 1000 (max. 500000)
  574 words of extra memory for PDF output out of 10000 (max. 10000000)
 
