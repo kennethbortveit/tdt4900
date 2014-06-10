@@ -658,6 +658,36 @@ parent={},%
 %
 }%
 }%
+\ifglsentryexists{is}{}%
+{%
+\gls@defglossaryentry{is}%
+{%
+name={IS},%
+sort={IS},%
+type={main},%
+first={Information Systems (IS)},%
+firstplural={Information Systemss(ISs)},%
+text={IS},%
+plural={ISs},%
+description={Information Systems},%
+descriptionplural={Information Systems\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Information Systems},%
+longplural={Information Systemss},%
+short={IS},%
+shortplural={ISs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
 \ifglsentryexists{lmis}{}%
 {%
 \gls@defglossaryentry{lmis}%

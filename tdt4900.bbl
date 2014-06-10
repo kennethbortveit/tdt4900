@@ -1,9 +1,21 @@
 \begin{thebibliography}{10}
 
+\bibitem{ca:isdc}
+Chrisanthi Avgerou.
+\newblock Information systems in developing countries: A critical research
+  review.
+\newblock {\em Journal of Information Technology}, 2008.
+
 \bibitem{countries:dhis2org}
 Countries using dhis 2.
 \newblock \url{http://www.dhis2.org/deployments}, 2014.
 \newblock Accessed: 22-05-2014.
+
+\bibitem{rh:isdc}
+Richard Heeks.
+\newblock Information systems and developing countries: Failure, success, and
+  local improvisations.
+\newblock {\em The information society}, 2000.
 
 \bibitem{rw:snl}
 Mikal Hem.
