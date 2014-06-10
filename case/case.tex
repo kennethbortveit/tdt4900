@@ -6,7 +6,7 @@ The \gls{hmis} team at the \gls{moh} in Rwanda has for some time been wanting to
 The \gls{hmis} team are actually working for the \gls{chd} who are the clients in this case. 
 The current system is primarily a pull system where \gls{chw}'s make monthly visits to their local \gls{hc} \gls{chw} supervisors in order to resupply. 
 \begin{quotation}
-In order for these \gls{chw}'s to provide uninterupted care to their communities, it is essential to have access to the essential drugs and supplies these health workers dispense.
+In order for these \gls{chw}'s to provide uninterrupted care to their communities, it is essential to have access to the essential drugs and supplies these health workers dispense.
 \end{quotation}
 
 Rwanda is now in the process of rolling out a national \gls{elmis} that is supposed to cover all levels of the health system, but this does not include the $\approx 45000$\gls{chw}'s in $\approx 15000$villages.
@@ -15,20 +15,21 @@ With \gls{dhis2} as a base software \gls{chw}'s will be able to report data on w
 Further, the plan is to integrate \gls{clmis} with the national \gls{elmis} in order to have interoperability between systems. 
 
 \section{Networks of Action}
-As mentioned by Eric, Jørn and Sundeep, on key to make this possible is the network of action. 
+As mentioned by Eric, Jørn and Sundeep, one key to make this possible is the network of action. 
 As a student-researcher I've been able to get a position as an intern at \gls{msh}.  
 The core of this initiative is the \gls{chd}. They have asked \gls{hmis} for support on developing \gls{clmis}. 
 The \gls{hmis} team has support from both \gls{msh} and \gls{hisp}. 
 \subsection{Description of the different participants here}
 
 \section{Objectives}
+\label{sec:objectives}
 In order to make the case managable for a research project it was limited to four objectives. 
 
 \begin{description}
-\item[\#1:] Send SMS and email notifications based on rules.
-\item[\#2:] Send SMS and email reminder if a report is more than 4 days delayed.
-\item[\#3:] If user data does not map correctly user feedback should be provided.
-\item[\#4:] A functional SMS based reporting system.
+\item[\#1:] Send SMS and email notifications based on rules.\label{desc:objectiveone}
+\item[\#2:] Send SMS and email reminder if a report is more than 4 days delayed.\label{desc:objectivetwo}
+\item[\#3:] If user data does not map correctly user feedback should be provided.\label{desc:objectivethree}
+\item[\#4:] A functional SMS based reporting system.\label{desc:objectivefour}
 \end{description}
 
 These objectives are somewhat simplified in order to be easier to work with. A more elaborate description folllows. 
@@ -242,7 +243,7 @@ The test environment was set up using an Android smart phone and a laptop.
 
 Based on advice from the \gls{hisp}-team at the \gls{uio} we chose to use \gls{smpp} protocol in order to transfer \gls{sms}'s from the \gls{chw}'s. In our case, this requires a connection with a \gls{smsc} at a local mobile operator. Typically the \gls{sms} is typed in by the \gls{chw} and sent to a telephone number, usually a four digit number. The message is then received at the \gls{smsc} where it is forwarded to the server at the receiving end for processing. This is an over simplification, but gets the basic idea across. After processing the server is able to send \gls{sms} feedback to the user. In order for us to simulate this at the office space, we chose to use a \gls{sms} gateway application running on a Android device. When a \gls{sms} with the right code word is received, it forwards the \gls{sms} to the server. 
 
-\subsection{Configuring \gls{dhis2}}
+\subsection{Configuring DHIS2}
 In order to process the reports \gls{dhis2} has to be ready to receive them.
 This involves creating user accounts with the phone number of the sender, creating data elements and sets that make meaning to the values reported and making the codes for the different supplies and drugs that the \gls{chw} reports on. 
 

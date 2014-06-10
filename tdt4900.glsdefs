@@ -688,6 +688,66 @@ parent={},%
 %
 }%
 }%
+\ifglsentryexists{isdc}{}%
+{%
+\gls@defglossaryentry{isdc}%
+{%
+name={ISDC},%
+sort={ISDC},%
+type={main},%
+first={Information Systems in Developing Countries (ISDC)},%
+firstplural={Information Systems in Developing Countriess(ISDCs)},%
+text={ISDC},%
+plural={ISDCs},%
+description={Information Systems in Developing Countries},%
+descriptionplural={Information Systems in Developing Countries\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Information Systems in Developing Countries},%
+longplural={Information Systems in Developing Countriess},%
+short={ISDC},%
+shortplural={ISDCs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{it}{}%
+{%
+\gls@defglossaryentry{it}%
+{%
+name={IT},%
+sort={IT},%
+type={main},%
+first={Information Technology (IT)},%
+firstplural={Information Technologys(ITs)},%
+text={IT},%
+plural={ITs},%
+description={Information Technology},%
+descriptionplural={Information Technology\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Information Technology},%
+longplural={Information Technologys},%
+short={IT},%
+shortplural={ITs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
 \ifglsentryexists{lmis}{}%
 {%
 \gls@defglossaryentry{lmis}%
