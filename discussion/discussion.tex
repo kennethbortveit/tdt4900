@@ -7,14 +7,8 @@ This was largely due to delays in the system of bureaucracy.
 It cannot be stated clearly enough how this effects the development cycle of this project.
 This system has been planned for a long time. 
 The first time we initiated the request for the \gls{smpp} protocol was at least 4 months prior to this particular case study. Adding 2 months during the case study we end up at 6 months of waiting.
-I will not go into details about the political decision making, but order to explain why the project was mainly realized in a test environment is because of one signature that never made it to the paper.
+I will not go into details about the political decision making, but in order to explain why the project was mainly realized in a test environment is because of one signature that never made it to the paper.
 Because of this fact, I will continue to evaluate the project based on what we where able to realize in the test environment.
-
-\subsection{Deviation from Original Plan}
-The original plan was to evaluate based on interviews with the \gls{chw}'s.
-The system were to be tested in a village were the system was meant to be used.
-Because the \gls{smpp} protocol were not supported we were not able to test this in a realistic scenario.
-This led to an evaluation based on the results. A case description and the applications. 
 
 \subsection{Objectives}
 The first objective (see \ref{desc:objectiveone}) was clearly over simplified in the beginning.
@@ -28,6 +22,8 @@ The third and fourth objectives (section \ref{desc:objectivethree} \ref{desc:obj
 
 In terms of success and failure as discussed in \ref{successandfailure} we can categorize the objectives. Assuming that the test environment is suitable to simulate reality, we have; Objectve 1 classified as partial failure. We did not meet the main objective, but did clear out much of the work in order to meet the objective in the future; Objective 2 was total failure. We did not meet the main objective in the time frame set for the case; Objective 3 and 4 could be classified as a success. The main objectives were met, although only in the test environment. 
 
+
+
 \section{Reflection}
 The \gls{hmis} team had not only \gls{clmis} to consider during the case study.
 Several projects including data quality, malaria, moving servers to the national cloud were running alongside the \gls{clmis}-project. This resulted in divided attention of the team.
@@ -38,6 +34,11 @@ Common misspellings were between the symbol for the letter 'l' and the number '1
 Also, between the letter 'o' and number '0'. 
 These were pitfalls easy to avoid, but hard to take notice of.
 This was mainly resulted by the lack of schooling of the \gls{chw}'s. 
+In Rwanda there are currently three languages being spoken. English, French and Kinyarwanda.
+English is the working language, but both one cannot take for granted that everybody speaks it.
+This makes automatic feedback an issue. Developers may not be aware that the official spoken language is are not spoken by all inhabitants.
+\gls{dhis2} has taken some actions to make all their messages customizable and support for customized feedback messages are just around the corner.
+
 \subsection{Programming}
 I took notice of the convenience of being able to program the software that we used.
 \gls{dhis2} is an open source software with frameworks based on JAVA. 
@@ -45,9 +46,27 @@ Being able to customize \gls{dhis2} on this level is essential to meet the clien
 For now \gls{hisp} has a developer team located in Oslo that is supporting the users requirements.
 \gls{dhis2} is active in over forty countries. 
 Clearly some local customization is in order. 
-I would propose that every team that are using \gls{dhis2} had some employee that are able to at least make some \gls{dhis2} applications.
+I would propose that every team that are using \gls{dhis2} had some employee that are able make  \gls{dhis2} applications. 
 
-\section{Action Research in Developing Countries}
+\subsection{Power supply and Internet}
+Often taken for granted in the developed countries are stable internet and power supply.
+Every other day one could experience power cuts that lasted between 5 and  10 minutes.
+While not being a critical issue in these short terms, it did affect the productivity. 
+Routers rebooting and interconnections resulting in downtime on servers are not easy to work with.
+
+
+\subsection{Creative Use of DHIS2}
+\gls{dhis2} is developed to be used a certain way. All data should be located in the same database basicly being manipulated through the user interface.
+Our solutions to our problems did in some way circumvent this.
+By connecting directly to the database we were able to implement the algorithm and create bulk users.
+This may create some issues in the future. 
+Like when creating bulk users, the \gls{chw}'s are not being part of the process. 
+This may lead to unwanted outcomes on bigger perspective. 
+The \gls{dhis2} protocol for doing this is that someone in charge will register users in their area of responsibility.
+By bypassing the user involvement we are loosing the \gls{hisp} characteristic of social-embeddednes. 
+
+
+Another example of creative use of \gls{dhis2} is that instead of using one database several are used for different topics. Then, in order to have interoperability between instances, certain dataelements are transferred between the servers. 
 
 \section{Rwandas ICT Transformation}
 The government of Rwanda has lately been wanting to become a knowledge based economy. 
@@ -68,5 +87,8 @@ Since these two discourses are much alike they also can co-exist. While the gove
 \cite{rw:snl}
 
 \section{ICT to Facilitate Health Services}
+The motivation for \gls{ict}'s in health systems are to take advantage of the possibility to increase efficiency, scale up treatment and improve patient outcome. 
+In a \gls{lmis} context the primary objective would be to reduce errors and increase efficiency.
+Studies have shown that a reduction in errors Pharmacy Information Systems when using information systems. 
 
 \cite{ehealth:blaya}
