@@ -1,3 +1,8 @@
 This is BibTeX, Version 0.99dThe top-level auxiliary file: tdt4900.aux
 The style file: plain.bst
 Database file #1: tdt4900.bib
+Name 1 in "Jesus Bisbal, Deirdre Lawless, Bing Wu, and Jane Grimson" has a comma at the end for entry leg:jdbj
+while executing---line 1049 of file plain.bst
+Name 1 in "Jesus Bisbal, Deirdre Lawless, Bing Wu, and Jane Grimson" has a comma at the end for entry leg:jdbj
+while executing---line 1090 of file plain.bst
+(There were 2 error messages)

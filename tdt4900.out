@@ -13,181 +13,184 @@
 \BOOKMARK [1][-]{section.2.2}{Outsourcing}{chapter.2}% 13
 \BOOKMARK [1][-]{section.2.3}{Digital Divide}{chapter.2}% 14
 \BOOKMARK [1][-]{section.2.4}{E-Health}{chapter.2}% 15
-\BOOKMARK [0][-]{chapter.3}{Case Context}{}% 16
-\BOOKMARK [1][-]{section.3.1}{Brief History}{chapter.3}% 17
-\BOOKMARK [1][-]{section.3.2}{More Recent}{chapter.3}% 18
-\BOOKMARK [1][-]{section.3.3}{Health Information System Programme}{chapter.3}% 19
-\BOOKMARK [2][-]{subsection.3.3.1}{HISP Strategy}{section.3.3}% 20
-\BOOKMARK [1][-]{section.3.4}{District Health Information System}{chapter.3}% 21
-\BOOKMARK [2][-]{subsection.3.4.1}{Gathering}{section.3.4}% 22
-\BOOKMARK [2][-]{subsection.3.4.2}{Managing}{section.3.4}% 23
-\BOOKMARK [2][-]{subsection.3.4.3}{Presenting}{section.3.4}% 24
-\BOOKMARK [2][-]{subsection.3.4.4}{Application Development}{section.3.4}% 25
-\BOOKMARK [1][-]{section.3.5}{Administrative Structure}{chapter.3}% 26
-\BOOKMARK [1][-]{section.3.6}{Health Management Information System in Rwanda}{chapter.3}% 27
-\BOOKMARK [1][-]{section.3.7}{Ministry of Health}{chapter.3}% 28
-\BOOKMARK [1][-]{section.3.8}{Community Health Desk}{chapter.3}% 29
-\BOOKMARK [2][-]{subsection.3.8.1}{Community Health Workers in Rwanda}{section.3.8}% 30
-\BOOKMARK [1][-]{section.3.9}{Cell Coordinators}{chapter.3}% 31
-\BOOKMARK [0][-]{chapter.4}{Research Methodology}{}% 32
-\BOOKMARK [1][-]{section.4.1}{Action Research}{chapter.4}% 33
-\BOOKMARK [1][-]{section.4.2}{Diagnosis}{chapter.4}% 34
-\BOOKMARK [2][-]{subsection.4.2.1}{Situation Report}{section.4.2}% 35
-\BOOKMARK [1][-]{section.4.3}{Planning}{chapter.4}% 36
-\BOOKMARK [1][-]{section.4.4}{Intervention}{chapter.4}% 37
-\BOOKMARK [2][-]{subsection.4.4.1}{Use Cases}{section.4.4}% 38
-\BOOKMARK [2][-]{subsection.4.4.2}{Configuring DHIS2}{section.4.4}% 39
-\BOOKMARK [2][-]{subsection.4.4.3}{Algorithm}{section.4.4}% 40
-\BOOKMARK [2][-]{subsection.4.4.4}{User Importer}{section.4.4}% 41
-\BOOKMARK [2][-]{subsection.4.4.5}{The Essential Predictore}{section.4.4}% 42
-\BOOKMARK [1][-]{section.4.5}{Evaluation}{chapter.4}% 43
-\BOOKMARK [2][-]{subsection.4.5.1}{SMS demo}{section.4.5}% 44
-\BOOKMARK [2][-]{subsection.4.5.2}{Algorithm Presentation}{section.4.5}% 45
-\BOOKMARK [2][-]{subsection.4.5.3}{Situation Report}{section.4.5}% 46
-\BOOKMARK [1][-]{section.4.6}{Reflection}{chapter.4}% 47
-\BOOKMARK [0][-]{chapter.5}{Case}{}% 48
-\BOOKMARK [1][-]{section.5.1}{Background}{chapter.5}% 49
-\BOOKMARK [1][-]{section.5.2}{Networks of Action}{chapter.5}% 50
-\BOOKMARK [2][-]{subsection.5.2.1}{Description of the different participants here}{section.5.2}% 51
-\BOOKMARK [1][-]{section.5.3}{Objectives}{chapter.5}% 52
-\BOOKMARK [2][-]{subsection.5.3.1}{Objective \0431}{section.5.3}% 53
-\BOOKMARK [2][-]{subsection.5.3.2}{Objective \0432}{section.5.3}% 54
-\BOOKMARK [2][-]{subsection.5.3.3}{Objective \0433}{section.5.3}% 55
-\BOOKMARK [2][-]{subsection.5.3.4}{Objective \0434}{section.5.3}% 56
-\BOOKMARK [1][-]{section.5.4}{Refining and Defining the Requirements}{chapter.5}% 57
-\BOOKMARK [2][-]{subsection.5.4.1}{Use Cases}{section.5.4}% 58
-\BOOKMARK [1][-]{section.5.5}{Planning}{chapter.5}% 59
-\BOOKMARK [1][-]{section.5.6}{Intervention}{chapter.5}% 60
-\BOOKMARK [2][-]{subsection.5.6.1}{Setting up the Test Environment}{section.5.6}% 61
-\BOOKMARK [2][-]{subsection.5.6.2}{Configuring DHIS2}{section.5.6}% 62
-\BOOKMARK [2][-]{subsection.5.6.3}{Demo 1}{section.5.6}% 63
-\BOOKMARK [2][-]{subsection.5.6.4}{Demo 2}{section.5.6}% 64
-\BOOKMARK [2][-]{subsection.5.6.5}{Setting up the mobile instance}{section.5.6}% 65
-\BOOKMARK [2][-]{subsection.5.6.6}{Re-Supply Algorithm}{section.5.6}% 66
-\BOOKMARK [1][-]{section.5.7}{Demo 3}{chapter.5}% 67
-\BOOKMARK [1][-]{section.5.8}{Case Summary}{chapter.5}% 68
-\BOOKMARK [1][-]{section.5.9}{East Africa}{chapter.5}% 69
-\BOOKMARK [1][-]{section.5.10}{DHIS2 Academy}{chapter.5}% 70
-\BOOKMARK [0][-]{chapter.6}{Discussion}{}% 71
-\BOOKMARK [1][-]{section.6.1}{Evaluation}{chapter.6}% 72
-\BOOKMARK [2][-]{subsection.6.1.1}{Objectives}{section.6.1}% 73
-\BOOKMARK [1][-]{section.6.2}{Reflection}{chapter.6}% 74
-\BOOKMARK [2][-]{subsection.6.2.1}{Language}{section.6.2}% 75
-\BOOKMARK [2][-]{subsection.6.2.2}{Programming}{section.6.2}% 76
-\BOOKMARK [2][-]{subsection.6.2.3}{Power supply and Internet}{section.6.2}% 77
-\BOOKMARK [2][-]{subsection.6.2.4}{Creative Use of DHIS2}{section.6.2}% 78
-\BOOKMARK [1][-]{section.6.3}{Rwandas ICT Transformation}{chapter.6}% 79
-\BOOKMARK [1][-]{section.6.4}{ICT to Facilitate Health Services}{chapter.6}% 80
-\BOOKMARK [0][-]{chapter.7}{Conclusions}{}% 81
-\BOOKMARK [0][-]{appendix.A}{Requirements Document}{}% 82
-\BOOKMARK [1][-]{section.A.1}{The real deal is somewhere else!}{appendix.A}% 83
-\BOOKMARK [1][-]{section.A.2}{Context}{appendix.A}% 84
-\BOOKMARK [1][-]{section.A.3}{Setting up Testing Environment}{appendix.A}% 85
-\BOOKMARK [2][-]{subsection.A.3.1}{Testing without phone}{section.A.3}% 86
-\BOOKMARK [1][-]{section.A.4}{The Rights of The Participants}{appendix.A}% 87
-\BOOKMARK [2][-]{subsection.A.4.1}{Not to participate}{section.A.4}% 88
-\BOOKMARK [2][-]{subsection.A.4.2}{To withdraw}{section.A.4}% 89
-\BOOKMARK [2][-]{subsection.A.4.3}{To give informed consent}{section.A.4}% 90
-\BOOKMARK [2][-]{subsection.A.4.4}{To anonymity}{section.A.4}% 91
-\BOOKMARK [2][-]{subsection.A.4.5}{To confidentiality}{section.A.4}% 92
-\BOOKMARK [0][-]{appendix.B}{Interviews}{}% 93
-\BOOKMARK [1][-]{section.B.1}{Diagnosis}{appendix.B}% 94
-\BOOKMARK [2][-]{subsection.B.1.1}{Randy}{section.B.1}% 95
-\BOOKMARK [2][-]{subsection.B.1.2}{Andrew}{section.B.1}% 96
-\BOOKMARK [2][-]{subsection.B.1.3}{Venuste}{section.B.1}% 97
-\BOOKMARK [0][-]{appendix.C}{Journal}{}% 98
-\BOOKMARK [1][-]{section.C.1}{Day 1}{appendix.C}% 99
-\BOOKMARK [2][-]{subsection.C.1.1}{Breakfast}{section.C.1}% 100
-\BOOKMARK [2][-]{subsection.C.1.2}{MSH Office}{section.C.1}% 101
-\BOOKMARK [1][-]{section.C.2}{Day 2}{appendix.C}% 102
-\BOOKMARK [2][-]{subsection.C.2.1}{New Office}{section.C.2}% 103
-\BOOKMARK [2][-]{subsection.C.2.2}{Beginning to collect the requirements}{section.C.2}% 104
-\BOOKMARK [1][-]{section.C.3}{Day 3}{appendix.C}% 105
-\BOOKMARK [2][-]{subsection.C.3.1}{Morning at the office}{section.C.3}% 106
-\BOOKMARK [2][-]{subsection.C.3.2}{Testing}{section.C.3}% 107
-\BOOKMARK [2][-]{subsection.C.3.3}{Setting up the test environment with sms}{section.C.3}% 108
-\BOOKMARK [2][-]{subsection.C.3.4}{Tasks}{section.C.3}% 109
-\BOOKMARK [2][-]{subsection.C.3.5}{End of the day}{section.C.3}% 110
-\BOOKMARK [1][-]{section.C.4}{Day 4}{appendix.C}% 111
-\BOOKMARK [2][-]{subsection.C.4.1}{Morning}{section.C.4}% 112
-\BOOKMARK [2][-]{subsection.C.4.2}{Before lunch}{section.C.4}% 113
-\BOOKMARK [2][-]{subsection.C.4.3}{After lunch}{section.C.4}% 114
-\BOOKMARK [2][-]{subsection.C.4.4}{end of work day}{section.C.4}% 115
-\BOOKMARK [1][-]{section.C.5}{Day 5}{appendix.C}% 116
-\BOOKMARK [2][-]{subsection.C.5.1}{Before lunch}{section.C.5}% 117
-\BOOKMARK [1][-]{section.C.6}{Day 6}{appendix.C}% 118
-\BOOKMARK [2][-]{subsection.C.6.1}{Getting TV}{section.C.6}% 119
-\BOOKMARK [2][-]{subsection.C.6.2}{Market}{section.C.6}% 120
-\BOOKMARK [2][-]{subsection.C.6.3}{Hash}{section.C.6}% 121
-\BOOKMARK [2][-]{subsection.C.6.4}{Casino}{section.C.6}% 122
-\BOOKMARK [1][-]{section.C.7}{Day 7}{appendix.C}% 123
-\BOOKMARK [2][-]{subsection.C.7.1}{Waking up}{section.C.7}% 124
-\BOOKMARK [2][-]{subsection.C.7.2}{Night time}{section.C.7}% 125
-\BOOKMARK [1][-]{section.C.8}{Day 8}{appendix.C}% 126
-\BOOKMARK [2][-]{subsection.C.8.1}{Morning at the office}{section.C.8}% 127
-\BOOKMARK [1][-]{section.C.9}{Day 9}{appendix.C}% 128
-\BOOKMARK [2][-]{subsection.C.9.1}{Before lunch}{section.C.9}% 129
-\BOOKMARK [2][-]{subsection.C.9.2}{After lunch}{section.C.9}% 130
-\BOOKMARK [1][-]{section.C.10}{Day 10}{appendix.C}% 131
-\BOOKMARK [2][-]{subsection.C.10.1}{Morning at the MoH/HMIS}{section.C.10}% 132
-\BOOKMARK [1][-]{section.C.11}{Day 11}{appendix.C}% 133
-\BOOKMARK [2][-]{subsection.C.11.1}{Morning}{section.C.11}% 134
-\BOOKMARK [1][-]{section.C.12}{Day 12}{appendix.C}% 135
-\BOOKMARK [2][-]{subsection.C.12.1}{CHW supply chain meeting}{section.C.12}% 136
-\BOOKMARK [1][-]{section.C.13}{Day 13}{appendix.C}% 137
-\BOOKMARK [1][-]{section.C.14}{Day 14}{appendix.C}% 138
-\BOOKMARK [1][-]{section.C.15}{Day 15}{appendix.C}% 139
-\BOOKMARK [2][-]{subsection.C.15.1}{Before Lunch}{section.C.15}% 140
-\BOOKMARK [2][-]{subsection.C.15.2}{After Lunch}{section.C.15}% 141
-\BOOKMARK [1][-]{section.C.16}{Day 16}{appendix.C}% 142
-\BOOKMARK [2][-]{subsection.C.16.1}{After lunch}{section.C.16}% 143
-\BOOKMARK [1][-]{section.C.17}{Day 17}{appendix.C}% 144
-\BOOKMARK [2][-]{subsection.C.17.1}{Morning}{section.C.17}% 145
-\BOOKMARK [2][-]{subsection.C.17.2}{After lunch}{section.C.17}% 146
-\BOOKMARK [2][-]{subsection.C.17.3}{Back home}{section.C.17}% 147
-\BOOKMARK [1][-]{section.C.18}{Day 18}{appendix.C}% 148
-\BOOKMARK [2][-]{subsection.C.18.1}{Morning}{section.C.18}% 149
-\BOOKMARK [2][-]{subsection.C.18.2}{Importing Users with Postgres}{section.C.18}% 150
-\BOOKMARK [2][-]{subsection.C.18.3}{Generating passwords}{section.C.18}% 151
-\BOOKMARK [2][-]{subsection.C.18.4}{Made the Password App}{section.C.18}% 152
-\BOOKMARK [1][-]{section.C.19}{Day 19}{appendix.C}% 153
-\BOOKMARK [2][-]{subsection.C.19.1}{Before lunch}{section.C.19}% 154
-\BOOKMARK [1][-]{section.C.20}{Day 20}{appendix.C}% 155
-\BOOKMARK [2][-]{subsection.C.20.1}{Going to the mall}{section.C.20}% 156
-\BOOKMARK [1][-]{section.C.21}{Day 21}{appendix.C}% 157
-\BOOKMARK [2][-]{subsection.C.21.1}{Havanna}{section.C.21}% 158
-\BOOKMARK [1][-]{section.C.22}{Day 22}{appendix.C}% 159
-\BOOKMARK [2][-]{subsection.C.22.1}{Before lunch}{section.C.22}% 160
-\BOOKMARK [1][-]{section.C.23}{Day 23}{appendix.C}% 161
-\BOOKMARK [2][-]{subsection.C.23.1}{In the AM}{section.C.23}% 162
-\BOOKMARK [2][-]{subsection.C.23.2}{DHIS2 interoperability MEMMS}{section.C.23}% 163
-\BOOKMARK [2][-]{subsection.C.23.3}{Proposed meeting}{section.C.23}% 164
-\BOOKMARK [1][-]{section.C.24}{Day 24}{appendix.C}% 165
-\BOOKMARK [2][-]{subsection.C.24.1}{Good Morning}{section.C.24}% 166
-\BOOKMARK [1][-]{section.C.25}{Day 25}{appendix.C}% 167
-\BOOKMARK [2][-]{subsection.C.25.1}{VISA}{section.C.25}% 168
-\BOOKMARK [2][-]{subsection.C.25.2}{For my masters}{section.C.25}% 169
-\BOOKMARK [1][-]{section.C.26}{Day 26}{appendix.C}% 170
-\BOOKMARK [2][-]{subsection.C.26.1}{Email brief}{section.C.26}% 171
-\BOOKMARK [1][-]{section.C.27}{Day 27}{appendix.C}% 172
-\BOOKMARK [2][-]{subsection.C.27.1}{Chimps}{section.C.27}% 173
-\BOOKMARK [2][-]{subsection.C.27.2}{Kanalope walk}{section.C.27}% 174
-\BOOKMARK [2][-]{subsection.C.27.3}{Dinner}{section.C.27}% 175
-\BOOKMARK [1][-]{section.C.28}{Day 28}{appendix.C}% 176
-\BOOKMARK [2][-]{subsection.C.28.1}{Breakfast}{section.C.28}% 177
-\BOOKMARK [2][-]{subsection.C.28.2}{Car drive}{section.C.28}% 178
-\BOOKMARK [2][-]{subsection.C.28.3}{Museum in the old capital}{section.C.28}% 179
-\BOOKMARK [2][-]{subsection.C.28.4}{Meeting Borah}{section.C.28}% 180
-\BOOKMARK [2][-]{subsection.C.28.5}{Sunburn}{section.C.28}% 181
-\BOOKMARK [1][-]{section.C.29}{Day 29}{appendix.C}% 182
-\BOOKMARK [2][-]{subsection.C.29.1}{Good morning}{section.C.29}% 183
-\BOOKMARK [2][-]{subsection.C.29.2}{Just got lunch}{section.C.29}% 184
-\BOOKMARK [1][-]{section.C.30}{Day 30}{appendix.C}% 185
-\BOOKMARK [2][-]{subsection.C.30.1}{Good morning}{section.C.30}% 186
-\BOOKMARK [2][-]{subsection.C.30.2}{After lunch}{section.C.30}% 187
-\BOOKMARK [2][-]{subsection.C.30.3}{Closing}{section.C.30}% 188
-\BOOKMARK [1][-]{section.C.31}{Day 31}{appendix.C}% 189
-\BOOKMARK [1][-]{section.C.32}{Day 32}{appendix.C}% 190
-\BOOKMARK [2][-]{subsection.C.32.1}{Meeting with the clients}{section.C.32}% 191
-\BOOKMARK [1][-]{section.C.33}{Day 33}{appendix.C}% 192
-\BOOKMARK [2][-]{subsection.C.33.1}{Movie}{section.C.33}% 193
+\BOOKMARK [1][-]{section.2.5}{Transition Strategy}{chapter.2}% 16
+\BOOKMARK [2][-]{subsection.2.5.1}{Planning and Conducting a Transition Strategy}{section.2.5}% 17
+\BOOKMARK [2][-]{subsection.2.5.2}{Migration}{section.2.5}% 18
+\BOOKMARK [0][-]{chapter.3}{Case Context}{}% 19
+\BOOKMARK [1][-]{section.3.1}{Brief History}{chapter.3}% 20
+\BOOKMARK [1][-]{section.3.2}{More Recent}{chapter.3}% 21
+\BOOKMARK [1][-]{section.3.3}{Health Information System Programme}{chapter.3}% 22
+\BOOKMARK [2][-]{subsection.3.3.1}{HISP Strategy}{section.3.3}% 23
+\BOOKMARK [1][-]{section.3.4}{District Health Information System}{chapter.3}% 24
+\BOOKMARK [2][-]{subsection.3.4.1}{Gathering}{section.3.4}% 25
+\BOOKMARK [2][-]{subsection.3.4.2}{Managing}{section.3.4}% 26
+\BOOKMARK [2][-]{subsection.3.4.3}{Presenting}{section.3.4}% 27
+\BOOKMARK [2][-]{subsection.3.4.4}{Application Development}{section.3.4}% 28
+\BOOKMARK [1][-]{section.3.5}{Administrative Structure}{chapter.3}% 29
+\BOOKMARK [1][-]{section.3.6}{Health Management Information System in Rwanda}{chapter.3}% 30
+\BOOKMARK [1][-]{section.3.7}{Ministry of Health}{chapter.3}% 31
+\BOOKMARK [1][-]{section.3.8}{Community Health Desk}{chapter.3}% 32
+\BOOKMARK [2][-]{subsection.3.8.1}{Community Health Workers in Rwanda}{section.3.8}% 33
+\BOOKMARK [1][-]{section.3.9}{Cell Coordinators}{chapter.3}% 34
+\BOOKMARK [0][-]{chapter.4}{Research Methodology}{}% 35
+\BOOKMARK [1][-]{section.4.1}{Action Research}{chapter.4}% 36
+\BOOKMARK [1][-]{section.4.2}{Diagnosis}{chapter.4}% 37
+\BOOKMARK [2][-]{subsection.4.2.1}{Situation Report}{section.4.2}% 38
+\BOOKMARK [1][-]{section.4.3}{Planning}{chapter.4}% 39
+\BOOKMARK [1][-]{section.4.4}{Intervention}{chapter.4}% 40
+\BOOKMARK [2][-]{subsection.4.4.1}{Use Cases}{section.4.4}% 41
+\BOOKMARK [2][-]{subsection.4.4.2}{Configuring DHIS2}{section.4.4}% 42
+\BOOKMARK [2][-]{subsection.4.4.3}{Algorithm}{section.4.4}% 43
+\BOOKMARK [2][-]{subsection.4.4.4}{User Importer}{section.4.4}% 44
+\BOOKMARK [2][-]{subsection.4.4.5}{The Essential Predictore}{section.4.4}% 45
+\BOOKMARK [1][-]{section.4.5}{Evaluation}{chapter.4}% 46
+\BOOKMARK [2][-]{subsection.4.5.1}{SMS demo}{section.4.5}% 47
+\BOOKMARK [2][-]{subsection.4.5.2}{Algorithm Presentation}{section.4.5}% 48
+\BOOKMARK [2][-]{subsection.4.5.3}{Situation Report}{section.4.5}% 49
+\BOOKMARK [1][-]{section.4.6}{Reflection}{chapter.4}% 50
+\BOOKMARK [0][-]{chapter.5}{Case}{}% 51
+\BOOKMARK [1][-]{section.5.1}{Background}{chapter.5}% 52
+\BOOKMARK [1][-]{section.5.2}{Networks of Action}{chapter.5}% 53
+\BOOKMARK [2][-]{subsection.5.2.1}{Description of the different participants here}{section.5.2}% 54
+\BOOKMARK [1][-]{section.5.3}{Objectives}{chapter.5}% 55
+\BOOKMARK [2][-]{subsection.5.3.1}{Objective \0431}{section.5.3}% 56
+\BOOKMARK [2][-]{subsection.5.3.2}{Objective \0432}{section.5.3}% 57
+\BOOKMARK [2][-]{subsection.5.3.3}{Objective \0433}{section.5.3}% 58
+\BOOKMARK [2][-]{subsection.5.3.4}{Objective \0434}{section.5.3}% 59
+\BOOKMARK [1][-]{section.5.4}{Refining and Defining the Requirements}{chapter.5}% 60
+\BOOKMARK [2][-]{subsection.5.4.1}{Use Cases}{section.5.4}% 61
+\BOOKMARK [1][-]{section.5.5}{Planning}{chapter.5}% 62
+\BOOKMARK [1][-]{section.5.6}{Intervention}{chapter.5}% 63
+\BOOKMARK [2][-]{subsection.5.6.1}{Setting up the Test Environment}{section.5.6}% 64
+\BOOKMARK [2][-]{subsection.5.6.2}{Configuring DHIS2}{section.5.6}% 65
+\BOOKMARK [2][-]{subsection.5.6.3}{Demo 1}{section.5.6}% 66
+\BOOKMARK [2][-]{subsection.5.6.4}{Demo 2}{section.5.6}% 67
+\BOOKMARK [2][-]{subsection.5.6.5}{Setting up the mobile instance}{section.5.6}% 68
+\BOOKMARK [2][-]{subsection.5.6.6}{Re-Supply Algorithm}{section.5.6}% 69
+\BOOKMARK [1][-]{section.5.7}{Demo 3}{chapter.5}% 70
+\BOOKMARK [1][-]{section.5.8}{Case Summary}{chapter.5}% 71
+\BOOKMARK [1][-]{section.5.9}{East Africa}{chapter.5}% 72
+\BOOKMARK [1][-]{section.5.10}{DHIS2 Academy}{chapter.5}% 73
+\BOOKMARK [0][-]{chapter.6}{Discussion}{}% 74
+\BOOKMARK [1][-]{section.6.1}{Evaluation}{chapter.6}% 75
+\BOOKMARK [2][-]{subsection.6.1.1}{Objectives}{section.6.1}% 76
+\BOOKMARK [1][-]{section.6.2}{Reflection}{chapter.6}% 77
+\BOOKMARK [2][-]{subsection.6.2.1}{Language}{section.6.2}% 78
+\BOOKMARK [2][-]{subsection.6.2.2}{Programming}{section.6.2}% 79
+\BOOKMARK [2][-]{subsection.6.2.3}{Power supply and Internet}{section.6.2}% 80
+\BOOKMARK [2][-]{subsection.6.2.4}{Creative Use of DHIS2}{section.6.2}% 81
+\BOOKMARK [1][-]{section.6.3}{Rwandas ICT Transformation}{chapter.6}% 82
+\BOOKMARK [1][-]{section.6.4}{ICT to Facilitate Health Services}{chapter.6}% 83
+\BOOKMARK [0][-]{chapter.7}{Conclusions}{}% 84
+\BOOKMARK [0][-]{appendix.A}{Requirements Document}{}% 85
+\BOOKMARK [1][-]{section.A.1}{The real deal is somewhere else!}{appendix.A}% 86
+\BOOKMARK [1][-]{section.A.2}{Context}{appendix.A}% 87
+\BOOKMARK [1][-]{section.A.3}{Setting up Testing Environment}{appendix.A}% 88
+\BOOKMARK [2][-]{subsection.A.3.1}{Testing without phone}{section.A.3}% 89
+\BOOKMARK [1][-]{section.A.4}{The Rights of The Participants}{appendix.A}% 90
+\BOOKMARK [2][-]{subsection.A.4.1}{Not to participate}{section.A.4}% 91
+\BOOKMARK [2][-]{subsection.A.4.2}{To withdraw}{section.A.4}% 92
+\BOOKMARK [2][-]{subsection.A.4.3}{To give informed consent}{section.A.4}% 93
+\BOOKMARK [2][-]{subsection.A.4.4}{To anonymity}{section.A.4}% 94
+\BOOKMARK [2][-]{subsection.A.4.5}{To confidentiality}{section.A.4}% 95
+\BOOKMARK [0][-]{appendix.B}{Interviews}{}% 96
+\BOOKMARK [1][-]{section.B.1}{Diagnosis}{appendix.B}% 97
+\BOOKMARK [2][-]{subsection.B.1.1}{Randy}{section.B.1}% 98
+\BOOKMARK [2][-]{subsection.B.1.2}{Andrew}{section.B.1}% 99
+\BOOKMARK [2][-]{subsection.B.1.3}{Venuste}{section.B.1}% 100
+\BOOKMARK [0][-]{appendix.C}{Journal}{}% 101
+\BOOKMARK [1][-]{section.C.1}{Day 1}{appendix.C}% 102
+\BOOKMARK [2][-]{subsection.C.1.1}{Breakfast}{section.C.1}% 103
+\BOOKMARK [2][-]{subsection.C.1.2}{MSH Office}{section.C.1}% 104
+\BOOKMARK [1][-]{section.C.2}{Day 2}{appendix.C}% 105
+\BOOKMARK [2][-]{subsection.C.2.1}{New Office}{section.C.2}% 106
+\BOOKMARK [2][-]{subsection.C.2.2}{Beginning to collect the requirements}{section.C.2}% 107
+\BOOKMARK [1][-]{section.C.3}{Day 3}{appendix.C}% 108
+\BOOKMARK [2][-]{subsection.C.3.1}{Morning at the office}{section.C.3}% 109
+\BOOKMARK [2][-]{subsection.C.3.2}{Testing}{section.C.3}% 110
+\BOOKMARK [2][-]{subsection.C.3.3}{Setting up the test environment with sms}{section.C.3}% 111
+\BOOKMARK [2][-]{subsection.C.3.4}{Tasks}{section.C.3}% 112
+\BOOKMARK [2][-]{subsection.C.3.5}{End of the day}{section.C.3}% 113
+\BOOKMARK [1][-]{section.C.4}{Day 4}{appendix.C}% 114
+\BOOKMARK [2][-]{subsection.C.4.1}{Morning}{section.C.4}% 115
+\BOOKMARK [2][-]{subsection.C.4.2}{Before lunch}{section.C.4}% 116
+\BOOKMARK [2][-]{subsection.C.4.3}{After lunch}{section.C.4}% 117
+\BOOKMARK [2][-]{subsection.C.4.4}{end of work day}{section.C.4}% 118
+\BOOKMARK [1][-]{section.C.5}{Day 5}{appendix.C}% 119
+\BOOKMARK [2][-]{subsection.C.5.1}{Before lunch}{section.C.5}% 120
+\BOOKMARK [1][-]{section.C.6}{Day 6}{appendix.C}% 121
+\BOOKMARK [2][-]{subsection.C.6.1}{Getting TV}{section.C.6}% 122
+\BOOKMARK [2][-]{subsection.C.6.2}{Market}{section.C.6}% 123
+\BOOKMARK [2][-]{subsection.C.6.3}{Hash}{section.C.6}% 124
+\BOOKMARK [2][-]{subsection.C.6.4}{Casino}{section.C.6}% 125
+\BOOKMARK [1][-]{section.C.7}{Day 7}{appendix.C}% 126
+\BOOKMARK [2][-]{subsection.C.7.1}{Waking up}{section.C.7}% 127
+\BOOKMARK [2][-]{subsection.C.7.2}{Night time}{section.C.7}% 128
+\BOOKMARK [1][-]{section.C.8}{Day 8}{appendix.C}% 129
+\BOOKMARK [2][-]{subsection.C.8.1}{Morning at the office}{section.C.8}% 130
+\BOOKMARK [1][-]{section.C.9}{Day 9}{appendix.C}% 131
+\BOOKMARK [2][-]{subsection.C.9.1}{Before lunch}{section.C.9}% 132
+\BOOKMARK [2][-]{subsection.C.9.2}{After lunch}{section.C.9}% 133
+\BOOKMARK [1][-]{section.C.10}{Day 10}{appendix.C}% 134
+\BOOKMARK [2][-]{subsection.C.10.1}{Morning at the MoH/HMIS}{section.C.10}% 135
+\BOOKMARK [1][-]{section.C.11}{Day 11}{appendix.C}% 136
+\BOOKMARK [2][-]{subsection.C.11.1}{Morning}{section.C.11}% 137
+\BOOKMARK [1][-]{section.C.12}{Day 12}{appendix.C}% 138
+\BOOKMARK [2][-]{subsection.C.12.1}{CHW supply chain meeting}{section.C.12}% 139
+\BOOKMARK [1][-]{section.C.13}{Day 13}{appendix.C}% 140
+\BOOKMARK [1][-]{section.C.14}{Day 14}{appendix.C}% 141
+\BOOKMARK [1][-]{section.C.15}{Day 15}{appendix.C}% 142
+\BOOKMARK [2][-]{subsection.C.15.1}{Before Lunch}{section.C.15}% 143
+\BOOKMARK [2][-]{subsection.C.15.2}{After Lunch}{section.C.15}% 144
+\BOOKMARK [1][-]{section.C.16}{Day 16}{appendix.C}% 145
+\BOOKMARK [2][-]{subsection.C.16.1}{After lunch}{section.C.16}% 146
+\BOOKMARK [1][-]{section.C.17}{Day 17}{appendix.C}% 147
+\BOOKMARK [2][-]{subsection.C.17.1}{Morning}{section.C.17}% 148
+\BOOKMARK [2][-]{subsection.C.17.2}{After lunch}{section.C.17}% 149
+\BOOKMARK [2][-]{subsection.C.17.3}{Back home}{section.C.17}% 150
+\BOOKMARK [1][-]{section.C.18}{Day 18}{appendix.C}% 151
+\BOOKMARK [2][-]{subsection.C.18.1}{Morning}{section.C.18}% 152
+\BOOKMARK [2][-]{subsection.C.18.2}{Importing Users with Postgres}{section.C.18}% 153
+\BOOKMARK [2][-]{subsection.C.18.3}{Generating passwords}{section.C.18}% 154
+\BOOKMARK [2][-]{subsection.C.18.4}{Made the Password App}{section.C.18}% 155
+\BOOKMARK [1][-]{section.C.19}{Day 19}{appendix.C}% 156
+\BOOKMARK [2][-]{subsection.C.19.1}{Before lunch}{section.C.19}% 157
+\BOOKMARK [1][-]{section.C.20}{Day 20}{appendix.C}% 158
+\BOOKMARK [2][-]{subsection.C.20.1}{Going to the mall}{section.C.20}% 159
+\BOOKMARK [1][-]{section.C.21}{Day 21}{appendix.C}% 160
+\BOOKMARK [2][-]{subsection.C.21.1}{Havanna}{section.C.21}% 161
+\BOOKMARK [1][-]{section.C.22}{Day 22}{appendix.C}% 162
+\BOOKMARK [2][-]{subsection.C.22.1}{Before lunch}{section.C.22}% 163
+\BOOKMARK [1][-]{section.C.23}{Day 23}{appendix.C}% 164
+\BOOKMARK [2][-]{subsection.C.23.1}{In the AM}{section.C.23}% 165
+\BOOKMARK [2][-]{subsection.C.23.2}{DHIS2 interoperability MEMMS}{section.C.23}% 166
+\BOOKMARK [2][-]{subsection.C.23.3}{Proposed meeting}{section.C.23}% 167
+\BOOKMARK [1][-]{section.C.24}{Day 24}{appendix.C}% 168
+\BOOKMARK [2][-]{subsection.C.24.1}{Good Morning}{section.C.24}% 169
+\BOOKMARK [1][-]{section.C.25}{Day 25}{appendix.C}% 170
+\BOOKMARK [2][-]{subsection.C.25.1}{VISA}{section.C.25}% 171
+\BOOKMARK [2][-]{subsection.C.25.2}{For my masters}{section.C.25}% 172
+\BOOKMARK [1][-]{section.C.26}{Day 26}{appendix.C}% 173
+\BOOKMARK [2][-]{subsection.C.26.1}{Email brief}{section.C.26}% 174
+\BOOKMARK [1][-]{section.C.27}{Day 27}{appendix.C}% 175
+\BOOKMARK [2][-]{subsection.C.27.1}{Chimps}{section.C.27}% 176
+\BOOKMARK [2][-]{subsection.C.27.2}{Kanalope walk}{section.C.27}% 177
+\BOOKMARK [2][-]{subsection.C.27.3}{Dinner}{section.C.27}% 178
+\BOOKMARK [1][-]{section.C.28}{Day 28}{appendix.C}% 179
+\BOOKMARK [2][-]{subsection.C.28.1}{Breakfast}{section.C.28}% 180
+\BOOKMARK [2][-]{subsection.C.28.2}{Car drive}{section.C.28}% 181
+\BOOKMARK [2][-]{subsection.C.28.3}{Museum in the old capital}{section.C.28}% 182
+\BOOKMARK [2][-]{subsection.C.28.4}{Meeting Borah}{section.C.28}% 183
+\BOOKMARK [2][-]{subsection.C.28.5}{Sunburn}{section.C.28}% 184
+\BOOKMARK [1][-]{section.C.29}{Day 29}{appendix.C}% 185
+\BOOKMARK [2][-]{subsection.C.29.1}{Good morning}{section.C.29}% 186
+\BOOKMARK [2][-]{subsection.C.29.2}{Just got lunch}{section.C.29}% 187
+\BOOKMARK [1][-]{section.C.30}{Day 30}{appendix.C}% 188
+\BOOKMARK [2][-]{subsection.C.30.1}{Good morning}{section.C.30}% 189
+\BOOKMARK [2][-]{subsection.C.30.2}{After lunch}{section.C.30}% 190
+\BOOKMARK [2][-]{subsection.C.30.3}{Closing}{section.C.30}% 191
+\BOOKMARK [1][-]{section.C.31}{Day 31}{appendix.C}% 192
+\BOOKMARK [1][-]{section.C.32}{Day 32}{appendix.C}% 193
+\BOOKMARK [2][-]{subsection.C.32.1}{Meeting with the clients}{section.C.32}% 194
+\BOOKMARK [1][-]{section.C.33}{Day 33}{appendix.C}% 195
+\BOOKMARK [2][-]{subsection.C.33.1}{Movie}{section.C.33}% 196
