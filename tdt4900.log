@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.9.13)  10 JUN 2014 20:08
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.9.13)  11 JUN 2014 16:21
 entering extended mode
 **tdt4900.tex
 (C:\github\tdt4900\tdt4900.tex
@@ -681,7 +681,7 @@ Package hyperref Info: Option `pageanchor' set `true' on input line 22.
 \tf@toc=\write6
  [6]
 (C:\github\tdt4900\tdt4900.lof
-Overfull \hbox (9.0418pt too wide) in paragraph at lines 9--9
+Overfull \hbox (9.0418pt too wide) in paragraph at lines 10--10
  [][] [][]\OT1/cmr/m/n/12 (Blue, Na-tional rollout)-(Light-Blue, Programs/partial)-(Green, 
  []
 
@@ -710,56 +710,71 @@ Overfull \hbox (15.03966pt too wide) in paragraph at lines 3--3
 []\OT1/cmr/bx/n/17.28 Information and Com-mu-ni-ca-tion Tech-nolo-
  []
 
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 7.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 13.
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\omscmr.fd"
 File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <14.4> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 7.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 13.
  [13
 
-]) (C:\github\tdt4900\context/context.tex [14]
-Chapter 3.
-[15
+]
+Overfull \hbox (5.1458pt too wide) in paragraph at lines 30--31
+[]\OT1/cmr/m/n/14.4 This dis-course as-sumes that
+ []
 
-] [16]
+[14]
+Overfull \hbox (10.66504pt too wide) in paragraph at lines 68--69
+[]\OT1/cmr/m/n/14.4 Assimilation in dys-func-tional or-ga-ni-za-tional pro-cesses, mean-
+ []
+
+[15] <literature/img/failChart.jpg, id=1122, 577.15625pt x 341.275pt>
+File: literature/img/failChart.jpg Graphic file (type jpg)
+ <use literature/img/failChart.jpg>
+Package pdftex.def Info: literature/img/failChart.jpg used on input line 86.
+(pdftex.def)             Requested size: 390.0pt x 230.61626pt.
+ [16 <C:/github/tdt4900/literature/img/failChart.jpg>] [17]) (C:\github\tdt4900\context/context.tex [18]
+Chapter 3.
+[19
+
+] [20]
 Overfull \hbox (0.33015pt too wide) in paragraph at lines 35--40
 \OT1/cmr/m/n/14.4 soft-ware, open stan-dards and de-cen-tral-ized decision-making
  []
 
-[17] <context/img/networkOfAction.jpg, id=1139, 776.14969pt x 569.12625pt>
+[21] <context/img/networkOfAction.jpg, id=1173, 776.14969pt x 569.12625pt>
 File: context/img/networkOfAction.jpg Graphic file (type jpg)
  <use context/img/networkOfAction.jpg>
 Package pdftex.def Info: context/img/networkOfAction.jpg used on input line 54.
 (pdftex.def)             Requested size: 390.0pt x 285.97794pt.
 
-[18] [19 <C:/github/tdt4900/context/img/networkOfAction.jpg>]
-<context/img/dhis2Dash.png, id=1155, 635.37375pt x 301.125pt>
+[22] [23 <C:/github/tdt4900/context/img/networkOfAction.jpg>]
+<context/img/dhis2Dash.png, id=1190, 635.37375pt x 301.125pt>
 File: context/img/dhis2Dash.png Graphic file (type png)
  <use context/img/dhis2Dash.png>
 Package pdftex.def Info: context/img/dhis2Dash.png used on input line 69.
 (pdftex.def)             Requested size: 390.0pt x 184.83926pt.
- [20] [21 <C:/github/tdt4900/context/img/dhis2Dash.png>] [22] <context/img/dhis2DataEntry.png, id=1180, 635.37375pt x 30
+ [24] [25 <C:/github/tdt4900/context/img/dhis2Dash.png>] [26] <context/img/dhis2DataEntry.png, id=1214, 635.37375pt x 30
 0.12125pt>
 File: context/img/dhis2DataEntry.png Graphic file (type png)
 
 <use context/img/dhis2DataEntry.png>
 Package pdftex.def Info: context/img/dhis2DataEntry.png used on input line 104.
 (pdftex.def)             Requested size: 390.0pt x 184.22314pt.
- <context/img/dataStructure.jpg, id=1181, 816.04875pt x 568.37344pt>
+ <context/img/dataStructure.jpg, id=1215, 816.04875pt x 568.37344pt>
 File: context/img/dataStructure.jpg Graphic file (type jpg)
 
 <use context/img/dataStructure.jpg>
 Package pdftex.def Info: context/img/dataStructure.jpg used on input line 112.
 (pdftex.def)             Requested size: 390.0pt x 271.63667pt.
- [23 <C:/github/tdt4900/context/img/dhis2DataEntry.png (PNG copy)>] [24 <C:/github/tdt4900/context/img/dataStructure.jpg
->] <context/img/gisExample.png, id=1191, 642.4pt x 301.125pt>
+ [27 <C:/github/tdt4900/context/img/dhis2DataEntry.png (PNG copy)>] [28 <C:/github/tdt4900/context/img/dataStructure.jpg
+>] <context/img/gisExample.png, id=1226, 642.4pt x 301.125pt>
 File: context/img/gisExample.png Graphic file (type png)
 
 <use context/img/gisExample.png>
 Package pdftex.def Info: context/img/gisExample.png used on input line 123.
 (pdftex.def)             Requested size: 390.0pt x 182.81755pt.
- [25 <C:/github/tdt4900/context/img/gisExample.png (PNG copy)>]
+ [29 <C:/github/tdt4900/context/img/gisExample.png (PNG copy)>]
 Underfull \hbox (badness 1173) in paragraph at lines 137--137
 []\OT1/cmr/bx/n/12 Complete na-tional
  []
@@ -774,39 +789,39 @@ Underfull \hbox (badness 6658) in paragraph at lines 137--137
 \OT1/cmr/bx/n/12 grams or par-tial
  []
 
-<context/img/countriesUsing.png, id=1197, 1213.53375pt x 605.26125pt>
+<context/img/countriesUsing.png, id=1232, 1213.53375pt x 605.26125pt>
 File: context/img/countriesUsing.png Graphic file (type png)
  <use context/img/countriesUsing.png>
 Package pdftex.def Info: context/img/countriesUsing.png used on input line 171.
 (pdftex.def)             Requested size: 390.0pt x 194.51874pt.
 
-<context/img/africa.jpg, id=1200, 1120.185pt x 735.49782pt>
+<context/img/africa.jpg, id=1235, 1120.185pt x 735.49782pt>
 File: context/img/africa.jpg Graphic file (type jpg)
  <use context/img/africa.jpg>
 Package pdftex.def Info: context/img/africa.jpg used on input line 182.
 (pdftex.def)             Requested size: 390.0pt x 256.07013pt.
 
-<context/img/eastAfrica.jpg, id=1201, 1120.185pt x 661.72218pt>
+<context/img/eastAfrica.jpg, id=1236, 1120.185pt x 661.72218pt>
 File: context/img/eastAfrica.jpg Graphic file (type jpg)
  <use context/img/eastAfrica.jpg>
 Package pdftex.def Info: context/img/eastAfrica.jpg used on input line 189.
 (pdftex.def)             Requested size: 390.0pt x 230.38449pt.
 
-<context/img/rwanda.jpg, id=1202, 1120.185pt x 661.47125pt>
+<context/img/rwanda.jpg, id=1237, 1120.185pt x 661.47125pt>
 File: context/img/rwanda.jpg Graphic file (type jpg)
  <use context/img/rwanda.jpg>
 Package pdftex.def Info: context/img/rwanda.jpg used on input line 196.
 (pdftex.def)             Requested size: 390.0pt x 230.29712pt.
 
-<context/img/rwandaAdminStructure.jpg, id=1203, 773.89125pt x 578.91281pt>
+<context/img/rwandaAdminStructure.jpg, id=1238, 773.89125pt x 578.91281pt>
 File: context/img/rwandaAdminStructure.jpg Graphic file (type jpg)
  <use context/img/rwandaAdminStructure.jpg>
 Package pdftex.def Info: context/img/rwandaAdminStructure.jpg used on input line 206.
 (pdftex.def)             Requested size: 380.35547pt x 284.52756pt.
 
-[26 <C:/github/tdt4900/context/img/countriesUsing.png>] [27] [28 <C:/github/tdt4900/context/img/africa.jpg> <C:/github/t
-dt4900/context/img/eastAfrica.jpg>] [29 <C:/github/tdt4900/context/img/rwanda.jpg>] [30 <C:/github/tdt4900/context/img/r
-wandaAdminStructure.jpg>] [31]
+[30 <C:/github/tdt4900/context/img/countriesUsing.png>] [31] [32 <C:/github/tdt4900/context/img/africa.jpg> <C:/github/t
+dt4900/context/img/eastAfrica.jpg>] [33 <C:/github/tdt4900/context/img/rwanda.jpg>] [34 <C:/github/tdt4900/context/img/r
+wandaAdminStructure.jpg>] [35]
 Underfull \hbox (badness 10000) in paragraph at lines 259--260
 []\OT1/cmr/m/n/12 Follow up of preg-nant
  []
@@ -851,32 +866,32 @@ Underfull \hbox (badness 2698) in paragraph at lines 296--297
 []\OT1/cmr/m/n/12 Verify if the ma-ter-nal health
  []
 
-) (C:\github\tdt4900\method/method.tex [32] [33]
+) (C:\github\tdt4900\method/method.tex [36] [37]
 Chapter 4.
-[34
+[38
 
-]) (C:\github\tdt4900\case/case.tex [35]
+]) (C:\github\tdt4900\case/case.tex [39]
 Chapter 5.
-[36
+[40
 
 ]
 Overfull \hbox (0.30553pt too wide) in paragraph at lines 26--27
 \OT1/cmr/m/n/17.28 In or-der to make the case man-agable for a re-search project
  []
 
-[37] [38] [39] <case/img/chwSupplyChainFuture.png, id=1276, 646.8165pt x 418.509pt>
+[41] [42] [43] <case/img/chwSupplyChainFuture.png, id=1311, 646.8165pt x 418.509pt>
 File: case/img/chwSupplyChainFuture.png Graphic file (type png)
 
 <use case/img/chwSupplyChainFuture.png>
 Package pdftex.def Info: case/img/chwSupplyChainFuture.png used on input line 55.
 (pdftex.def)             Requested size: 390.0pt x 252.33981pt.
- [40 <C:/github/tdt4900/case/img/chwSupplyChainFuture.png (PNG copy)>] [41]
-[42] <case/img/lmisWorkPlan.pdf, id=1295, 591.20876pt x 597.23125pt>
+ [44 <C:/github/tdt4900/case/img/chwSupplyChainFuture.png (PNG copy)>] [45]
+[46] <case/img/lmisWorkPlan.pdf, id=1330, 591.20876pt x 597.23125pt>
 File: case/img/lmisWorkPlan.pdf Graphic file (type pdf)
  <use case/img/lmisWorkPlan.pdf>
 Package pdftex.def Info: case/img/lmisWorkPlan.pdf used on input line 182.
 (pdftex.def)             Requested size: 390.0pt x 393.98247pt.
- [43] [44 <C:/github/tdt4900/case/img/lmisWorkPlan.pdf>]
+ [47] [48 <C:/github/tdt4900/case/img/lmisWorkPlan.pdf>]
 Overfull \hbox (21.68994pt too wide) in paragraph at lines 192--193
 []\OT1/cmr/m/n/17.28 Develop al-go-rithm for es-ti-mat-ing re-sup-ply amounts. 
  []
@@ -886,32 +901,32 @@ Overfull \hbox (28.06177pt too wide) in paragraph at lines 203--204
 []\OT1/cmr/m/n/17.28 Translate SMS feed-back mes-sages into Kin-yarwanda. 
  []
 
-[45] <case/img/smsFlow.png, id=1323, 609.02531pt x 113.67468pt>
+[49] <case/img/smsFlow.png, id=1358, 609.02531pt x 113.67468pt>
 File: case/img/smsFlow.png Graphic file (type png)
  <use case/img/smsFlow.png>
 Package pdftex.def Info: case/img/smsFlow.png used on input line 233.
 (pdftex.def)             Requested size: 390.0pt x 72.79489pt.
 
-<case/img/testEnvironment.png, id=1324, 580.41844pt x 137.01187pt>
+<case/img/testEnvironment.png, id=1359, 580.41844pt x 137.01187pt>
 File: case/img/testEnvironment.png Graphic file (type png)
  <use case/img/testEnvironment.png>
 Package pdftex.def Info: case/img/testEnvironment.png used on input line 239.
 (pdftex.def)             Requested size: 390.0pt x 92.06297pt.
- [46] [47 <C:/github/tdt4900/case/img/smsFlow.png> <C:/github/tdt4900/case/img/testEnvironment.png>]
-<case/img/smsExample.png, id=1334, 225.84375pt x 369.38pt>
+ [50] [51 <C:/github/tdt4900/case/img/smsFlow.png> <C:/github/tdt4900/case/img/testEnvironment.png>]
+<case/img/smsExample.png, id=1368, 225.84375pt x 369.38pt>
 File: case/img/smsExample.png Graphic file (type png)
  <use case/img/smsExample.png>
 Package pdftex.def Info: case/img/smsExample.png used on input line 277.
 (pdftex.def)             Requested size: 86.98283pt x 142.26378pt.
- [48] [49 <C:/github/tdt4900/case/img/smsExample.png>] [50] <case/img/userImporterScreenShot.png, id=1350, 779.91376pt x
+ [52] [53 <C:/github/tdt4900/case/img/smsExample.png>] [54] <case/img/userImporterScreenShot.png, id=1385, 779.91376pt x
  558.085pt>
 File: case/img/userImporterScreenShot.png Graphic file (type png)
 
 <use case/img/userImporterScreenShot.png>
 Package pdftex.def Info: case/img/userImporterScreenShot.png used on input line 307.
 (pdftex.def)             Requested size: 390.0pt x 279.06737pt.
- [51 <C:/github/tdt4900/case/img/userImporterScreenShot.png (PNG copy)>]
-[52] [53]
+ [55 <C:/github/tdt4900/case/img/userImporterScreenShot.png (PNG copy)>]
+[56] [57]
 Overfull \hbox (7.54738pt too wide) in paragraph at lines 344--345
 []\OT1/cmr/m/n/17.28 Represents the av-er-age monthly con-sump-tion based
  []
@@ -921,25 +936,31 @@ Overfull \hbox (5.4579pt too wide) in paragraph at lines 361--362
 []\OT1/cmr/m/n/17.28 A more math-e-mat-i-cal de-scrip-tion in equa-tion []5.7[], where
  []
 
-[54] <case/img/essentialPredictoreScreenShot.png, id=1375, 812.03375pt x 343.2825pt>
+[58] <case/img/essentialPredictoreScreenShot.png, id=1410, 812.03375pt x 343.2825pt>
 File: case/img/essentialPredictoreScreenShot.png Graphic file (type png)
 
 <use case/img/essentialPredictoreScreenShot.png>
 Package pdftex.def Info: case/img/essentialPredictoreScreenShot.png used on input line 367.
 (pdftex.def)             Requested size: 390.0pt x 164.868pt.
-) (C:\github\tdt4900\discussion/discussion.tex [55 <C:/github/tdt4900/case/img/essentialPredictoreScreenShot.png (PNG co
-py)>] [56]
+) (C:\github\tdt4900\discussion/discussion.tex [59 <C:/github/tdt4900/case/img/essentialPredictoreScreenShot.png (PNG co
+py)>] [60]
 Chapter 6.
-[57
+[61
 
-] [58] [59] [60] [61]
+] [62] [63] [64] [65]
 Overfull \hbox (2.97035pt too wide) in paragraph at lines 72--81
 \OT1/cmr/m/n/17.28 innovations. The Rwan-dans per-spec-tive clearly have some
  []
 
-[62]) (C:\github\tdt4900\conclusions/conclusions.tex [63]
+
+Overfull \hbox (11.90863pt too wide) in paragraph at lines 72--81
+\OT1/cmr/m/n/17.28 sim-i-lar-i-ties with the third dis-course, \OT1/cmr/m/it/17.28 trans-for-ma-tive []ISDC\OT1/cmr/m/n/
+17.28 .
+ []
+
+[66]) (C:\github\tdt4900\conclusions/conclusions.tex [67]
 Chapter 7.
-) (C:\github\tdt4900\tdt4900.bbl [64
+) (C:\github\tdt4900\tdt4900.bbl [68
 
 ]
 Underfull \hbox (badness 1502) in paragraph at lines 15--18
@@ -971,7 +992,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 39--44
 \OT1/cmtt/m/n/17.28 research / networks / hisp / index . html$[]\OT1/cmr/m/n/17.28 , 2014.
  []
 
-[65
+[69
 
 ]
 Underfull \hbox (badness 2409) in paragraph at lines 46--49
@@ -1008,7 +1029,7 @@ Underfull \hbox (badness 3219) in paragraph at lines 88--91
 []\OT1/cmr/m/n/17.28 Ministry of lo-cal gov-ern-ment.  []$\OT1/cmtt/m/n/17.28 http : / / www .
  []
 
-[66]
+[70]
 Underfull \hbox (badness 10000) in paragraph at lines 97--100
 []\OT1/cmr/m/n/17.28 Folkemengden.  []$\OT1/cmtt/m/n/17.28 http : / / www . ssb . no /
  []
@@ -1038,23 +1059,23 @@ Underfull \hbox (badness 1189) in paragraph at lines 117--120
 \OT1/cmr/m/n/17.28 and ppp.  []$\OT1/cmtt/m/n/17.28 http : / / databank . worldbank . org /
  []
 
-) (C:\github\tdt4900\appendix/appendix.tex (C:\github\tdt4900\appendix/requirements/requirements.tex [67]
+) (C:\github\tdt4900\appendix/appendix.tex (C:\github\tdt4900\appendix/requirements/requirements.tex [71]
 Appendix A.
-[68
+[72
 
 ]
 Overfull \hbox (534.97359pt too wide) in paragraph at lines 24--56
 \OT1/cmr/m/n/17.28 http://localhost:8080/dhis2/sms/testSMS.action [] 
  []
 
-) (C:\github\tdt4900\appendix/rights/rights.tex [69]
+) (C:\github\tdt4900\appendix/rights/rights.tex [73]
 Overfull \vbox (23.29163pt too high) has occurred while \output is active []
 
- [70])
-(C:\github\tdt4900\appendix/interviews/interviews.tex [71]
+ [74])
+(C:\github\tdt4900\appendix/interviews/interviews.tex [75]
 Appendix B.
 (C:\github\tdt4900\appendix/interviews/diagnosis/diagnosis.tex)) (C:\github\tdt4900\appendix/journal/journal.tex
-[72
+[76
 
 ]
 Appendix C.
@@ -1063,80 +1084,81 @@ Overfull \hbox (6.9454pt too wide) in paragraph at lines 3--7
 \OT1/cmr/m/n/17.28 thought the de-vices con-fig-ured them-selves, so I just trusted
  []
 
-) (C:\github\tdt4900\appendix/journal/days/20140304_day_2.tex [73
+) (C:\github\tdt4900\appendix/journal/days/20140304_day_2.tex [77
 
 ]
 Overfull \hbox (281.95485pt too wide) in paragraph at lines 14--22
 [][] 
  []
 
-) (C:\github\tdt4900\appendix/journal/days/20140305_day_3.tex [74] [75]
+) (C:\github\tdt4900\appendix/journal/days/20140305_day_3.tex [78] [79]
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <17.28> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 25.
 )
-(C:\github\tdt4900\appendix/journal/days/20140306_day_4.tex [76])
+(C:\github\tdt4900\appendix/journal/days/20140306_day_4.tex [80])
 (C:\github\tdt4900\appendix/journal/days/20140307_day_5.tex) (C:\github\tdt4900\appendix/journal/days/20140308_day_6.tex
-[77]) (C:\github\tdt4900\appendix/journal/days/20140309_day_7.tex [78])
+[81]) (C:\github\tdt4900\appendix/journal/days/20140309_day_7.tex [82])
 (C:\github\tdt4900\appendix/journal/days/20140310_day_8.tex) (C:\github\tdt4900\appendix/journal/days/20140311_day_9.tex
-[79]) (C:\github\tdt4900\appendix/journal/days/20140312_day_10.tex)
+[83]) (C:\github\tdt4900\appendix/journal/days/20140312_day_10.tex)
 (C:\github\tdt4900\appendix/journal/days/20140313_day_11.tex)
-(C:\github\tdt4900\appendix/journal/days/20140314_day_12.tex [80])
-(C:\github\tdt4900\appendix/journal/days/20140315_day_13.tex [81])
+(C:\github\tdt4900\appendix/journal/days/20140314_day_12.tex [84])
+(C:\github\tdt4900\appendix/journal/days/20140315_day_13.tex [85])
 (C:\github\tdt4900\appendix/journal/days/20140316_day_14.tex)
-(C:\github\tdt4900\appendix/journal/days/20140317_day_15.tex [82] [83] [84])
-(C:\github\tdt4900\appendix/journal/days/20140318_day_16.tex [85])
-(C:\github\tdt4900\appendix/journal/days/20140319_day_17.tex [86] [87])
-(C:\github\tdt4900\appendix/journal/days/20140320_day_18.tex [88])
+(C:\github\tdt4900\appendix/journal/days/20140317_day_15.tex [86] [87] [88])
+(C:\github\tdt4900\appendix/journal/days/20140318_day_16.tex [89])
+(C:\github\tdt4900\appendix/journal/days/20140319_day_17.tex [90] [91])
+(C:\github\tdt4900\appendix/journal/days/20140320_day_18.tex [92])
 (C:\github\tdt4900\appendix/journal/days/20140321_day_19.tex)
 (C:\github\tdt4900\appendix/journal/days/20140322_day_20.tex)
-(C:\github\tdt4900\appendix/journal/days/20140323_day_21.tex [89])
+(C:\github\tdt4900\appendix/journal/days/20140323_day_21.tex [93])
 (C:\github\tdt4900\appendix/journal/days/20140324_day_22.tex)
-(C:\github\tdt4900\appendix/journal/days/20140325_day_23.tex [90])
-(C:\github\tdt4900\appendix/journal/days/20140326_day_24.tex [91])
-(C:\github\tdt4900\appendix/journal/days/20140327_day_25.tex [92])
-(C:\github\tdt4900\appendix/journal/days/20140328_day_26.tex [93])
-(C:\github\tdt4900\appendix/journal/days/20140329_day_27.tex [94])
-(C:\github\tdt4900\appendix/journal/days/20140330_day_28.tex [95])
-(C:\github\tdt4900\appendix/journal/days/20140331_day_29.tex [96]
+(C:\github\tdt4900\appendix/journal/days/20140325_day_23.tex [94])
+(C:\github\tdt4900\appendix/journal/days/20140326_day_24.tex [95])
+(C:\github\tdt4900\appendix/journal/days/20140327_day_25.tex [96])
+(C:\github\tdt4900\appendix/journal/days/20140328_day_26.tex [97])
+(C:\github\tdt4900\appendix/journal/days/20140329_day_27.tex [98])
+(C:\github\tdt4900\appendix/journal/days/20140330_day_28.tex [99])
+(C:\github\tdt4900\appendix/journal/days/20140331_day_29.tex [100]
 Overfull \hbox (0.36203pt too wide) in paragraph at lines 3--6
 \OT1/cmr/m/n/17.28 I am work-ing on get-ting a av-er-age con-sump-tion by month.
  []
 
-) (C:\github\tdt4900\appendix/journal/days/20140401_day_30.tex [97])
+) (C:\github\tdt4900\appendix/journal/days/20140401_day_30.tex [101])
 (C:\github\tdt4900\appendix/journal/days/20140402_day_31.tex)
 (C:\github\tdt4900\appendix/journal/days/20140403_day_32.tex)
-(C:\github\tdt4900\appendix/journal/days/20140404_day_33.tex [98]
+(C:\github\tdt4900\appendix/journal/days/20140404_day_33.tex [102]
 Overfull \hbox (2.0616pt too wide) in paragraph at lines 2--6
 \OT1/cmr/m/n/17.28 trans-la-tion of SMS mes-sages will be pos-si-ble 2.15. Worked
  []
 
 )))
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 41.
- [99]
+ [103]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 41.
  (C:\github\tdt4900\tdt4900.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 41.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 41.
 Package rerunfilecheck Info: File `tdt4900.out' has not changed.
-(rerunfilecheck)             Checksum: 0E195673FB94CF9776D904E4DED3C13A;12607.
+(rerunfilecheck)             Checksum: FBE23F59DA01FA18A8377B164FE94747;12735.
  ) 
 Here is how much of TeX's memory you used:
- 11623 strings out of 493921
- 174447 string characters out of 3144870
- 302801 words of memory out of 3000000
- 14148 multiletter control sequences out of 15000+200000
- 12896 words of font info for 46 fonts, out of 3000000 for 9000
+ 11641 strings out of 493921
+ 174737 string characters out of 3144870
+ 302895 words of memory out of 3000000
+ 14156 multiletter control sequences out of 15000+200000
+ 13255 words of font info for 47 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
  46i,12n,42p,1761b,512s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/
-type1/public/amsfonts/cm/cmex10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Pro
-gram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/publ
-ic/amsfonts/cm/cmr12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files (
-x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts
-/cm/cmti12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on tdt4900.pdf (102 pages, 2001357 bytes).
+type1/public/amsfonts/cm/cmbxti10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/P
+rogram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/p
+ublic/amsfonts/cm/cmr10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program File
+s (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfon
+ts/cm/cmsy10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Program Files (x86)/Mi
+KTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
+Output written on tdt4900.pdf (106 pages, 2035979 bytes).
 PDF statistics:
- 1745 PDF objects out of 2073 (max. 8388607)
- 387 named destinations out of 1000 (max. 500000)
- 1614 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1784 PDF objects out of 2073 (max. 8388607)
+ 394 named destinations out of 1000 (max. 500000)
+ 1635 words of extra memory for PDF output out of 10000 (max. 10000000)
 
