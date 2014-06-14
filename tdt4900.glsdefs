@@ -1138,6 +1138,36 @@ parent={},%
 %
 }%
 }%
+\ifglsentryexists{usa}{}%
+{%
+\gls@defglossaryentry{usa}%
+{%
+name={USA},%
+sort={USA},%
+type={main},%
+first={United States of America (USA)},%
+firstplural={United States of Americas(USAs)},%
+text={USA},%
+plural={USAs},%
+description={United States of America},%
+descriptionplural={United States of America\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={United States of America},%
+longplural={United States of Americas},%
+short={USA},%
+shortplural={USAs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
 \ifglsentryexists{(}{}%
 {%
 \gls@defglossaryentry{(}%
