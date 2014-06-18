@@ -658,6 +658,36 @@ parent={},%
 %
 }%
 }%
+\ifglsentryexists{ict4d}{}%
+{%
+\gls@defglossaryentry{ict4d}%
+{%
+name={ICT4D},%
+sort={ICT4D},%
+type={main},%
+first={Information and Communication Technology for Development (ICT4D)},%
+firstplural={Information and Communication Technology for Developments(ICT4Ds)},%
+text={ICT4D},%
+plural={ICT4Ds},%
+description={Information and Communication Technology for Development},%
+descriptionplural={Information and Communication Technology for Development\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Information and Communication Technology for Development},%
+longplural={Information and Communication Technology for Developments},%
+short={ICT4D},%
+shortplural={ICT4Ds},%
+counter={page},%
+parent={},%
+%
+}%
+}%
 \ifglsentryexists{is}{}%
 {%
 \gls@defglossaryentry{is}%
