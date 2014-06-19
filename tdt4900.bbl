@@ -1,5 +1,10 @@
 \begin{thebibliography}{10}
 
+\bibitem{ca:ieeg}
+Chrisanthi Avgerou.
+\newblock How can it enable economic growth in developing countries.
+\newblock {\em Information technology for development}, 1998.
+
 \bibitem{ca:isdc}
 Chrisanthi Avgerou.
 \newblock Information systems in developing countries: A critical research
@@ -21,11 +26,22 @@ E-health technologies show promise in developing countries.
 \newblock \url{http://content.healthaffairs.org/content/29/2/244.full}, 2010.
 \newblock Accessed: 10-06-2014.
 
+\bibitem{mh:rw}
+Michael Hammer.
+\newblock Reengineering work: Don't automate, obliterate.
+\newblock {\em Harvard Business Review}, 1990.
+
 \bibitem{rh:isdc}
 Richard Heeks.
 \newblock Information systems and developing countries: Failure, success, and
   local improvisations.
 \newblock {\em The information society}, 2002.
+
+\bibitem{icd4d:rh}
+Richard Heeks.
+\newblock Ict4d 2.0: The next phase of applying ict for international
+  development.
+\newblock {\em IEEE Computer Society}, 2008.
 
 \bibitem{rw:snl}
 Mikal Hem.
@@ -79,6 +95,12 @@ Sundeep~Sahay Jørn~Braa, Eric~Monteiro.
   developing countries.
 \newblock {\em MIS Quarterly}, 2004.
 
+\bibitem{mhealth:who}
+mhealth: New horizons for health through mobile technologies.
+\newblock \url{http://www.who.int/goe/publications/goe\_mhealth\_web.pdf},
+  2011.
+\newblock Accessed: 19-06-2014.
+
 \bibitem{bjo:risc}
 Briony~J. Oates.
 \newblock {\em Researching Information Systems and Computing}.
@@ -118,6 +140,14 @@ Brian~Nicholson Sundeep~Sahay and S.~Krishna.
 \newblock {\em Global IT Outsourcing}.
 \newblock The Press Syndicate Of The University Of Cambridge, 2003.
 
+\bibitem{ehealth:ashly}
+The impact of ehealth on the quality and safety of health care: A systematic
+  overview.
+\newblock
+  \url{http://www.plosmedicine.org/article/info\%3Adoi\%2F10.1371\%2Fjournal.pmed.1000387},
+  2011.
+\newblock Accessed: 19-06-2014.
+
 \bibitem{hutututsi:wiki}
 Hutuer og tutsier.
 \newblock \url{http://no.wikipedia.org/wiki/Hutuer\_og\_tutsier}, 2013.
@@ -127,6 +157,12 @@ Hutuer og tutsier.
 Rwanda.
 \newblock \url{http://en.wikipedia.org/wiki/Rwanda}, 2014.
 \newblock Accessed: 19-05-2014.
+
+\bibitem{ictcare:winther}
+Ross Winthereik and Signe Vikkelsø.
+\newblock Ict and integrated care: Some dilemmas of standardising
+  inter-organisational communication.
+\newblock {\em Computer Supported Cooperative Work}, 2005.
 
 \bibitem{gni:wb}
 Gross national income 2012, atlas method.

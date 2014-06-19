@@ -118,6 +118,36 @@ parent={},%
 %
 }%
 }%
+\ifglsentryexists{cdss}{}%
+{%
+\gls@defglossaryentry{cdss}%
+{%
+name={CDSS},%
+sort={CDSS},%
+type={main},%
+first={Computerised Decision Support Systems (CDSS)},%
+firstplural={Computerised Decision Support Systemss(CDSSs)},%
+text={CDSS},%
+plural={CDSSs},%
+description={Computerised Decision Support Systems},%
+descriptionplural={Computerised Decision Support Systems\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Computerised Decision Support Systems},%
+longplural={Computerised Decision Support Systemss},%
+short={CDSS},%
+shortplural={CDSSs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
 \ifglsentryexists{chw}{}%
 {%
 \gls@defglossaryentry{chw}%
@@ -155,12 +185,12 @@ parent={},%
 name={CHD},%
 sort={CHD},%
 type={main},%
-first={Community Help Desk (CHD)},%
-firstplural={Community Help Desks(CHDs)},%
+first={Community Health Desk (CHD)},%
+firstplural={Community Health Desks(CHDs)},%
 text={CHD},%
 plural={CHDs},%
-description={Community Help Desk},%
-descriptionplural={Community Help Desk\acrpluralsuffix },%
+description={Community Health Desk},%
+descriptionplural={Community Health Desk\acrpluralsuffix },%
 symbol={\relax },%
 symbolplural={\relax },%
 user1={},%
@@ -169,8 +199,8 @@ user3={},%
 user4={},%
 user5={},%
 user6={},%
-long={Community Help Desk},%
-longplural={Community Help Desks},%
+long={Community Health Desk},%
+longplural={Community Health Desks},%
 short={CHD},%
 shortplural={CHDs},%
 counter={page},%
@@ -182,15 +212,15 @@ parent={},%
 {%
 \gls@defglossaryentry{clmis}%
 {%
-name={Community Logistics Management Information System},%
-sort={Community Logistics Management Information System},%
+name={CLMIS},%
+sort={CLMIS},%
 type={main},%
-first={\protect \newacronym (Community Logistics Management Information System)},%
-firstplural={\protect \newacronym s(Community Logistics Management Information Systems)},%
-text={Community Logistics Management Information System},%
-plural={Community Logistics Management Information Systems},%
-description={\newacronym },%
-descriptionplural={\newacronym \acrpluralsuffix },%
+first={Community Logistics Management Information System (CLMIS)},%
+firstplural={Community Logistics Management Information Systems(CLMISs)},%
+text={CLMIS},%
+plural={CLMISs},%
+description={Community Logistics Management Information System},%
+descriptionplural={Community Logistics Management Information System\acrpluralsuffix },%
 symbol={\relax },%
 symbolplural={\relax },%
 user1={},%
@@ -199,10 +229,10 @@ user3={},%
 user4={},%
 user5={},%
 user6={},%
-long={\protect \newacronym },%
-longplural={\protect \newacronym s},%
-short={Community Logistics Management Information System},%
-shortplural={Community Logistics Management Information Systems},%
+long={Community Logistics Management Information System},%
+longplural={Community Logistics Management Information Systems},%
+short={CLMIS},%
+shortplural={CLMISs},%
 counter={page},%
 parent={},%
 %
@@ -233,6 +263,36 @@ long={Commission on Information and Accountability},%
 longplural={Commission on Information and Accountabilitys},%
 short={CoIA},%
 shortplural={CoIAs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{cpoe}{}%
+{%
+\gls@defglossaryentry{cpoe}%
+{%
+name={CPOE},%
+sort={CPOE},%
+type={main},%
+first={Computerized Provider Order Entry (CPOE)},%
+firstplural={Computerized Provider Order Entrys(CPOEs)},%
+text={CPOE},%
+plural={CPOEs},%
+description={Computerized Provider Order Entry},%
+descriptionplural={Computerized Provider Order Entry\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Computerized Provider Order Entry},%
+longplural={Computerized Provider Order Entrys},%
+short={CPOE},%
+shortplural={CPOEs},%
 counter={page},%
 parent={},%
 %
@@ -358,17 +418,47 @@ parent={},%
 %
 }%
 }%
+\ifglsentryexists{ehr}{}%
+{%
+\gls@defglossaryentry{ehr}%
+{%
+name={EHR},%
+sort={EHR},%
+type={main},%
+first={Electronic Health Records (EHR)},%
+firstplural={Electronic Health Recordss(EHRs)},%
+text={EHR},%
+plural={EHRs},%
+description={Electronic Health Records},%
+descriptionplural={Electronic Health Records\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Electronic Health Records},%
+longplural={Electronic Health Recordss},%
+short={EHR},%
+shortplural={EHRs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
 \ifglsentryexists{elmis}{}%
 {%
 \gls@defglossaryentry{elmis}%
 {%
-name={E-LMIS},%
-sort={E-LMIS},%
+name={ELMIS},%
+sort={ELMIS},%
 type={main},%
-first={Electronic Logistics Management Information System (E-LMIS)},%
-firstplural={Electronic Logistics Management Information Systems(E-LMISs)},%
-text={E-LMIS},%
-plural={E-LMISs},%
+first={Electronic Logistics Management Information System (ELMIS)},%
+firstplural={Electronic Logistics Management Information Systems(ELMISs)},%
+text={ELMIS},%
+plural={ELMISs},%
 description={Electronic Logistics Management Information System},%
 descriptionplural={Electronic Logistics Management Information System\acrpluralsuffix },%
 symbol={\relax },%
@@ -381,8 +471,8 @@ user5={},%
 user6={},%
 long={Electronic Logistics Management Information System},%
 longplural={Electronic Logistics Management Information Systems},%
-short={E-LMIS},%
-shortplural={E-LMISs},%
+short={ELMIS},%
+shortplural={ELMISs},%
 counter={page},%
 parent={},%
 %
@@ -485,12 +575,12 @@ parent={},%
 name={GUI},%
 sort={GUI},%
 type={main},%
-first={G (GUI)},%
-firstplural={Gs(GUIs)},%
+first={Graphical User Interface (GUI)},%
+firstplural={Graphical User Interfaces(GUIs)},%
 text={GUI},%
 plural={GUIs},%
-description={G},%
-descriptionplural={G\acrpluralsuffix },%
+description={Graphical User Interface},%
+descriptionplural={Graphical User Interface\acrpluralsuffix },%
 symbol={\relax },%
 symbolplural={\relax },%
 user1={},%
@@ -499,8 +589,8 @@ user3={},%
 user4={},%
 user5={},%
 user6={},%
-long={G},%
-longplural={Gs},%
+long={Graphical User Interface},%
+longplural={Graphical User Interfaces},%
 short={GUI},%
 shortplural={GUIs},%
 counter={page},%
@@ -545,12 +635,12 @@ parent={},%
 name={HISP},%
 sort={HISP},%
 type={main},%
-first={Health Information System Program (HISP)},%
-firstplural={Health Information System Programs(HISPs)},%
+first={Health Information System Programme (HISP)},%
+firstplural={Health Information System Programmes(HISPs)},%
 text={HISP},%
 plural={HISPs},%
-description={Health Information System Program},%
-descriptionplural={Health Information System Program\acrpluralsuffix },%
+description={Health Information System Programme},%
+descriptionplural={Health Information System Programme\acrpluralsuffix },%
 symbol={\relax },%
 symbolplural={\relax },%
 user1={},%
@@ -559,8 +649,8 @@ user3={},%
 user4={},%
 user5={},%
 user6={},%
-long={Health Information System Program},%
-longplural={Health Information System Programs},%
+long={Health Information System Programme},%
+longplural={Health Information System Programmes},%
 short={HISP},%
 shortplural={HISPs},%
 counter={page},%
@@ -575,12 +665,12 @@ parent={},%
 name={HMIS},%
 sort={HMIS},%
 type={main},%
-first={Health Management Information Systems (HMIS)},%
-firstplural={Health Management Information Systemss(HMISs)},%
+first={Health Management Information System (HMIS)},%
+firstplural={Health Management Information Systems(HMISs)},%
 text={HMIS},%
 plural={HMISs},%
-description={Health Management Information Systems},%
-descriptionplural={Health Management Information Systems\acrpluralsuffix },%
+description={Health Management Information System},%
+descriptionplural={Health Management Information System\acrpluralsuffix },%
 symbol={\relax },%
 symbolplural={\relax },%
 user1={},%
@@ -589,8 +679,8 @@ user3={},%
 user4={},%
 user5={},%
 user6={},%
-long={Health Management Information Systems},%
-longplural={Health Management Information Systemss},%
+long={Health Management Information System},%
+longplural={Health Management Information Systems},%
 short={HMIS},%
 shortplural={HMISs},%
 counter={page},%
@@ -958,6 +1048,36 @@ parent={},%
 %
 }%
 }%
+\ifglsentryexists{pacs}{}%
+{%
+\gls@defglossaryentry{pacs}%
+{%
+name={PACS},%
+sort={PACS},%
+type={main},%
+first={Picture Archiving and Communication Systems (PACS)},%
+firstplural={Picture Archiving and Communication Systemss(PACSs)},%
+text={PACS},%
+plural={PACSs},%
+description={Picture Archiving and Communication Systems},%
+descriptionplural={Picture Archiving and Communication Systems\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Picture Archiving and Communication Systems},%
+longplural={Picture Archiving and Communication Systemss},%
+short={PACS},%
+shortplural={PACSs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
 \ifglsentryexists{pepfar}{}%
 {%
 \gls@defglossaryentry{pepfar}%
@@ -1193,36 +1313,6 @@ long={United States of America},%
 longplural={United States of Americas},%
 short={USA},%
 shortplural={USAs},%
-counter={page},%
-parent={},%
-%
-}%
-}%
-\ifglsentryexists{(}{}%
-{%
-\gls@defglossaryentry{(}%
-{%
-name={C},%
-sort={C},%
-type={main},%
-first={o (C)},%
-firstplural={os(Cs)},%
-text={C},%
-plural={Cs},%
-description={o},%
-descriptionplural={o\acrpluralsuffix },%
-symbol={\relax },%
-symbolplural={\relax },%
-user1={},%
-user2={},%
-user3={},%
-user4={},%
-user5={},%
-user6={},%
-long={o},%
-longplural={os},%
-short={C},%
-shortplural={Cs},%
 counter={page},%
 parent={},%
 %
