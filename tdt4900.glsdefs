@@ -118,6 +118,36 @@ parent={},%
 %
 }%
 }%
+\ifglsentryexists{car}{}%
+{%
+\gls@defglossaryentry{car}%
+{%
+name={CAR},%
+sort={CAR},%
+type={main},%
+first={Canonical Action Research (CAR)},%
+firstplural={Canonical Action Researchs(CARs)},%
+text={CAR},%
+plural={CARs},%
+description={Canonical Action Research},%
+descriptionplural={Canonical Action Research\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Canonical Action Research},%
+longplural={Canonical Action Researchs},%
+short={CAR},%
+shortplural={CARs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
 \ifglsentryexists{cdss}{}%
 {%
 \gls@defglossaryentry{cdss}%
@@ -1108,6 +1138,36 @@ parent={},%
 %
 }%
 }%
+\ifglsentryexists{rca}{}%
+{%
+\gls@defglossaryentry{rca}%
+{%
+name={RCA},%
+sort={RCA},%
+type={main},%
+first={Researcher Client agreement (RCA)},%
+firstplural={Researcher Client agreements(RCAs)},%
+text={RCA},%
+plural={RCAs},%
+description={Researcher Client agreement},%
+descriptionplural={Researcher Client agreement\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Researcher Client agreement},%
+longplural={Researcher Client agreements},%
+short={RCA},%
+shortplural={RCAs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
 \ifglsentryexists{rpf}{}%
 {%
 \gls@defglossaryentry{rpf}%
@@ -1283,6 +1343,36 @@ long={University of Oslo},%
 longplural={University of Oslos},%
 short={UiO},%
 shortplural={UiOs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{uk}{}%
+{%
+\gls@defglossaryentry{uk}%
+{%
+name={UK},%
+sort={UK},%
+type={main},%
+first={United Kingdom (UK)},%
+firstplural={United Kingdoms(UKs)},%
+text={UK},%
+plural={UKs},%
+description={United Kingdom},%
+descriptionplural={United Kingdom\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={United Kingdom},%
+longplural={United Kingdoms},%
+short={UK},%
+shortplural={UKs},%
 counter={page},%
 parent={},%
 %
