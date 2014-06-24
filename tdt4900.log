@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.5.5)  20 JUN 2014 16:01
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.5.5)  24 JUN 2014 02:22
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -786,31 +786,31 @@ Overfull \hbox (15.03966pt too wide) in paragraph at lines 1--1
 []\OT1/cmr/bx/n/17.28 Information and Com-mu-ni-ca-tion Tech-nolo-
  []
 
-[24]
+[24] [25]
 Overfull \hbox (5.1458pt too wide) in paragraph at lines 26--27
 []\OT1/cmr/m/n/14.4 This dis-course as-sumes that
  []
 
-[25] [26]
+[26]
 Overfull \hbox (10.66504pt too wide) in paragraph at lines 70--71
 []\OT1/cmr/m/n/14.4 Assimilation in dys-func-tional or-ga-ni-za-tional pro-cess
 es, mean-
  []
 
-<literature/img/failChart.jpg, id=1304, 577.15625pt x 341.275pt>
+[27] <literature/img/failChart.jpg, id=1303, 577.15625pt x 341.275pt>
 File: literature/img/failChart.jpg Graphic file (type jpg)
 
 <use literature/img/failChart.jpg>
 Package pdftex.def Info: literature/img/failChart.jpg used on input line 88.
 (pdftex.def)             Requested size: 390.0pt x 230.61626pt.
- [27] [28 <./literature/img/failChart.jpg>]
-[29] [30] [31] [32]
+ [28 <./literature/img/failChart.jpg>]
+[29] [30] [31] [32] [33]
 Overfull \hbox (2.91518pt too wide) in paragraph at lines 226--231
 \OT1/cmr/m/n/14.4 pro-vide no ba-sis for es-ti-ma-tion of over-all fail-ure/suc
 cess
  []
 
-[33]
+
 Overfull \hbox (6.06859pt too wide) in paragraph at lines 238--241
 \OT1/cmr/m/n/14.4 What hap-pens when the AID funded projects stops be-ing funde
 d?
@@ -821,37 +821,37 @@ Overfull \hbox (9.29454pt too wide) in paragraph at lines 242--242
 []\OT1/cmr/bx/n/14.4 Assimilation In Dys-func-tional Or-ga-ni-za-tional Pro-
  []
 
-[34]) (./literature/part3/part3.tex
+[34] [35]) (./literature/part3/part3.tex
 Overfull \hbox (8.5838pt too wide) in paragraph at lines 2--2
 []\OT1/cmr/bx/n/17.28 Information sys-tems in the learn-ing econ-
  []
 
-[35] [36])) (./context/context.tex [37]
+[36]) [37]) (./context/context.tex [38]
 Chapter 3.
-[38
+[39
 
-] [39]
+] [40]
 Overfull \hbox (0.33015pt too wide) in paragraph at lines 35--40
 \OT1/cmr/m/n/14.4 soft-ware, open stan-dards and de-cen-tral-ized decision-maki
 ng
  []
 
-[40] <context/img/networkOfAction.jpg, id=1419, 776.14969pt x 569.12625pt>
+[41] <context/img/networkOfAction.jpg, id=1418, 776.14969pt x 569.12625pt>
 File: context/img/networkOfAction.jpg Graphic file (type jpg)
 
 <use context/img/networkOfAction.jpg>
 Package pdftex.def Info: context/img/networkOfAction.jpg used on input line 54.
 
 (pdftex.def)             Requested size: 390.0pt x 285.97794pt.
- [41] [42 <./context/img/networkOfAction.jpg>] <context/img/dhis2Dash.png, id=1
-435, 635.37375pt x 301.125pt>
+ [42] [43 <./context/img/networkOfAction.jpg>] <context/img/dhis2Dash.png, id=1
+434, 635.37375pt x 301.125pt>
 File: context/img/dhis2Dash.png Graphic file (type png)
 
 <use context/img/dhis2Dash.png>
 Package pdftex.def Info: context/img/dhis2Dash.png used on input line 69.
 (pdftex.def)             Requested size: 390.0pt x 184.83926pt.
- [43] [44 <./context/img/dhis2Dash.png>]
-[45] <context/img/dhis2DataEntry.png, id=1457, 635.37375pt x 300.12125pt>
+ [44] [45 <./context/img/dhis2Dash.png>]
+[46] <context/img/dhis2DataEntry.png, id=1457, 635.37375pt x 300.12125pt>
 File: context/img/dhis2DataEntry.png Graphic file (type png)
 
 <use context/img/dhis2DataEntry.png>
@@ -865,15 +865,15 @@ File: context/img/dataStructure.jpg Graphic file (type jpg)
 <use context/img/dataStructure.jpg>
 Package pdftex.def Info: context/img/dataStructure.jpg used on input line 112.
 (pdftex.def)             Requested size: 390.0pt x 271.63667pt.
- [46 <./context/img/dhis2DataEntry.png (PNG copy)>] [47 <./context/img/dataStru
+ [47 <./context/img/dhis2DataEntry.png (PNG copy)>] [48 <./context/img/dataStru
 cture.jpg>]
-<context/img/gisExample.png, id=1469, 642.4pt x 301.125pt>
+<context/img/gisExample.png, id=1468, 642.4pt x 301.125pt>
 File: context/img/gisExample.png Graphic file (type png)
 
 <use context/img/gisExample.png>
 Package pdftex.def Info: context/img/gisExample.png used on input line 123.
 (pdftex.def)             Requested size: 390.0pt x 182.81755pt.
- [48 <./context/img/gisExample.png (PNG copy)>]
+ [49 <./context/img/gisExample.png (PNG copy)>]
 Underfull \hbox (badness 1173) in paragraph at lines 137--137
 []\OT1/cmr/bx/n/12 Complete na-tional
  []
@@ -888,7 +888,7 @@ Underfull \hbox (badness 6658) in paragraph at lines 137--137
 \OT1/cmr/bx/n/12 grams or par-tial
  []
 
-<context/img/countriesUsing.png, id=1475, 1213.53375pt x 605.26125pt>
+<context/img/countriesUsing.png, id=1474, 1213.53375pt x 605.26125pt>
 File: context/img/countriesUsing.png Graphic file (type png)
 
 <use context/img/countriesUsing.png>
@@ -896,38 +896,38 @@ Package pdftex.def Info: context/img/countriesUsing.png used on input line 171.
 
 (pdftex.def)             Requested size: 390.0pt x 194.51874pt.
 
-<context/img/africa.jpg, id=1478, 1120.185pt x 735.49782pt>
+<context/img/africa.jpg, id=1477, 1120.185pt x 735.49782pt>
 File: context/img/africa.jpg Graphic file (type jpg)
 
 <use context/img/africa.jpg>
 Package pdftex.def Info: context/img/africa.jpg used on input line 182.
 (pdftex.def)             Requested size: 390.0pt x 256.07013pt.
 
-<context/img/eastAfrica.jpg, id=1479, 1120.185pt x 661.72218pt>
+<context/img/eastAfrica.jpg, id=1478, 1120.185pt x 661.72218pt>
 File: context/img/eastAfrica.jpg Graphic file (type jpg)
 
 <use context/img/eastAfrica.jpg>
 Package pdftex.def Info: context/img/eastAfrica.jpg used on input line 189.
 (pdftex.def)             Requested size: 390.0pt x 230.38449pt.
 
-<context/img/rwanda.jpg, id=1480, 1120.185pt x 661.47125pt>
+<context/img/rwanda.jpg, id=1479, 1120.185pt x 661.47125pt>
 File: context/img/rwanda.jpg Graphic file (type jpg)
 
 <use context/img/rwanda.jpg>
 Package pdftex.def Info: context/img/rwanda.jpg used on input line 196.
 (pdftex.def)             Requested size: 390.0pt x 230.29712pt.
 
-<context/img/rwandaAdminStructure.jpg, id=1481, 773.89125pt x 578.91281pt>
+<context/img/rwandaAdminStructure.jpg, id=1480, 773.89125pt x 578.91281pt>
 File: context/img/rwandaAdminStructure.jpg Graphic file (type jpg)
 
 <use context/img/rwandaAdminStructure.jpg>
 Package pdftex.def Info: context/img/rwandaAdminStructure.jpg used on input lin
 e 206.
 (pdftex.def)             Requested size: 380.35547pt x 284.52756pt.
- [49 <./context/img/countriesUsing.png>] [50] [51 <./context/img/africa.jpg> <.
+ [50 <./context/img/countriesUsing.png>] [51] [52 <./context/img/africa.jpg> <.
 /context/img/eastAfrica.jpg>]
-[52 <./context/img/rwanda.jpg>] [53 <./context/img/rwandaAdminStructure.jpg>]
-[54]
+[53 <./context/img/rwanda.jpg>] [54 <./context/img/rwandaAdminStructure.jpg>]
+[55]
 Underfull \hbox (badness 10000) in paragraph at lines 259--260
 []\OT1/cmr/m/n/12 Follow up of preg-nant
  []
@@ -967,13 +967,13 @@ Underfull \hbox (badness 2698) in paragraph at lines 296--297
 []\OT1/cmr/m/n/12 Verify if the ma-ter-nal health
  []
 
-) (./method/method.tex [55] [56]
+) (./method/method.tex [56] [57]
 Chapter 4.
-[57
+[58
 
-]) (./case/case.tex [58]
+]) (./case/case.tex [59]
 Chapter 5.
-[59
+[60
 
 ]
 Overfull \hbox (14.35403pt too wide) in paragraph at lines 12--16
@@ -982,109 +982,110 @@ n/17.28 ^^Y \OT1/cmr/m/n/17.28 45000$[]CHW's
  []
 
 
-Overfull \hbox (0.30553pt too wide) in paragraph at lines 26--27
+Overfull \hbox (0.30553pt too wide) in paragraph at lines 20--21
 \OT1/cmr/m/n/17.28 In or-der to make the case man-agable for a re-search projec
 t
  []
 
-[60] [61] <case/img/chwSupplyChainFuture.png, id=1550, 646.8165pt x 418.509pt>
+[61] [62] <case/img/chwSupplyChainFuture.png, id=1549, 646.8165pt x 418.509pt>
 File: case/img/chwSupplyChainFuture.png Graphic file (type png)
 
 <use case/img/chwSupplyChainFuture.png>
-Package pdftex.def Info: case/img/chwSupplyChainFuture.png used on input line 5
-5.
+Package pdftex.def Info: case/img/chwSupplyChainFuture.png used on input line 4
+9.
 (pdftex.def)             Requested size: 390.0pt x 252.33981pt.
- [62] [63 <./case/img/chwSupplyChainFuture.png (PNG copy)>] [64] [65]
-<case/img/lmisWorkPlan.pdf, id=1573, 591.20876pt x 597.23125pt>
+ [63] [64 <./case/img/chwSupplyChainFuture.png (PNG copy)>] [65] [66]
+<case/img/lmisWorkPlan.pdf, id=1572, 591.20876pt x 597.23125pt>
 File: case/img/lmisWorkPlan.pdf Graphic file (type pdf)
 
 <use case/img/lmisWorkPlan.pdf>
-Package pdftex.def Info: case/img/lmisWorkPlan.pdf used on input line 182.
+Package pdftex.def Info: case/img/lmisWorkPlan.pdf used on input line 176.
 (pdftex.def)             Requested size: 390.0pt x 393.98247pt.
 
-Overfull \hbox (21.68994pt too wide) in paragraph at lines 192--193
+Overfull \hbox (21.68994pt too wide) in paragraph at lines 186--187
 []\OT1/cmr/m/n/17.28 Develop al-go-rithm for es-ti-mat-ing re-sup-ply amounts. 
 
  []
 
-[66] [67 <./case/img/lmisWorkPlan.pdf>]
-Overfull \hbox (28.06177pt too wide) in paragraph at lines 203--204
+[67] [68 <./case/img/lmisWorkPlan.pdf>]
+Overfull \hbox (28.06177pt too wide) in paragraph at lines 197--198
 []\OT1/cmr/m/n/17.28 Translate SMS feed-back mes-sages into Kin-yarwanda. 
  []
 
-[68] <case/img/smsFlow.png, id=1601, 609.02531pt x 113.67468pt>
+[69] <case/img/smsFlow.png, id=1600, 609.02531pt x 113.67468pt>
 File: case/img/smsFlow.png Graphic file (type png)
 
 <use case/img/smsFlow.png>
-Package pdftex.def Info: case/img/smsFlow.png used on input line 233.
+Package pdftex.def Info: case/img/smsFlow.png used on input line 227.
 (pdftex.def)             Requested size: 390.0pt x 72.79489pt.
 
-<case/img/testEnvironment.png, id=1602, 580.41844pt x 137.01187pt>
+<case/img/testEnvironment.png, id=1601, 580.41844pt x 137.01187pt>
 File: case/img/testEnvironment.png Graphic file (type png)
 
 <use case/img/testEnvironment.png>
-Package pdftex.def Info: case/img/testEnvironment.png used on input line 239.
+Package pdftex.def Info: case/img/testEnvironment.png used on input line 233.
 (pdftex.def)             Requested size: 390.0pt x 92.06297pt.
- [69 <./case/img/smsFlow.png>] [70 <./case/img/testEnvironment.png>]
-<case/img/smsExample.png, id=1613, 225.84375pt x 369.38pt>
+ [70 <./case/img/smsFlow.png>]
+<case/img/smsExample.png, id=1607, 225.84375pt x 369.38pt>
 File: case/img/smsExample.png Graphic file (type png)
 
 <use case/img/smsExample.png>
-Package pdftex.def Info: case/img/smsExample.png used on input line 277.
+Package pdftex.def Info: case/img/smsExample.png used on input line 271.
 (pdftex.def)             Requested size: 86.98283pt x 142.26378pt.
- [71 <./case/img/smsExample.png>] [72] [73]
-<case/img/userImporterScreenShot.png, id=1629, 779.91376pt x 558.085pt>
+ [71 <./case/img/testEnvironment.png>] [72 <./case/img/smsExample.png>] [73] [7
+4]
+<case/img/userImporterScreenShot.png, id=1628, 779.91376pt x 558.085pt>
 File: case/img/userImporterScreenShot.png Graphic file (type png)
 
 <use case/img/userImporterScreenShot.png>
 Package pdftex.def Info: case/img/userImporterScreenShot.png used on input line
- 307.
+ 301.
 (pdftex.def)             Requested size: 390.0pt x 279.06737pt.
- [74 <./case/img/userImporterScreenShot.png (PNG copy)>] [75]
-Overfull \hbox (7.54738pt too wide) in paragraph at lines 344--345
+ [75 <./case/img/userImporterScreenShot.png (PNG copy)>] [76]
+Overfull \hbox (7.54738pt too wide) in paragraph at lines 338--339
 []\OT1/cmr/m/n/17.28 Represents the av-er-age monthly con-sump-tion based
  []
 
-[76]
-Overfull \hbox (5.4579pt too wide) in paragraph at lines 361--362
+[77]
+Overfull \hbox (5.4579pt too wide) in paragraph at lines 355--356
 []\OT1/cmr/m/n/17.28 A more math-e-mat-i-cal de-scrip-tion in equa-tion []5.7[]
 , where
  []
 
 
-<case/img/essentialPredictoreScreenShot.png, id=1648, 812.03375pt x 343.2825pt>
+<case/img/essentialPredictoreScreenShot.png, id=1647, 812.03375pt x 343.2825pt>
 File: case/img/essentialPredictoreScreenShot.png Graphic file (type png)
 <use case/img/essentialPredictoreScreenShot.png>
 Package pdftex.def Info: case/img/essentialPredictoreScreenShot.png used on inp
-ut line 367.
+ut line 361.
 (pdftex.def)             Requested size: 390.0pt x 164.868pt.
- [77])
-(./discussion/discussion.tex [78 <./case/img/essentialPredictoreScreenShot.png 
-(PNG copy)>] [79]
+ [78])
+(./discussion/discussion.tex [79 <./case/img/essentialPredictoreScreenShot.png 
+(PNG copy)>] [80]
 Chapter 6.
-[80
+[81
 
-] [81] [82] [83] [84]
-Overfull \hbox (2.97035pt too wide) in paragraph at lines 72--81
+] [82] [83] [84] [85]
+Overfull \hbox (2.97035pt too wide) in paragraph at lines 101--110
 \OT1/cmr/m/n/17.28 innovations. The Rwan-dans per-spec-tive clearly have some
  []
 
 
-Overfull \hbox (11.90863pt too wide) in paragraph at lines 72--81
+Overfull \hbox (11.90863pt too wide) in paragraph at lines 101--110
 \OT1/cmr/m/n/17.28 sim-i-lar-i-ties with the third dis-course, \OT1/cmr/m/it/17
 .28 trans-for-ma-tive []ISDC\OT1/cmr/m/n/17.28 .
  []
 
-[85]) (./conclusions/conclusions.tex [86]
+[86]) (./conclusions/conclusions.tex [87]
 Chapter 7.
-) (./tdt4900.bbl [87
+) (./tdt4900.bbl [88
 
 ]
 Underfull \hbox (badness 1502) in paragraph at lines 25--28
 []\OT1/cmr/m/n/17.28 E-health tech-nolo-gies show promise in de-vel-op-
  []
 
-[88
+[89
 
 ]
 Underfull \hbox (badness 2753) in paragraph at lines 53--58
@@ -1150,7 +1151,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 83--86
  , 2012.
  []
 
-[89]
+[90]
 Underfull \hbox (badness 2503) in paragraph at lines 99--103
 \OT1/cmr/m/n/17.28 bile tech-nolo-gies.  []$\OT1/cmtt/m/n/17.28 http : / / www 
 . who . int / goe /
@@ -1162,7 +1163,7 @@ Underfull \hbox (badness 3219) in paragraph at lines 125--128
 ttp : / / www .
  []
 
-[90]
+[91]
 Underfull \hbox (badness 10000) in paragraph at lines 134--137
 []\OT1/cmr/m/n/17.28 Folkemengden.  []$\OT1/cmtt/m/n/17.28 http : / / www . ssb
  . no /
@@ -1197,7 +1198,7 @@ Underfull \hbox (badness 1067) in paragraph at lines 162--166
 uter Sup-
  []
 
-[91]
+[92]
 Underfull \hbox (badness 10000) in paragraph at lines 168--171
 []\OT1/cmr/m/n/17.28 Gross na-tional in-come 2012, at-las method.
  []
@@ -1213,23 +1214,23 @@ Underfull \hbox (badness 1189) in paragraph at lines 173--176
 bank . org /
  []
 
-) (./appendix/appendix.tex (./appendix/requirements/requirements.tex [92]
+) (./appendix/appendix.tex (./appendix/requirements/requirements.tex [93]
 Appendix A.
-[93
+[94
 
 ]
 Overfull \hbox (534.97359pt too wide) in paragraph at lines 24--56
 \OT1/cmr/m/n/17.28 http://localhost:8080/dhis2/sms/testSMS.action [] 
  []
 
-) (./appendix/rights/rights.tex [94]
+) (./appendix/rights/rights.tex [95]
 Overfull \vbox (23.29163pt too high) has occurred while \output is active []
 
 
-[95]) (./appendix/interviews/interviews.tex [96]
+[96]) (./appendix/interviews/interviews.tex [97]
 Appendix B.
 (./appendix/interviews/diagnosis/diagnosis.tex))
-(./appendix/journal/journal.tex [97
+(./appendix/journal/journal.tex [98
 
 ]
 Appendix C.
@@ -1239,52 +1240,52 @@ Overfull \hbox (6.9454pt too wide) in paragraph at lines 3--7
 sted
  []
 
-) (./appendix/journal/days/20140304_day_2.tex [98
+) (./appendix/journal/days/20140304_day_2.tex [99
 
 ]
 Overfull \hbox (281.95485pt too wide) in paragraph at lines 14--22
 [][] 
  []
 
-) (./appendix/journal/days/20140305_day_3.tex [99] [100]
+) (./appendix/journal/days/20140305_day_3.tex [100] [101]
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <17.28> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 25.
 )
-(./appendix/journal/days/20140306_day_4.tex [101])
+(./appendix/journal/days/20140306_day_4.tex [102])
 (./appendix/journal/days/20140307_day_5.tex)
-(./appendix/journal/days/20140308_day_6.tex [102])
-(./appendix/journal/days/20140309_day_7.tex [103])
+(./appendix/journal/days/20140308_day_6.tex [103])
+(./appendix/journal/days/20140309_day_7.tex [104])
 (./appendix/journal/days/20140310_day_8.tex)
-(./appendix/journal/days/20140311_day_9.tex [104])
+(./appendix/journal/days/20140311_day_9.tex [105])
 (./appendix/journal/days/20140312_day_10.tex)
 (./appendix/journal/days/20140313_day_11.tex)
-(./appendix/journal/days/20140314_day_12.tex [105])
-(./appendix/journal/days/20140315_day_13.tex [106])
+(./appendix/journal/days/20140314_day_12.tex [106])
+(./appendix/journal/days/20140315_day_13.tex [107])
 (./appendix/journal/days/20140316_day_14.tex)
-(./appendix/journal/days/20140317_day_15.tex [107] [108] [109])
-(./appendix/journal/days/20140318_day_16.tex [110])
-(./appendix/journal/days/20140319_day_17.tex [111] [112])
-(./appendix/journal/days/20140320_day_18.tex [113])
+(./appendix/journal/days/20140317_day_15.tex [108] [109] [110])
+(./appendix/journal/days/20140318_day_16.tex [111])
+(./appendix/journal/days/20140319_day_17.tex [112] [113])
+(./appendix/journal/days/20140320_day_18.tex [114])
 (./appendix/journal/days/20140321_day_19.tex)
 (./appendix/journal/days/20140322_day_20.tex)
-(./appendix/journal/days/20140323_day_21.tex [114])
+(./appendix/journal/days/20140323_day_21.tex [115])
 (./appendix/journal/days/20140324_day_22.tex)
-(./appendix/journal/days/20140325_day_23.tex [115])
-(./appendix/journal/days/20140326_day_24.tex [116])
-(./appendix/journal/days/20140327_day_25.tex [117])
-(./appendix/journal/days/20140328_day_26.tex [118])
-(./appendix/journal/days/20140329_day_27.tex [119])
-(./appendix/journal/days/20140330_day_28.tex [120])
-(./appendix/journal/days/20140331_day_29.tex [121]
+(./appendix/journal/days/20140325_day_23.tex [116])
+(./appendix/journal/days/20140326_day_24.tex [117])
+(./appendix/journal/days/20140327_day_25.tex [118])
+(./appendix/journal/days/20140328_day_26.tex [119])
+(./appendix/journal/days/20140329_day_27.tex [120])
+(./appendix/journal/days/20140330_day_28.tex [121])
+(./appendix/journal/days/20140331_day_29.tex [122]
 Overfull \hbox (0.36203pt too wide) in paragraph at lines 3--6
 \OT1/cmr/m/n/17.28 I am work-ing on get-ting a av-er-age con-sump-tion by month
 .
  []
 
-) (./appendix/journal/days/20140401_day_30.tex [122])
+) (./appendix/journal/days/20140401_day_30.tex [123])
 (./appendix/journal/days/20140402_day_31.tex)
 (./appendix/journal/days/20140403_day_32.tex)
-(./appendix/journal/days/20140404_day_33.tex [123]
+(./appendix/journal/days/20140404_day_33.tex [124]
 Overfull \hbox (2.0616pt too wide) in paragraph at lines 2--6
 \OT1/cmr/m/n/17.28 trans-la-tion of SMS mes-sages will be pos-si-ble 2.15. Work
 ed
@@ -1292,20 +1293,24 @@ ed
 
 )))
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 41.
- [124]
+ [125]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 41.
  (./tdt4900.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 41.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 41.
 Package rerunfilecheck Info: File `tdt4900.out' has not changed.
-(rerunfilecheck)             Checksum: E813D8E57AAD672742AEC4DCF5A57609;14332.
+(rerunfilecheck)             Checksum: 08EE8C95ACD98C30067C1B7E5A3EDD7E;14231.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
  ) 
 Here is how much of TeX's memory you used:
- 11894 strings out of 493304
- 174931 string characters out of 6139872
+ 11899 strings out of 493304
+ 174962 string characters out of 6139872
  307925 words of memory out of 5000000
- 14516 multiletter control sequences out of 15000+600000
- 13550 words of font info for 48 fonts, out of 8000000 for 9000
+ 14518 multiletter control sequences out of 15000+600000
+ 14171 words of font info for 50 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
  46i,12n,35p,1713b,507s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></us
@@ -1319,10 +1324,10 @@ ts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/type
 ic/amsfonts/cm/cmti12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/ams
 fonts/cm/cmtt12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/
 cm/cmu10.pfb>
-Output written on tdt4900.pdf (127 pages, 1925767 bytes).
+Output written on tdt4900.pdf (128 pages, 1925695 bytes).
 PDF statistics:
  2066 PDF objects out of 2073 (max. 8388607)
- 1882 compressed objects within 19 object streams
- 449 named destinations out of 1000 (max. 500000)
- 1819 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1881 compressed objects within 19 object streams
+ 450 named destinations out of 1000 (max. 500000)
+ 1811 words of extra memory for PDF output out of 10000 (max. 10000000)
 
