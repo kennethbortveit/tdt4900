@@ -58,6 +58,36 @@ parent={},%
 %
 }%
 }%
+\ifglsentryexists{ar}{}%
+{%
+\gls@defglossaryentry{ar}%
+{%
+name={AR},%
+sort={AR},%
+type={main},%
+first={Action Research (AR)},%
+firstplural={Action Researchs(ARs)},%
+text={AR},%
+plural={ARs},%
+description={Action Research},%
+descriptionplural={Action Research\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Action Research},%
+longplural={Action Researchs},%
+short={AR},%
+shortplural={ARs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
 \ifglsentryexists{bc}{}%
 {%
 \gls@defglossaryentry{bc}%
@@ -293,6 +323,36 @@ long={Commission on Information and Accountability},%
 longplural={Commission on Information and Accountabilitys},%
 short={CoIA},%
 shortplural={CoIAs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{cpm}{}%
+{%
+\gls@defglossaryentry{cpm}%
+{%
+name={CPM},%
+sort={CPM},%
+type={main},%
+first={Cyclical Process Model (CPM)},%
+firstplural={Cyclical Process Models(CPMs)},%
+text={CPM},%
+plural={CPMs},%
+description={Cyclical Process Model},%
+descriptionplural={Cyclical Process Model\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Cyclical Process Model},%
+longplural={Cyclical Process Models},%
+short={CPM},%
+shortplural={CPMs},%
 counter={page},%
 parent={},%
 %
