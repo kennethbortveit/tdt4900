@@ -26,6 +26,19 @@ E-health technologies show promise in developing countries.
 \newblock \url{http://content.healthaffairs.org/content/29/2/244.full}, 2010.
 \newblock Accessed: 10-06-2014.
 
+\bibitem{mobile:think}
+Global mobile statistics 2014 part a: Mobile subscribers; handset market share;
+  mobile operators.
+\newblock
+  \url{http://mobithinking.com/mobile-marketing-tools/latest-mobile-stats/a\#subscribers},
+  2014.
+\newblock Accessed: 25-06-2014.
+
+\bibitem{groupware:grudin}
+Jonathan Grudin and Andrew Clement.
+\newblock Groupware and social dynamics: Eight challenges for developers.
+\newblock {\em Communications of the ACM}, 1994.
+
 \bibitem{mh:rw}
 Michael Hammer.
 \newblock Reengineering work: Don't automate, obliterate.
@@ -76,7 +89,10 @@ Network of action.
 \newblock Accessed: 20-05-2014.
 
 \bibitem{strategyhisp:uio}
-Hisp uio strategy, 2014.
+Hisp uio strategy.
+\newblock
+  \url{http://www.mn.uio.no/ifi/english/research/networks/hisp/hisp-uio-strategy-13.03.2014-2014-2016.pdf},
+  2014.
 \newblock Accessed: 20-05-2014.
 
 \bibitem{internet:stats}
@@ -139,6 +155,11 @@ Folkemengden.
 Brian~Nicholson Sundeep~Sahay and S.~Krishna.
 \newblock {\em Global IT Outsourcing}.
 \newblock The Press Syndicate Of The University Of Cambridge, 2003.
+
+\bibitem{assess:susman}
+Gerald~I. Susman and Roger~D. Evered.
+\newblock An assessment of the scientific merits of action research.
+\newblock {\em Administrative Science Quarterly}, 1978.
 
 \bibitem{ehealth:ashly}
 The impact of ehealth on the quality and safety of health care: A systematic

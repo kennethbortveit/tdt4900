@@ -1,2 +1,93 @@
-\contentsline {chapter}{\numberline {1}Introduction}{7}{chapter.1}
-\contentsline {chapter}{\numberline {2}Conclusions}{9}{chapter.2}
+\contentsline {chapter}{\numberline {1}Introduction}{9}{chapter.1}
+\contentsline {chapter}{\numberline {2}Literature Review}{11}{chapter.2}
+\contentsline {section}{\numberline {2.1}E-Health}{11}{section.2.1}
+\contentsline {subsection}{\numberline {2.1.1}M-Health}{12}{subsection.2.1.1}
+\contentsline {subsection}{\numberline {2.1.2}Electronic Health Records}{13}{subsection.2.1.2}
+\contentsline {subsection}{\numberline {2.1.3}Picture Archiving and Communication Systems}{14}{subsection.2.1.3}
+\contentsline {subsection}{\numberline {2.1.4}Computerized Provider Order Entry}{14}{subsection.2.1.4}
+\contentsline {subsection}{\numberline {2.1.5}e-prescribing}{14}{subsection.2.1.5}
+\contentsline {subsection}{\numberline {2.1.6}Computerized decision support systems}{14}{subsection.2.1.6}
+\contentsline {section}{\numberline {2.2}Transition Strategy}{15}{section.2.2}
+\contentsline {subsection}{\numberline {2.2.1}Migration}{16}{subsection.2.2.1}
+\contentsline {subsubsection}{The Cut-Over}{16}{section*.6}
+\contentsline {section}{\numberline {2.3}Groupware}{16}{section.2.3}
+\contentsline {section}{\numberline {2.4}Information and Communication Technologies in Developing Countries}{17}{section.2.4}
+\contentsline {subsection}{\numberline {2.4.1}Success and Failure of ISDC}{19}{subsection.2.4.1}
+\contentsline {subsection}{\numberline {2.4.2}Pitfalls in introducing IS in Developing Countries}{20}{subsection.2.4.2}
+\contentsline {subsubsection}{Scalability}{21}{section*.7}
+\contentsline {subsubsection}{Sustainability}{21}{section*.8}
+\contentsline {subsection}{\numberline {2.4.3}Discourses}{21}{subsection.2.4.3}
+\contentsline {subsection}{\numberline {2.4.4}Networks of Action}{22}{subsection.2.4.4}
+\contentsline {section}{\numberline {2.5}Information systems in the learning economy}{23}{section.2.5}
+\contentsline {subsection}{\numberline {2.5.1}IT and Economic Growth}{24}{subsection.2.5.1}
+\contentsline {section}{\numberline {2.6}Outsourcing}{24}{section.2.6}
+\contentsline {chapter}{\numberline {3}Case Context}{27}{chapter.3}
+\contentsline {section}{\numberline {3.1}Brief History}{28}{section.3.1}
+\contentsline {section}{\numberline {3.2}More Recent}{28}{section.3.2}
+\contentsline {section}{\numberline {3.3}Health Information System Programme}{29}{section.3.3}
+\contentsline {subsection}{\numberline {3.3.1}HISP Strategy}{29}{subsection.3.3.1}
+\contentsline {section}{\numberline {3.4}District Health Information System}{31}{section.3.4}
+\contentsline {subsection}{\numberline {3.4.1}Gathering}{32}{subsection.3.4.1}
+\contentsline {subsection}{\numberline {3.4.2}Managing}{35}{subsection.3.4.2}
+\contentsline {subsection}{\numberline {3.4.3}Presenting}{35}{subsection.3.4.3}
+\contentsline {subsection}{\numberline {3.4.4}Application Development}{36}{subsection.3.4.4}
+\contentsline {section}{\numberline {3.5}Administrative Structure}{36}{section.3.5}
+\contentsline {section}{\numberline {3.6}Health Management Information System in Rwanda}{39}{section.3.6}
+\contentsline {section}{\numberline {3.7}Ministry of Health}{41}{section.3.7}
+\contentsline {section}{\numberline {3.8}Community Health Desk}{41}{section.3.8}
+\contentsline {subsection}{\numberline {3.8.1}Community Health Workers in Rwanda}{41}{subsection.3.8.1}
+\contentsline {section}{\numberline {3.9}Cell Coordinators}{41}{section.3.9}
+\contentsline {chapter}{\numberline {4}Method}{44}{chapter.4}
+\contentsline {section}{\numberline {4.1}Action Research}{44}{section.4.1}
+\contentsline {subsection}{\numberline {4.1.1}Pitfalls}{46}{subsection.4.1.1}
+\contentsline {section}{\numberline {4.2}Research Analysis}{46}{section.4.2}
+\contentsline {subsection}{\numberline {4.2.1}Diagnosis}{46}{subsection.4.2.1}
+\contentsline {subsection}{\numberline {4.2.2}Planning}{47}{subsection.4.2.2}
+\contentsline {subsection}{\numberline {4.2.3}Intervention}{47}{subsection.4.2.3}
+\contentsline {subsection}{\numberline {4.2.4}Evaluation \& Reflection}{47}{subsection.4.2.4}
+\contentsline {section}{\numberline {4.3}Evaluation of Research}{48}{section.4.3}
+\contentsline {subsection}{\numberline {4.3.1}Researcher Client Agreement}{48}{subsection.4.3.1}
+\contentsline {subsection}{\numberline {4.3.2}Cyclical Process Model}{49}{subsection.4.3.2}
+\contentsline {subsection}{\numberline {4.3.3}Theory}{50}{subsection.4.3.3}
+\contentsline {subsection}{\numberline {4.3.4}Change through Action}{50}{subsection.4.3.4}
+\contentsline {subsection}{\numberline {4.3.5}Learning through reflection}{51}{subsection.4.3.5}
+\contentsline {chapter}{\numberline {5}Case}{53}{chapter.5}
+\contentsline {section}{\numberline {5.1}Background}{53}{section.5.1}
+\contentsline {section}{\numberline {5.2}Objectives}{54}{section.5.2}
+\contentsline {subsection}{\numberline {5.2.1}Objective \#1}{54}{subsection.5.2.1}
+\contentsline {subsection}{\numberline {5.2.2}Objective \#2}{54}{subsection.5.2.2}
+\contentsline {subsection}{\numberline {5.2.3}Objective \#3}{54}{subsection.5.2.3}
+\contentsline {subsection}{\numberline {5.2.4}Objective \#4}{54}{subsection.5.2.4}
+\contentsline {section}{\numberline {5.3}Refining and Defining the Requirements}{55}{section.5.3}
+\contentsline {subsection}{\numberline {5.3.1}Use Cases}{56}{subsection.5.3.1}
+\contentsline {section}{\numberline {5.4}Planning}{56}{section.5.4}
+\contentsline {section}{\numberline {5.5}Intervention}{60}{section.5.5}
+\contentsline {subsection}{\numberline {5.5.1}Setting up the Test Environment}{60}{subsection.5.5.1}
+\contentsline {subsection}{\numberline {5.5.2}Configuring DHIS2}{61}{subsection.5.5.2}
+\contentsline {subsection}{\numberline {5.5.3}Demo 1}{62}{subsection.5.5.3}
+\contentsline {subsection}{\numberline {5.5.4}Demo 2}{62}{subsection.5.5.4}
+\contentsline {subsection}{\numberline {5.5.5}Setting up the mobile instance}{63}{subsection.5.5.5}
+\contentsline {subsubsection}{User Importer}{63}{section*.9}
+\contentsline {subsection}{\numberline {5.5.6}Re-Supply Algorithm}{65}{subsection.5.5.6}
+\contentsline {subsubsection}{The Essential Predictore}{66}{section*.10}
+\contentsline {section}{\numberline {5.6}Demo 3}{67}{section.5.6}
+\contentsline {section}{\numberline {5.7}East Africa}{67}{section.5.7}
+\contentsline {section}{\numberline {5.8}DHIS2 Academy}{67}{section.5.8}
+\contentsline {chapter}{\numberline {6}Discussion}{68}{chapter.6}
+\contentsline {section}{\numberline {6.1}Evaluation}{68}{section.6.1}
+\contentsline {subsection}{\numberline {6.1.1}Objectives}{68}{subsection.6.1.1}
+\contentsline {section}{\numberline {6.2}Reflection}{69}{section.6.2}
+\contentsline {subsection}{\numberline {6.2.1}Language}{70}{subsection.6.2.1}
+\contentsline {subsection}{\numberline {6.2.2}Programming}{70}{subsection.6.2.2}
+\contentsline {subsection}{\numberline {6.2.3}Power supply and Internet}{70}{subsection.6.2.3}
+\contentsline {subsection}{\numberline {6.2.4}Creative Use of DHIS2}{70}{subsection.6.2.4}
+\contentsline {section}{\numberline {6.3}Rwandas ICT Transformation}{71}{section.6.3}
+\contentsline {section}{\numberline {6.4}ICT to Facilitate Health Services}{72}{section.6.4}
+\contentsline {section}{\numberline {6.5}Avoiding developing pitfalls}{73}{section.6.5}
+\contentsline {section}{\numberline {6.6}Importance of cell phones}{73}{section.6.6}
+\contentsline {section}{\numberline {6.7}Vigor to developers}{74}{section.6.7}
+\contentsline {section}{\numberline {6.8}Transition to ICT}{74}{section.6.8}
+\contentsline {section}{\numberline {6.9}Investment}{75}{section.6.9}
+\contentsline {section}{\numberline {6.10}Knowledge resources}{75}{section.6.10}
+\contentsline {section}{\numberline {6.11}Untapped Marked}{75}{section.6.11}
+\contentsline {chapter}{\numberline {7}Conclusions}{77}{chapter.7}

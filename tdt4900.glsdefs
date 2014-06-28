@@ -628,6 +628,66 @@ parent={},%
 %
 }%
 }%
+\ifglsentryexists{gprs}{}%
+{%
+\gls@defglossaryentry{gprs}%
+{%
+name={GPRS},%
+sort={GPRS},%
+type={main},%
+first={General Packet Radio Service (GPRS)},%
+firstplural={General Packet Radio Services(GPRSs)},%
+text={GPRS},%
+plural={GPRSs},%
+description={General Packet Radio Service},%
+descriptionplural={General Packet Radio Service\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={General Packet Radio Service},%
+longplural={General Packet Radio Services},%
+short={GPRS},%
+shortplural={GPRSs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{gps}{}%
+{%
+\gls@defglossaryentry{gps}%
+{%
+name={gps},%
+sort={gps},%
+type={main},%
+first={Global Positioning System (gps)},%
+firstplural={Global Positioning Systems(gpss)},%
+text={gps},%
+plural={gpss},%
+description={Global Positioning System},%
+descriptionplural={Global Positioning System\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Global Positioning System},%
+longplural={Global Positioning Systems},%
+short={gps},%
+shortplural={gpss},%
+counter={page},%
+parent={},%
+%
+}%
+}%
 \ifglsentryexists{gsm}{}%
 {%
 \gls@defglossaryentry{gsm}%
