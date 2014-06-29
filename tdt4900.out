@@ -15,74 +15,71 @@
 \BOOKMARK [2][-]{subsection.2.4.2}{Pitfalls in introducing IS in Developing Countries}{section.2.4}% 15
 \BOOKMARK [2][-]{subsection.2.4.3}{Discourses}{section.2.4}% 16
 \BOOKMARK [2][-]{subsection.2.4.4}{Networks of Action}{section.2.4}% 17
-\BOOKMARK [1][-]{section.2.5}{Information systems in the learning economy}{chapter.2}% 18
-\BOOKMARK [2][-]{subsection.2.5.1}{IT and Economic Growth}{section.2.5}% 19
-\BOOKMARK [1][-]{section.2.6}{Outsourcing}{chapter.2}% 20
+\BOOKMARK [2][-]{subsection.2.4.5}{IT and Economic Growth}{section.2.4}% 18
+\BOOKMARK [2][-]{subsection.2.4.6}{Information systems in the learning economy}{section.2.4}% 19
+\BOOKMARK [1][-]{section.2.5}{Outsourcing}{chapter.2}% 20
 \BOOKMARK [0][-]{chapter.3}{Case Context}{}% 21
 \BOOKMARK [1][-]{section.3.1}{Brief History}{chapter.3}% 22
-\BOOKMARK [1][-]{section.3.2}{More Recent}{chapter.3}% 23
-\BOOKMARK [1][-]{section.3.3}{Health Information System Programme}{chapter.3}% 24
-\BOOKMARK [2][-]{subsection.3.3.1}{HISP Strategy}{section.3.3}% 25
-\BOOKMARK [1][-]{section.3.4}{District Health Information System}{chapter.3}% 26
-\BOOKMARK [2][-]{subsection.3.4.1}{Gathering}{section.3.4}% 27
-\BOOKMARK [2][-]{subsection.3.4.2}{Managing}{section.3.4}% 28
-\BOOKMARK [2][-]{subsection.3.4.3}{Presenting}{section.3.4}% 29
-\BOOKMARK [2][-]{subsection.3.4.4}{Application Development}{section.3.4}% 30
-\BOOKMARK [1][-]{section.3.5}{Administrative Structure}{chapter.3}% 31
-\BOOKMARK [1][-]{section.3.6}{Health Management Information System in Rwanda}{chapter.3}% 32
-\BOOKMARK [1][-]{section.3.7}{Ministry of Health}{chapter.3}% 33
-\BOOKMARK [1][-]{section.3.8}{Community Health Desk}{chapter.3}% 34
-\BOOKMARK [2][-]{subsection.3.8.1}{Community Health Workers in Rwanda}{section.3.8}% 35
-\BOOKMARK [1][-]{section.3.9}{Cell Coordinators}{chapter.3}% 36
-\BOOKMARK [0][-]{chapter.4}{Method}{}% 37
-\BOOKMARK [1][-]{section.4.1}{Action Research}{chapter.4}% 38
-\BOOKMARK [2][-]{subsection.4.1.1}{Pitfalls}{section.4.1}% 39
-\BOOKMARK [1][-]{section.4.2}{Research Analysis}{chapter.4}% 40
-\BOOKMARK [2][-]{subsection.4.2.1}{Diagnosis}{section.4.2}% 41
-\BOOKMARK [2][-]{subsection.4.2.2}{Planning}{section.4.2}% 42
-\BOOKMARK [2][-]{subsection.4.2.3}{Intervention}{section.4.2}% 43
-\BOOKMARK [2][-]{subsection.4.2.4}{Evaluation \046 Reflection}{section.4.2}% 44
-\BOOKMARK [1][-]{section.4.3}{Evaluation of Research}{chapter.4}% 45
-\BOOKMARK [2][-]{subsection.4.3.1}{Researcher Client Agreement}{section.4.3}% 46
-\BOOKMARK [2][-]{subsection.4.3.2}{Cyclical Process Model}{section.4.3}% 47
-\BOOKMARK [2][-]{subsection.4.3.3}{Theory}{section.4.3}% 48
-\BOOKMARK [2][-]{subsection.4.3.4}{Change through Action}{section.4.3}% 49
-\BOOKMARK [2][-]{subsection.4.3.5}{Learning through reflection}{section.4.3}% 50
-\BOOKMARK [0][-]{chapter.5}{Case}{}% 51
-\BOOKMARK [1][-]{section.5.1}{Background}{chapter.5}% 52
-\BOOKMARK [1][-]{section.5.2}{Objectives}{chapter.5}% 53
-\BOOKMARK [2][-]{subsection.5.2.1}{Objective \0431}{section.5.2}% 54
-\BOOKMARK [2][-]{subsection.5.2.2}{Objective \0432}{section.5.2}% 55
-\BOOKMARK [2][-]{subsection.5.2.3}{Objective \0433}{section.5.2}% 56
-\BOOKMARK [2][-]{subsection.5.2.4}{Objective \0434}{section.5.2}% 57
-\BOOKMARK [1][-]{section.5.3}{Refining and Defining the Requirements}{chapter.5}% 58
-\BOOKMARK [2][-]{subsection.5.3.1}{Use Cases}{section.5.3}% 59
-\BOOKMARK [1][-]{section.5.4}{Planning}{chapter.5}% 60
-\BOOKMARK [1][-]{section.5.5}{Intervention}{chapter.5}% 61
-\BOOKMARK [2][-]{subsection.5.5.1}{Setting up the Test Environment}{section.5.5}% 62
-\BOOKMARK [2][-]{subsection.5.5.2}{Configuring DHIS2}{section.5.5}% 63
-\BOOKMARK [2][-]{subsection.5.5.3}{Demo 1}{section.5.5}% 64
-\BOOKMARK [2][-]{subsection.5.5.4}{Demo 2}{section.5.5}% 65
-\BOOKMARK [2][-]{subsection.5.5.5}{Setting up the mobile instance}{section.5.5}% 66
-\BOOKMARK [2][-]{subsection.5.5.6}{Re-Supply Algorithm}{section.5.5}% 67
-\BOOKMARK [1][-]{section.5.6}{Demo 3}{chapter.5}% 68
-\BOOKMARK [1][-]{section.5.7}{East Africa}{chapter.5}% 69
-\BOOKMARK [1][-]{section.5.8}{DHIS2 Academy}{chapter.5}% 70
-\BOOKMARK [0][-]{chapter.6}{Discussion}{}% 71
-\BOOKMARK [1][-]{section.6.1}{Evaluation}{chapter.6}% 72
-\BOOKMARK [2][-]{subsection.6.1.1}{Objectives}{section.6.1}% 73
-\BOOKMARK [1][-]{section.6.2}{Reflection}{chapter.6}% 74
-\BOOKMARK [2][-]{subsection.6.2.1}{Language}{section.6.2}% 75
-\BOOKMARK [2][-]{subsection.6.2.2}{Programming}{section.6.2}% 76
-\BOOKMARK [2][-]{subsection.6.2.3}{Power supply and Internet}{section.6.2}% 77
-\BOOKMARK [2][-]{subsection.6.2.4}{Creative Use of DHIS2}{section.6.2}% 78
-\BOOKMARK [1][-]{section.6.3}{Rwandas ICT Transformation}{chapter.6}% 79
-\BOOKMARK [1][-]{section.6.4}{ICT to Facilitate Health Services}{chapter.6}% 80
-\BOOKMARK [1][-]{section.6.5}{Avoiding developing pitfalls}{chapter.6}% 81
-\BOOKMARK [1][-]{section.6.6}{Importance of cell phones}{chapter.6}% 82
-\BOOKMARK [1][-]{section.6.7}{Vigor to developers}{chapter.6}% 83
-\BOOKMARK [1][-]{section.6.8}{Transition to ICT}{chapter.6}% 84
-\BOOKMARK [1][-]{section.6.9}{Investment}{chapter.6}% 85
-\BOOKMARK [1][-]{section.6.10}{Knowledge resources}{chapter.6}% 86
-\BOOKMARK [1][-]{section.6.11}{Untapped Marked}{chapter.6}% 87
-\BOOKMARK [0][-]{chapter.7}{Conclusions}{}% 88
+\BOOKMARK [1][-]{section.3.2}{Health Information System Programme}{chapter.3}% 23
+\BOOKMARK [2][-]{subsection.3.2.1}{HISP Strategy}{section.3.2}% 24
+\BOOKMARK [1][-]{section.3.3}{District Health Information System}{chapter.3}% 25
+\BOOKMARK [2][-]{subsection.3.3.1}{Gathering}{section.3.3}% 26
+\BOOKMARK [2][-]{subsection.3.3.2}{Managing}{section.3.3}% 27
+\BOOKMARK [2][-]{subsection.3.3.3}{Presenting}{section.3.3}% 28
+\BOOKMARK [2][-]{subsection.3.3.4}{Application Development}{section.3.3}% 29
+\BOOKMARK [1][-]{section.3.4}{Administrative Structure}{chapter.3}% 30
+\BOOKMARK [1][-]{section.3.5}{Ministry of Health}{chapter.3}% 31
+\BOOKMARK [2][-]{subsection.3.5.1}{Health Management Information System in Rwanda}{section.3.5}% 32
+\BOOKMARK [2][-]{subsection.3.5.2}{Community Health Desk}{section.3.5}% 33
+\BOOKMARK [0][-]{chapter.4}{Method}{}% 34
+\BOOKMARK [1][-]{section.4.1}{Action Research}{chapter.4}% 35
+\BOOKMARK [2][-]{subsection.4.1.1}{Pitfalls}{section.4.1}% 36
+\BOOKMARK [1][-]{section.4.2}{Research Analysis}{chapter.4}% 37
+\BOOKMARK [2][-]{subsection.4.2.1}{Diagnosis}{section.4.2}% 38
+\BOOKMARK [2][-]{subsection.4.2.2}{Planning}{section.4.2}% 39
+\BOOKMARK [2][-]{subsection.4.2.3}{Intervention}{section.4.2}% 40
+\BOOKMARK [2][-]{subsection.4.2.4}{Evaluation \046 Reflection}{section.4.2}% 41
+\BOOKMARK [1][-]{section.4.3}{Evaluation of Research}{chapter.4}% 42
+\BOOKMARK [2][-]{subsection.4.3.1}{Researcher Client Agreement}{section.4.3}% 43
+\BOOKMARK [2][-]{subsection.4.3.2}{Cyclical Process Model}{section.4.3}% 44
+\BOOKMARK [2][-]{subsection.4.3.3}{Theory}{section.4.3}% 45
+\BOOKMARK [2][-]{subsection.4.3.4}{Change through Action}{section.4.3}% 46
+\BOOKMARK [2][-]{subsection.4.3.5}{Learning through reflection}{section.4.3}% 47
+\BOOKMARK [0][-]{chapter.5}{Case}{}% 48
+\BOOKMARK [1][-]{section.5.1}{Background}{chapter.5}% 49
+\BOOKMARK [1][-]{section.5.2}{Objectives}{chapter.5}% 50
+\BOOKMARK [2][-]{subsection.5.2.1}{Objective \0431}{section.5.2}% 51
+\BOOKMARK [2][-]{subsection.5.2.2}{Objective \0432}{section.5.2}% 52
+\BOOKMARK [2][-]{subsection.5.2.3}{Objective \0433}{section.5.2}% 53
+\BOOKMARK [2][-]{subsection.5.2.4}{Objective \0434}{section.5.2}% 54
+\BOOKMARK [1][-]{section.5.3}{Refining and Defining the Requirements}{chapter.5}% 55
+\BOOKMARK [2][-]{subsection.5.3.1}{Use Cases}{section.5.3}% 56
+\BOOKMARK [1][-]{section.5.4}{Planning}{chapter.5}% 57
+\BOOKMARK [1][-]{section.5.5}{Intervention}{chapter.5}% 58
+\BOOKMARK [2][-]{subsection.5.5.1}{Setting up the Test Environment}{section.5.5}% 59
+\BOOKMARK [2][-]{subsection.5.5.2}{Configuring DHIS2}{section.5.5}% 60
+\BOOKMARK [2][-]{subsection.5.5.3}{Demo 1}{section.5.5}% 61
+\BOOKMARK [2][-]{subsection.5.5.4}{Demo 2}{section.5.5}% 62
+\BOOKMARK [2][-]{subsection.5.5.5}{Setting up the mobile instance}{section.5.5}% 63
+\BOOKMARK [2][-]{subsection.5.5.6}{Re-Supply Algorithm}{section.5.5}% 64
+\BOOKMARK [1][-]{section.5.6}{Demo 3}{chapter.5}% 65
+\BOOKMARK [1][-]{section.5.7}{East Africa}{chapter.5}% 66
+\BOOKMARK [1][-]{section.5.8}{DHIS2 Academy}{chapter.5}% 67
+\BOOKMARK [0][-]{chapter.6}{Discussion}{}% 68
+\BOOKMARK [1][-]{section.6.1}{Evaluation}{chapter.6}% 69
+\BOOKMARK [2][-]{subsection.6.1.1}{Objectives}{section.6.1}% 70
+\BOOKMARK [1][-]{section.6.2}{Reflection}{chapter.6}% 71
+\BOOKMARK [2][-]{subsection.6.2.1}{Language}{section.6.2}% 72
+\BOOKMARK [2][-]{subsection.6.2.2}{Programming}{section.6.2}% 73
+\BOOKMARK [2][-]{subsection.6.2.3}{Power supply and Internet}{section.6.2}% 74
+\BOOKMARK [2][-]{subsection.6.2.4}{Creative Use of DHIS2}{section.6.2}% 75
+\BOOKMARK [1][-]{section.6.3}{Rwandas ICT Transformation}{chapter.6}% 76
+\BOOKMARK [1][-]{section.6.4}{ICT to Facilitate Health Services}{chapter.6}% 77
+\BOOKMARK [1][-]{section.6.5}{Avoiding developing pitfalls}{chapter.6}% 78
+\BOOKMARK [1][-]{section.6.6}{Importance of cell phones}{chapter.6}% 79
+\BOOKMARK [1][-]{section.6.7}{Vigor to developers}{chapter.6}% 80
+\BOOKMARK [1][-]{section.6.8}{Transition to ICT}{chapter.6}% 81
+\BOOKMARK [1][-]{section.6.9}{Investment}{chapter.6}% 82
+\BOOKMARK [1][-]{section.6.10}{Knowledge resources}{chapter.6}% 83
+\BOOKMARK [1][-]{section.6.11}{Untapped Marked}{chapter.6}% 84
+\BOOKMARK [0][-]{chapter.7}{Conclusions}{}% 85
