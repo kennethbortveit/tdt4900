@@ -33,53 +33,49 @@
 \BOOKMARK [2][-]{subsection.3.5.2}{Community Health Desk}{section.3.5}% 33
 \BOOKMARK [0][-]{chapter.4}{Method}{}% 34
 \BOOKMARK [1][-]{section.4.1}{Action Research}{chapter.4}% 35
-\BOOKMARK [2][-]{subsection.4.1.1}{Pitfalls}{section.4.1}% 36
-\BOOKMARK [1][-]{section.4.2}{Research Analysis}{chapter.4}% 37
-\BOOKMARK [2][-]{subsection.4.2.1}{Diagnosis}{section.4.2}% 38
-\BOOKMARK [2][-]{subsection.4.2.2}{Planning}{section.4.2}% 39
-\BOOKMARK [2][-]{subsection.4.2.3}{Intervention}{section.4.2}% 40
-\BOOKMARK [2][-]{subsection.4.2.4}{Evaluation \046 Reflection}{section.4.2}% 41
-\BOOKMARK [1][-]{section.4.3}{Evaluation of Research}{chapter.4}% 42
-\BOOKMARK [2][-]{subsection.4.3.1}{Researcher Client Agreement}{section.4.3}% 43
-\BOOKMARK [2][-]{subsection.4.3.2}{Cyclical Process Model}{section.4.3}% 44
-\BOOKMARK [2][-]{subsection.4.3.3}{Theory}{section.4.3}% 45
-\BOOKMARK [2][-]{subsection.4.3.4}{Change through Action}{section.4.3}% 46
-\BOOKMARK [2][-]{subsection.4.3.5}{Learning through reflection}{section.4.3}% 47
-\BOOKMARK [0][-]{chapter.5}{Case}{}% 48
-\BOOKMARK [1][-]{section.5.1}{Background}{chapter.5}% 49
-\BOOKMARK [1][-]{section.5.2}{Objectives}{chapter.5}% 50
-\BOOKMARK [2][-]{subsection.5.2.1}{Objective \0431}{section.5.2}% 51
-\BOOKMARK [2][-]{subsection.5.2.2}{Objective \0432}{section.5.2}% 52
-\BOOKMARK [2][-]{subsection.5.2.3}{Objective \0433}{section.5.2}% 53
-\BOOKMARK [2][-]{subsection.5.2.4}{Objective \0434}{section.5.2}% 54
-\BOOKMARK [1][-]{section.5.3}{Refining and Defining the Requirements}{chapter.5}% 55
-\BOOKMARK [2][-]{subsection.5.3.1}{Use Cases}{section.5.3}% 56
-\BOOKMARK [1][-]{section.5.4}{Planning}{chapter.5}% 57
-\BOOKMARK [1][-]{section.5.5}{Intervention}{chapter.5}% 58
-\BOOKMARK [2][-]{subsection.5.5.1}{Setting up the Test Environment}{section.5.5}% 59
-\BOOKMARK [2][-]{subsection.5.5.2}{Configuring DHIS2}{section.5.5}% 60
-\BOOKMARK [2][-]{subsection.5.5.3}{Demo 1}{section.5.5}% 61
-\BOOKMARK [2][-]{subsection.5.5.4}{Demo 2}{section.5.5}% 62
-\BOOKMARK [2][-]{subsection.5.5.5}{Setting up the mobile instance}{section.5.5}% 63
-\BOOKMARK [2][-]{subsection.5.5.6}{Re-Supply Algorithm}{section.5.5}% 64
-\BOOKMARK [1][-]{section.5.6}{Demo 3}{chapter.5}% 65
-\BOOKMARK [1][-]{section.5.7}{East Africa}{chapter.5}% 66
-\BOOKMARK [1][-]{section.5.8}{DHIS2 Academy}{chapter.5}% 67
-\BOOKMARK [0][-]{chapter.6}{Discussion}{}% 68
-\BOOKMARK [1][-]{section.6.1}{Evaluation}{chapter.6}% 69
-\BOOKMARK [2][-]{subsection.6.1.1}{Objectives}{section.6.1}% 70
-\BOOKMARK [1][-]{section.6.2}{Reflection}{chapter.6}% 71
-\BOOKMARK [2][-]{subsection.6.2.1}{Language}{section.6.2}% 72
-\BOOKMARK [2][-]{subsection.6.2.2}{Programming}{section.6.2}% 73
-\BOOKMARK [2][-]{subsection.6.2.3}{Power supply and Internet}{section.6.2}% 74
-\BOOKMARK [2][-]{subsection.6.2.4}{Creative Use of DHIS2}{section.6.2}% 75
-\BOOKMARK [1][-]{section.6.3}{Rwandas ICT Transformation}{chapter.6}% 76
-\BOOKMARK [1][-]{section.6.4}{ICT to Facilitate Health Services}{chapter.6}% 77
-\BOOKMARK [1][-]{section.6.5}{Avoiding developing pitfalls}{chapter.6}% 78
-\BOOKMARK [1][-]{section.6.6}{Importance of cell phones}{chapter.6}% 79
-\BOOKMARK [1][-]{section.6.7}{Vigor to developers}{chapter.6}% 80
-\BOOKMARK [1][-]{section.6.8}{Transition to ICT}{chapter.6}% 81
-\BOOKMARK [1][-]{section.6.9}{Investment}{chapter.6}% 82
-\BOOKMARK [1][-]{section.6.10}{Knowledge resources}{chapter.6}% 83
-\BOOKMARK [1][-]{section.6.11}{Untapped Marked}{chapter.6}% 84
-\BOOKMARK [0][-]{chapter.7}{Conclusions}{}% 85
+\BOOKMARK [1][-]{section.4.2}{Research Analysis}{chapter.4}% 36
+\BOOKMARK [2][-]{subsection.4.2.1}{Diagnosis}{section.4.2}% 37
+\BOOKMARK [2][-]{subsection.4.2.2}{Planning}{section.4.2}% 38
+\BOOKMARK [2][-]{subsection.4.2.3}{Intervention}{section.4.2}% 39
+\BOOKMARK [2][-]{subsection.4.2.4}{Evaluation \046 Reflection}{section.4.2}% 40
+\BOOKMARK [1][-]{section.4.3}{Evaluation of Research}{chapter.4}% 41
+\BOOKMARK [2][-]{subsection.4.3.1}{Researcher Client Agreement}{section.4.3}% 42
+\BOOKMARK [2][-]{subsection.4.3.2}{Cyclical Process Model}{section.4.3}% 43
+\BOOKMARK [2][-]{subsection.4.3.3}{Theory}{section.4.3}% 44
+\BOOKMARK [2][-]{subsection.4.3.4}{Change through Action}{section.4.3}% 45
+\BOOKMARK [2][-]{subsection.4.3.5}{Learning through reflection}{section.4.3}% 46
+\BOOKMARK [0][-]{chapter.5}{Case}{}% 47
+\BOOKMARK [1][-]{section.5.1}{Background}{chapter.5}% 48
+\BOOKMARK [1][-]{section.5.2}{Objectives}{chapter.5}% 49
+\BOOKMARK [2][-]{subsection.5.2.1}{Objective \0431}{section.5.2}% 50
+\BOOKMARK [2][-]{subsection.5.2.2}{Objective \0432}{section.5.2}% 51
+\BOOKMARK [2][-]{subsection.5.2.3}{Objective \0433}{section.5.2}% 52
+\BOOKMARK [2][-]{subsection.5.2.4}{Objective \0434}{section.5.2}% 53
+\BOOKMARK [1][-]{section.5.3}{Refining and Defining the Requirements}{chapter.5}% 54
+\BOOKMARK [2][-]{subsection.5.3.1}{Use Cases}{section.5.3}% 55
+\BOOKMARK [1][-]{section.5.4}{Planning}{chapter.5}% 56
+\BOOKMARK [1][-]{section.5.5}{Intervention}{chapter.5}% 57
+\BOOKMARK [2][-]{subsection.5.5.1}{Setting up the Test Environment}{section.5.5}% 58
+\BOOKMARK [2][-]{subsection.5.5.2}{Configuring DHIS2}{section.5.5}% 59
+\BOOKMARK [2][-]{subsection.5.5.3}{Demo 1}{section.5.5}% 60
+\BOOKMARK [2][-]{subsection.5.5.4}{Demo 2}{section.5.5}% 61
+\BOOKMARK [2][-]{subsection.5.5.5}{Setting up the mobile instance}{section.5.5}% 62
+\BOOKMARK [2][-]{subsection.5.5.6}{Re-Supply Algorithm}{section.5.5}% 63
+\BOOKMARK [1][-]{section.5.6}{Demo 3}{chapter.5}% 64
+\BOOKMARK [0][-]{chapter.6}{Discussion}{}% 65
+\BOOKMARK [1][-]{section.6.1}{Evaluation}{chapter.6}% 66
+\BOOKMARK [2][-]{subsection.6.1.1}{Objectives}{section.6.1}% 67
+\BOOKMARK [1][-]{section.6.2}{Reflection}{chapter.6}% 68
+\BOOKMARK [2][-]{subsection.6.2.1}{Language}{section.6.2}% 69
+\BOOKMARK [2][-]{subsection.6.2.2}{Programming}{section.6.2}% 70
+\BOOKMARK [2][-]{subsection.6.2.3}{Power supply and Internet}{section.6.2}% 71
+\BOOKMARK [2][-]{subsection.6.2.4}{Creative Use of DHIS2}{section.6.2}% 72
+\BOOKMARK [1][-]{section.6.3}{Rwandas ICT Transformation}{chapter.6}% 73
+\BOOKMARK [1][-]{section.6.4}{ICT to Facilitate Health Services}{chapter.6}% 74
+\BOOKMARK [1][-]{section.6.5}{Avoiding developing pitfalls}{chapter.6}% 75
+\BOOKMARK [1][-]{section.6.6}{Importance of cell phones}{chapter.6}% 76
+\BOOKMARK [1][-]{section.6.7}{Vigor to developers}{chapter.6}% 77
+\BOOKMARK [1][-]{section.6.8}{Transition to ICT}{chapter.6}% 78
+\BOOKMARK [1][-]{section.6.9}{Investment}{chapter.6}% 79
+\BOOKMARK [1][-]{section.6.10}{Knowledge resources}{chapter.6}% 80
+\BOOKMARK [0][-]{chapter.7}{Conclusions}{}% 81

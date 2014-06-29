@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.5.5)  29 JUN 2014 15:03
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.5.5)  29 JUN 2014 18:20
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -776,7 +776,7 @@ Overfull \hbox (24.50958pt too wide) in paragraph at lines 56--59
 |failures.[[]] 
  []
 
-[18] <literature/img/failChart.jpg, id=628, 577.15625pt x 341.275pt>
+[18] <literature/img/failChart.jpg, id=608, 577.15625pt x 341.275pt>
 File: literature/img/failChart.jpg Graphic file (type jpg)
 
 <use literature/img/failChart.jpg>
@@ -799,7 +799,7 @@ cmr/m/n/12 .
 
 [27
 
-] [28] <context/img/networkOfAction.jpg, id=713, 776.14969pt x 569.12625pt>
+] [28] <context/img/networkOfAction.jpg, id=693, 776.14969pt x 569.12625pt>
 File: context/img/networkOfAction.jpg Graphic file (type jpg)
 
 <use context/img/networkOfAction.jpg>
@@ -807,14 +807,14 @@ Package pdftex.def Info: context/img/networkOfAction.jpg used on input line 93.
 
 (pdftex.def)             Requested size: 390.0pt x 285.97794pt.
  [29] [30 <./context/img/networkOfAction.jpg>] <context/img/dhis2Dash.png, id=7
-29, 635.37375pt x 301.125pt>
+09, 635.37375pt x 301.125pt>
 File: context/img/dhis2Dash.png Graphic file (type png)
 
 <use context/img/dhis2Dash.png>
 Package pdftex.def Info: context/img/dhis2Dash.png used on input line 118.
 (pdftex.def)             Requested size: 390.0pt x 184.83926pt.
  [31 <./context/img/dhis2Dash.png>]
-<context/img/dhis2DataEntry.png, id=739, 635.37375pt x 300.12125pt>
+<context/img/dhis2DataEntry.png, id=719, 635.37375pt x 300.12125pt>
 File: context/img/dhis2DataEntry.png Graphic file (type png)
 
 <use context/img/dhis2DataEntry.png>
@@ -822,14 +822,14 @@ Package pdftex.def Info: context/img/dhis2DataEntry.png used on input line 183.
 
 (pdftex.def)             Requested size: 390.0pt x 184.22314pt.
 
-<context/img/dataStructure.jpg, id=740, 816.04875pt x 568.37344pt>
+<context/img/dataStructure.jpg, id=720, 816.04875pt x 568.37344pt>
 File: context/img/dataStructure.jpg Graphic file (type jpg)
 
 <use context/img/dataStructure.jpg>
 Package pdftex.def Info: context/img/dataStructure.jpg used on input line 191.
 (pdftex.def)             Requested size: 390.0pt x 271.63667pt.
  [32]
-<context/img/gisExample.png, id=750, 642.4pt x 301.125pt>
+<context/img/gisExample.png, id=730, 642.4pt x 301.125pt>
 File: context/img/gisExample.png Graphic file (type png)
 
 <use context/img/gisExample.png>
@@ -851,7 +851,7 @@ Underfull \hbox (badness 6658) in paragraph at lines 239--239
 \OT1/cmr/bx/n/12 grams or par-tial
  []
 
-<context/img/countriesUsing.png, id=761, 1213.53375pt x 605.26125pt>
+<context/img/countriesUsing.png, id=741, 1213.53375pt x 605.26125pt>
 File: context/img/countriesUsing.png Graphic file (type png)
 
 <use context/img/countriesUsing.png>
@@ -859,28 +859,28 @@ Package pdftex.def Info: context/img/countriesUsing.png used on input line 273.
 
 (pdftex.def)             Requested size: 390.0pt x 194.51874pt.
 
-<context/img/africa.jpg, id=764, 1120.185pt x 735.49782pt>
+<context/img/africa.jpg, id=744, 1120.185pt x 735.49782pt>
 File: context/img/africa.jpg Graphic file (type jpg)
 
 <use context/img/africa.jpg>
 Package pdftex.def Info: context/img/africa.jpg used on input line 284.
 (pdftex.def)             Requested size: 390.0pt x 256.07013pt.
 
-<context/img/eastAfrica.jpg, id=765, 1120.185pt x 661.72218pt>
+<context/img/eastAfrica.jpg, id=745, 1120.185pt x 661.72218pt>
 File: context/img/eastAfrica.jpg Graphic file (type jpg)
 
 <use context/img/eastAfrica.jpg>
 Package pdftex.def Info: context/img/eastAfrica.jpg used on input line 291.
 (pdftex.def)             Requested size: 390.0pt x 230.38449pt.
 
-<context/img/rwanda.jpg, id=766, 1120.185pt x 661.47125pt>
+<context/img/rwanda.jpg, id=746, 1120.185pt x 661.47125pt>
 File: context/img/rwanda.jpg Graphic file (type jpg)
 
 <use context/img/rwanda.jpg>
 Package pdftex.def Info: context/img/rwanda.jpg used on input line 298.
 (pdftex.def)             Requested size: 390.0pt x 230.29712pt.
 
-<context/img/rwandaAdminStructure.jpg, id=767, 773.89125pt x 578.91281pt>
+<context/img/rwandaAdminStructure.jpg, id=747, 773.89125pt x 578.91281pt>
 File: context/img/rwandaAdminStructure.jpg Graphic file (type jpg)
 
 <use context/img/rwandaAdminStructure.jpg>
@@ -944,88 +944,76 @@ Underfull \hbox (badness 2698) in paragraph at lines 433--434
 Chapter 4.
 [43
 
-]
-Overfull \hbox (3.1598pt too wide) in paragraph at lines 55--58
-[]\OT1/cmr/m/n/12 Action re-search fa-cil-i-tates the de-vel-op-ment of tech-ni
-ques which
- []
-
-[44]
-Underfull \hbox (badness 10000) in paragraph at lines 59--61
-
- []
-
-[45] [46] [47] [48]
-Underfull \hbox (badness 1895) in paragraph at lines 196--197
+] [44] [45] [46] [47]
+Underfull \hbox (badness 1895) in paragraph at lines 191--192
 []|\OT1/cmr/m/n/12 Were the prob-lem and its hy-poth-e-sized
  []
 
-[49]) (./case/case.tex [50] [51]
+[48]) (./case/case.tex [49] [50]
 Chapter 5.
-[52
+[51
 
-] [53] <case/img/chwSupplyChainFuture.png, id=870, 646.8165pt x 418.509pt>
+] [52] <case/img/chwSupplyChainFuture.png, id=851, 646.8165pt x 418.509pt>
 File: case/img/chwSupplyChainFuture.png Graphic file (type png)
 
 <use case/img/chwSupplyChainFuture.png>
 Package pdftex.def Info: case/img/chwSupplyChainFuture.png used on input line 5
-0.
+1.
 (pdftex.def)             Requested size: 390.0pt x 252.33981pt.
- [54 <./case/img/chwSupplyChainFuture.png (PNG copy)>] <case/img/lmisWorkPlan.p
-df, id=880, 591.20876pt x 597.23125pt>
+ [53 <./case/img/chwSupplyChainFuture.png (PNG copy)>] <case/img/lmisWorkPlan.p
+df, id=861, 591.20876pt x 597.23125pt>
 File: case/img/lmisWorkPlan.pdf Graphic file (type pdf)
 
 <use case/img/lmisWorkPlan.pdf>
-Package pdftex.def Info: case/img/lmisWorkPlan.pdf used on input line 177.
+Package pdftex.def Info: case/img/lmisWorkPlan.pdf used on input line 178.
 (pdftex.def)             Requested size: 390.0pt x 393.98247pt.
- [55] [56] [57 <./case/img/lmisWorkPlan.pdf>]
-[58] <case/img/smsFlow.png, id=913, 609.02531pt x 113.67468pt>
+ [54] [55] [56 <./case/img/lmisWorkPlan.pdf>]
+[57] <case/img/smsFlow.png, id=893, 609.02531pt x 113.67468pt>
 File: case/img/smsFlow.png Graphic file (type png)
 
 <use case/img/smsFlow.png>
-Package pdftex.def Info: case/img/smsFlow.png used on input line 228.
+Package pdftex.def Info: case/img/smsFlow.png used on input line 229.
 (pdftex.def)             Requested size: 390.0pt x 72.79489pt.
 
-<case/img/testEnvironment.png, id=914, 580.41844pt x 137.01187pt>
+<case/img/testEnvironment.png, id=894, 580.41844pt x 137.01187pt>
 File: case/img/testEnvironment.png Graphic file (type png)
 
 <use case/img/testEnvironment.png>
-Package pdftex.def Info: case/img/testEnvironment.png used on input line 234.
+Package pdftex.def Info: case/img/testEnvironment.png used on input line 235.
 (pdftex.def)             Requested size: 390.0pt x 92.06297pt.
- [59 <./case/img/smsFlow.png> <./case/img/testEnvironment.png>] <case/img/smsEx
-ample.png, id=919, 225.84375pt x 369.38pt>
+ [58 <./case/img/smsFlow.png> <./case/img/testEnvironment.png>] <case/img/smsEx
+ample.png, id=900, 225.84375pt x 369.38pt>
 File: case/img/smsExample.png Graphic file (type png)
 
 <use case/img/smsExample.png>
-Package pdftex.def Info: case/img/smsExample.png used on input line 272.
+Package pdftex.def Info: case/img/smsExample.png used on input line 273.
 (pdftex.def)             Requested size: 86.98283pt x 142.26378pt.
- [60] [61 <./case/img/smsExample.png>]
-<case/img/userImporterScreenShot.png, id=931, 779.91376pt x 558.085pt>
+ [59] [60 <./case/img/smsExample.png>]
+<case/img/userImporterScreenShot.png, id=912, 779.91376pt x 558.085pt>
 File: case/img/userImporterScreenShot.png Graphic file (type png)
 
 <use case/img/userImporterScreenShot.png>
 Package pdftex.def Info: case/img/userImporterScreenShot.png used on input line
- 310.
+ 311.
 (pdftex.def)             Requested size: 390.0pt x 279.06737pt.
- [62] [63 <./case/img/userImporterScreenShot.png (PNG copy)>] [64]
-<case/img/essentialPredictoreScreenShot.png, id=953, 812.03375pt x 343.2825pt>
+ [61] [62 <./case/img/userImporterScreenShot.png (PNG copy)>] [63]
+<case/img/essentialPredictoreScreenShot.png, id=933, 812.03375pt x 343.2825pt>
 File: case/img/essentialPredictoreScreenShot.png Graphic file (type png)
 
 <use case/img/essentialPredictoreScreenShot.png>
 Package pdftex.def Info: case/img/essentialPredictoreScreenShot.png used on inp
-ut line 370.
+ut line 371.
 (pdftex.def)             Requested size: 390.0pt x 164.868pt.
- [65 <./case/img/essentialPredictoreScreenShot.png (PNG copy)>]) (./discussion/
-discussion.tex [66]
+ [64 <./case/img/essentialPredictoreScreenShot.png (PNG copy)>]) (./discussion/
+discussion.tex [65]
 Chapter 6.
-[67
+[66
 
-] [68] [69] [70] [71] [72] [73]) (./conclusions/conclusions.tex [74]
-[75]
+] [67] [68] [69] [70] [71] [72]) (./conclusions/conclusions.tex [73]
 Chapter 7.
-[76
+[74
 
-]) (./tdt4900.bbl [77]
+]) (./tdt4900.bbl [75]
 Underfull \hbox (badness 1117) in paragraph at lines 30--36
 []\OT1/cmr/m/n/12 Global mo-bile statis-tics 2014 part a: Mo-bile sub-scribers;
  hand-
@@ -1037,7 +1025,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 30--36
 scribers$[]\OT1/cmr/m/n/12 ,
  []
 
-[78
+[76
 
 ]
 Underfull \hbox (badness 3557) in paragraph at lines 73--78
@@ -1051,7 +1039,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 92--97
 4-[]2016 . pdf$[]\OT1/cmr/m/n/12 ,
  []
 
-[79]
+[77]
 Underfull \hbox (badness 10000) in paragraph at lines 150--153
 []\OT1/cmr/m/n/12 Folkemengden.  []$\OT1/cmtt/m/n/12 http : / / www . ssb . no 
 / befolkning / statistikker /
@@ -1071,23 +1059,23 @@ n/12 http : / / databank .
 
 )
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 42.
- [80]
+ [78]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 42.
  (./tdt4900.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 42.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 42.
 Package rerunfilecheck Info: File `tdt4900.out' has not changed.
-(rerunfilecheck)             Checksum: 2572A933F63051E198373DFEEBAF9A2B;5803.
+(rerunfilecheck)             Checksum: 7CB2F7B259D02112B73548F8E3AB4205;5560.
 
 
 LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 11705 strings out of 493304
- 170204 string characters out of 6139872
+ 11695 strings out of 493304
+ 170082 string characters out of 6139872
  310191 words of memory out of 5000000
- 14639 multiletter control sequences out of 15000+600000
+ 14635 multiletter control sequences out of 15000+600000
  12330 words of font info for 44 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
  46i,12n,35p,1713b,507s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1104,10 +1092,10 @@ ts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/
 cmsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.
 pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb></
 usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmu10.pfb>
-Output written on tdt4900.pdf (83 pages, 1897298 bytes).
+Output written on tdt4900.pdf (81 pages, 1895365 bytes).
 PDF statistics:
- 1184 PDF objects out of 1200 (max. 8388607)
- 1049 compressed objects within 11 object streams
- 257 named destinations out of 1000 (max. 500000)
- 771 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1158 PDF objects out of 1200 (max. 8388607)
+ 1025 compressed objects within 11 object streams
+ 251 named destinations out of 1000 (max. 500000)
+ 739 words of extra memory for PDF output out of 10000 (max. 10000000)
 
