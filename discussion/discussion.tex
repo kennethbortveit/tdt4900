@@ -2,10 +2,10 @@
 
 \section{Evaluation}
 The evaluation was realized as 3 presentations at different levels of management. 
-The project will be evaluated based on the progress we made towards the objectives.
+The project where be evaluated based on the progress we made towards the objectives.
 From the three demo's we had for the \gls{chd} we know that the results presented were satisfactory to the client.
 Unfortunately we were not able to involve the \gls{chw}'s in the evaluation of the interventions.
-It was schedueled a test village where we could test the solution, but not within the timeframe of the \gls{ar} project.
+It was scheduled a test village where we could test the solution, but not within the time frame of the \gls{ar} project.
 
 
 \subsection{Objectives}
@@ -18,7 +18,7 @@ The second objective (section \ref{desc:objectivetwo}) was to send a reminder if
 
 The third and fourth objectives (section \ref{desc:objectivethree} and \ref{desc:objectivefour}) were realized in \gls{dhis2}. After configuring \gls{dhis2} we were able to both send and receive \gls{sms} in the test environment. This functionality was also presented to the \gls{chd}.
 
-In terms of success and failure as discussed in \ref{successandfailure} we can categorize the objectives. Assuming that the test environment is suitable to simulate reality, we have; 
+In terms of success and failure as discussed in \ref{successandfailure} we can categorize the objectives. Assuming that the test environment is suitable to simulate reality, see table \ref{tab:obev}
 \begin{table}
 \centering
 \begin{tabular}{p{2cm} p{3cm} p{6cm}}
@@ -59,11 +59,11 @@ Having a positive impact on the collective productivity, the divided attention a
 Language barriers are common when collaborating across borders. But in this study we found that there are also symbol barriers.
 Common misspellings were between the symbol for the letter 'l' and the number '1'.
 Also, between the letter 'o' and number '0'. 
-These were pitfalls easy to avoid, but hard to take notice of.
+These are easy to avoid, but hard to take notice of.
 This was mainly as a result from the lack of education of the \gls{chw}'s. 
 In Rwanda there are currently three languages being spoken. English, French and Kinyarwanda.
 English is the working language, but both one cannot take for granted that everybody speaks it.
-This makes automatic feedback an issue. Developers may not be aware that the official spoken language is are not spoken by all inhabitants.
+This makes automatic feedback an issue. Developers may not be aware that the official spoken language are not spoken by all inhabitants.
 \gls{dhis2} has taken some actions to make all their messages customizable and support for customized feedback messages are just around the corner.
 
 \subsection{Programming}
@@ -72,34 +72,38 @@ I took notice of the convenience of being able to program the software that we u
 Being able to customize \gls{dhis2} on this level is essential to meet the clients and users needs.
 For now \gls{hisp} has a developer team located in Oslo that is supporting the users requirements.
 \gls{dhis2} is active in over forty countries. 
-Clearly some local customization is in order. 
-I would propose that every team that are using \gls{dhis2} had some employee that are able make  \gls{dhis2} applications. 
-
 The type of technical expertise needed to be able to respond to continually changing requirements goes a little deeper than being able to configure one software. 
-In the case the team had alot of knowledge relating to the software was being implemented, but there was a lack of coding expertise.
+The \gls{hmis} team had a lot of knowledge relating to the software was being implemented, but there was a lack of coding expertise.
 This makes it difficult to take advantage of the open source software. 
-One key feature is that on are able to custumize it as one see fit. 
-Thats one of the areas that was missing in the team a developer or a developer team.
+One key feature is that on are able to customize it as one see fit. 
+That is one of the areas that was missing in the team. A developer or a developer team.
+I would propose that every team that are using \gls{dhis2} had some employee that are able make  \gls{dhis2} applications.
 
 \subsection{Power supply and Internet}
 Often taken for granted in the developed countries are stable internet and power supply.
 Every other day one could experience power cuts that lasted between 5 and  10 minutes.
-While not being a critical issue in these short terms, it did affect the productivity. 
-Routers rebooting and interconnections resulting in downtime on servers are not easy to work with.
-
+It did affect the productivity a bit. 
+Routers rebooting and unstable internet connections resulting in server downtime made it hard to work on cloud based solutions. 
+Rwanda are currently planning to offer a set of services at a national data center.
+In order for this to have work properly there needs to be a stable powre supply and internet connection, in order to take advantage of it.
+Updating databases with these conditions are not preferable. 
 
 \subsection{Creative Use of DHIS2}
-\gls{dhis2} is developed to be used a certain way. All data should be located in the same database basicly being manipulated through the user interface.
-Our solutions to our problems did in some way circumvent this.
+\gls{dhis2} is developed to be used a certain way. 
+All data should be located in the same database. 
+Being manipulated through the user interface.
+Solutions to our problems did in some way circumvent this.
 By connecting directly to the database we were able to implement the algorithm and create bulk users.
-This may create some issues in the future. 
+This may create some issues in the future.
 Like when creating bulk users, the \gls{chw}'s are not being part of the process. 
-This may lead to unwanted outcomes on bigger perspective. 
-The \gls{dhis2} protocol for doing this is that someone in charge will register users in their area of responsibility.
+This may lead to unwanted outcomes on bigger perspective.
+The \gls{dhis2} protocol for doing this is that a manager will register users in their area of responsibility.
 By bypassing the user involvement we are loosing the \gls{hisp} characteristic of social-embeddednes. 
 
 
-Another example of creative use of \gls{dhis2} is that instead of using one database several are used for different topics. Then, in order to have interoperability between instances, certain dataelements are transferred between the servers. 
+Another example of creative use of \gls{dhis2} is that instead of using one database several are used for different topics. Then, in order to have interoperability between instances, certain dataelements are transferred between the servers. This leads to the development of small programs that ensures sharing between these different systems. 
+A good short term solution, but it will be hard to maintain as the number of databases increases.
+
 
 \section{Rwandas ICT Transformation}
 The government of Rwanda has lately been wanting to become a knowledge based economy. 
@@ -116,15 +120,15 @@ Into this vision of Rwanda becoming a \gls{ict}/knowledge based economy, \gls{hi
 \gls{hisp}'s view of \gls{it} innovation is more like the social embeddedness discourse.
 Since these two discourses are much alike they also can co-exist. While the government is focusing the the socio-economic process the country needs to go through, it makes room for organizations like \gls{hisp} to focus on the social-embeddedness of \gls{ict} innovations.
 
-With becoming a knowledgebased economy a developing country can have great benefit from initiating projects presented in this case.
-Rwanda has the oppertunity to develop systems that are not yet present in the more developed countries of the world.
+With becoming a knowledge based economy a developing country can have great benefit from initiating projects presented in this case.
+Rwanda has the opportunity to develop systems that are not yet present in the more developed countries of the world.
 They have the advantage of not being to reliant on legacy systems. 
 This has the potential of making room for more advanced systems to be implemented. 
 The knowledge and experiences that are generated by doing this can further be used to offer services that are not yet present in the developed countries. 
-Particularly the services developed would be of benefit to other developing countries and thusly making the oppertunity for outsourcing possible. 
+Particularly the services developed would be of benefit to other developing countries and thusly making the opportunity for outsourcing possible. 
 This of course requires a national effort in order to supply the much needed infrastructue, technology and learning oppertunities needed to take advantage. 
-Also there are some businesses in the developed countries that are seeing developing countries as untapped markeds.
-Of course, some ethical problems here, but since there are businesses that see potential, local goverments should take this opertunity to take this initiative for themselves. Either by supporting local businesses or act on their own. 
+Also there are some businesses in the developed countries that are seeing developing countries as an untapped marked.
+Of course, some ethical problems here, but since there are businesses that see potential, local governments should take this opportunity to take this initiative for themselves. Either by supporting local businesses or act on their own. 
 A great deal of efforts have been done by relaunching services offered in the developed parts of the world in new areas were this type of services are seen as novelty.
 If there is a time when developing countries should sieze the opertunity to get on the technological train, it is now. 
 Before outside actors take to much market shares. 
@@ -225,9 +229,5 @@ There are also cases were work are structured around individuals that will not u
 In our case this might be a contributing factor for why there was less interest in the attainment of the \gls{smpp} protocol.
 \gls{dhis2}, being an open source project, are not charging their users. 
 This may lead to less commitment from managers and making it difficult to implement.
-
-
-\section{Knowledge resources}
-
 
 

@@ -39,11 +39,6 @@ Jonathan Grudin and Andrew Clement.
 \newblock Groupware and social dynamics: Eight challenges for developers.
 \newblock {\em Communications of the ACM}, 1994.
 
-\bibitem{mh:rw}
-Michael Hammer.
-\newblock Reengineering work: Don't automate, obliterate.
-\newblock {\em Harvard Business Review}, 1990.
-
 \bibitem{rh:isdc}
 Richard Heeks.
 \newblock Information systems and developing countries: Failure, success, and
@@ -131,6 +126,11 @@ Overview of ict in rwanda.
 Erik~S. Reinert.
 \newblock {\em Globalization, Economic Development and Inequality}.
 \newblock Edward Elgar Publishing, 2004.
+
+\bibitem{moh:rw}
+Republic of rwanda, ministry of health.
+\newblock \url{http://www.moh.gov.rw}, 2014.
+\newblock Accessed: 29-06-2014.
 
 \bibitem{car:rmn}
 Maris G.~Martinsons Robert M.~Davison and Ned Kock.

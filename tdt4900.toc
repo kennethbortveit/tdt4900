@@ -76,13 +76,12 @@
 \contentsline {subsection}{\numberline {6.2.1}Language}{67}{subsection.6.2.1}
 \contentsline {subsection}{\numberline {6.2.2}Programming}{68}{subsection.6.2.2}
 \contentsline {subsection}{\numberline {6.2.3}Power supply and Internet}{68}{subsection.6.2.3}
-\contentsline {subsection}{\numberline {6.2.4}Creative Use of DHIS2}{68}{subsection.6.2.4}
+\contentsline {subsection}{\numberline {6.2.4}Creative Use of DHIS2}{69}{subsection.6.2.4}
 \contentsline {section}{\numberline {6.3}Rwandas ICT Transformation}{69}{section.6.3}
 \contentsline {section}{\numberline {6.4}ICT to Facilitate Health Services}{70}{section.6.4}
 \contentsline {section}{\numberline {6.5}Avoiding developing pitfalls}{71}{section.6.5}
-\contentsline {section}{\numberline {6.6}Importance of cell phones}{71}{section.6.6}
+\contentsline {section}{\numberline {6.6}Importance of cell phones}{72}{section.6.6}
 \contentsline {section}{\numberline {6.7}Vigor to developers}{72}{section.6.7}
 \contentsline {section}{\numberline {6.8}Transition to ICT}{72}{section.6.8}
 \contentsline {section}{\numberline {6.9}Investment}{73}{section.6.9}
-\contentsline {section}{\numberline {6.10}Knowledge resources}{73}{section.6.10}
 \contentsline {chapter}{\numberline {7}Conclusions}{74}{chapter.7}
