@@ -23,64 +23,64 @@
 \contentsline {chapter}{\numberline {3}Case Context}{26}{chapter.3}
 \contentsline {section}{\numberline {3.1}Brief History}{27}{section.3.1}
 \contentsline {section}{\numberline {3.2}Health Information System Programme}{28}{section.3.2}
-\contentsline {subsection}{\numberline {3.2.1}HISP Strategy}{28}{subsection.3.2.1}
-\contentsline {section}{\numberline {3.3}District Health Information System}{30}{section.3.3}
-\contentsline {subsection}{\numberline {3.3.1}Gathering}{31}{subsection.3.3.1}
-\contentsline {subsection}{\numberline {3.3.2}Managing}{32}{subsection.3.3.2}
-\contentsline {subsection}{\numberline {3.3.3}Presenting}{32}{subsection.3.3.3}
-\contentsline {subsection}{\numberline {3.3.4}Application Development}{34}{subsection.3.3.4}
-\contentsline {section}{\numberline {3.4}Administrative Structure}{34}{section.3.4}
-\contentsline {section}{\numberline {3.5}Ministry of Health}{37}{section.3.5}
-\contentsline {subsection}{\numberline {3.5.1}Health Management Information System in Rwanda}{39}{subsection.3.5.1}
-\contentsline {subsection}{\numberline {3.5.2}Community Health Desk}{39}{subsection.3.5.2}
-\contentsline {subsubsection}{Community Health Workers in Rwanda}{39}{section*.9}
-\contentsline {subsubsection}{Cell Coordinators}{40}{section*.10}
-\contentsline {chapter}{\numberline {4}Method}{42}{chapter.4}
-\contentsline {section}{\numberline {4.1}Action Research}{42}{section.4.1}
-\contentsline {section}{\numberline {4.2}Research Analysis}{43}{section.4.2}
-\contentsline {subsection}{\numberline {4.2.1}Diagnosis}{44}{subsection.4.2.1}
-\contentsline {subsection}{\numberline {4.2.2}Planning}{44}{subsection.4.2.2}
-\contentsline {subsection}{\numberline {4.2.3}Intervention}{45}{subsection.4.2.3}
-\contentsline {subsection}{\numberline {4.2.4}Evaluation \& Reflection}{45}{subsection.4.2.4}
-\contentsline {section}{\numberline {4.3}Evaluation of Research}{45}{section.4.3}
-\contentsline {subsection}{\numberline {4.3.1}Researcher Client Agreement}{46}{subsection.4.3.1}
-\contentsline {subsection}{\numberline {4.3.2}Cyclical Process Model}{47}{subsection.4.3.2}
-\contentsline {subsection}{\numberline {4.3.3}Theory}{47}{subsection.4.3.3}
-\contentsline {subsection}{\numberline {4.3.4}Change through Action}{48}{subsection.4.3.4}
-\contentsline {subsection}{\numberline {4.3.5}Learning through reflection}{48}{subsection.4.3.5}
-\contentsline {chapter}{\numberline {5}Case}{50}{chapter.5}
-\contentsline {section}{\numberline {5.1}Background}{50}{section.5.1}
-\contentsline {section}{\numberline {5.2}Objectives}{51}{section.5.2}
-\contentsline {subsection}{\numberline {5.2.1}Objective \#1}{51}{subsection.5.2.1}
-\contentsline {subsection}{\numberline {5.2.2}Objective \#2}{51}{subsection.5.2.2}
-\contentsline {subsection}{\numberline {5.2.3}Objective \#3}{51}{subsection.5.2.3}
-\contentsline {subsection}{\numberline {5.2.4}Objective \#4}{51}{subsection.5.2.4}
-\contentsline {section}{\numberline {5.3}Refining and Defining the Requirements}{52}{section.5.3}
-\contentsline {subsection}{\numberline {5.3.1}Use Cases}{53}{subsection.5.3.1}
-\contentsline {section}{\numberline {5.4}Planning}{53}{section.5.4}
-\contentsline {section}{\numberline {5.5}Intervention}{57}{section.5.5}
-\contentsline {subsection}{\numberline {5.5.1}Setting up the Test Environment}{57}{subsection.5.5.1}
-\contentsline {subsection}{\numberline {5.5.2}Configuring DHIS2}{58}{subsection.5.5.2}
-\contentsline {subsection}{\numberline {5.5.3}Demo 1}{59}{subsection.5.5.3}
-\contentsline {subsection}{\numberline {5.5.4}Demo 2}{59}{subsection.5.5.4}
-\contentsline {subsection}{\numberline {5.5.5}Setting up the mobile instance}{60}{subsection.5.5.5}
-\contentsline {subsubsection}{User Importer}{60}{section*.11}
-\contentsline {subsection}{\numberline {5.5.6}Re-Supply Algorithm}{62}{subsection.5.5.6}
-\contentsline {subsubsection}{The Essential Predictore}{63}{section*.12}
-\contentsline {section}{\numberline {5.6}Demo 3}{64}{section.5.6}
-\contentsline {chapter}{\numberline {6}Discussion}{65}{chapter.6}
-\contentsline {section}{\numberline {6.1}Evaluation}{65}{section.6.1}
-\contentsline {subsection}{\numberline {6.1.1}Objectives}{65}{subsection.6.1.1}
-\contentsline {section}{\numberline {6.2}Reflection}{66}{section.6.2}
-\contentsline {subsection}{\numberline {6.2.1}Language}{66}{subsection.6.2.1}
-\contentsline {subsection}{\numberline {6.2.2}Programming}{67}{subsection.6.2.2}
-\contentsline {subsection}{\numberline {6.2.3}Power supply and Internet}{67}{subsection.6.2.3}
-\contentsline {subsection}{\numberline {6.2.4}Creative Use of DHIS2}{68}{subsection.6.2.4}
-\contentsline {section}{\numberline {6.3}Rwandas ICT Transformation}{68}{section.6.3}
-\contentsline {section}{\numberline {6.4}ICT to Facilitate Health Services}{69}{section.6.4}
-\contentsline {section}{\numberline {6.5}Avoiding developing pitfalls}{70}{section.6.5}
-\contentsline {section}{\numberline {6.6}Importance of cell phones}{71}{section.6.6}
-\contentsline {section}{\numberline {6.7}Vigor to developers}{71}{section.6.7}
-\contentsline {section}{\numberline {6.8}Transition to ICT}{71}{section.6.8}
-\contentsline {section}{\numberline {6.9}Investment}{72}{section.6.9}
-\contentsline {chapter}{\numberline {7}Conclusions}{73}{chapter.7}
+\contentsline {subsection}{\numberline {3.2.1}HISP Strategy}{29}{subsection.3.2.1}
+\contentsline {section}{\numberline {3.3}District Health Information System}{32}{section.3.3}
+\contentsline {subsection}{\numberline {3.3.1}Gathering}{33}{subsection.3.3.1}
+\contentsline {subsection}{\numberline {3.3.2}Managing}{35}{subsection.3.3.2}
+\contentsline {subsection}{\numberline {3.3.3}Presenting}{36}{subsection.3.3.3}
+\contentsline {subsection}{\numberline {3.3.4}Application Development}{36}{subsection.3.3.4}
+\contentsline {section}{\numberline {3.4}Administrative Structure}{38}{section.3.4}
+\contentsline {section}{\numberline {3.5}Ministry of Health}{40}{section.3.5}
+\contentsline {subsection}{\numberline {3.5.1}Health Management Information System in Rwanda}{40}{subsection.3.5.1}
+\contentsline {subsection}{\numberline {3.5.2}Community Health Desk}{40}{subsection.3.5.2}
+\contentsline {subsubsection}{Community Health Workers in Rwanda}{40}{section*.9}
+\contentsline {subsubsection}{Cell Coordinators}{42}{section*.10}
+\contentsline {chapter}{\numberline {4}Method}{44}{chapter.4}
+\contentsline {section}{\numberline {4.1}Action Research}{44}{section.4.1}
+\contentsline {section}{\numberline {4.2}Research Analysis}{45}{section.4.2}
+\contentsline {subsection}{\numberline {4.2.1}Diagnosis}{46}{subsection.4.2.1}
+\contentsline {subsection}{\numberline {4.2.2}Planning}{46}{subsection.4.2.2}
+\contentsline {subsection}{\numberline {4.2.3}Intervention}{47}{subsection.4.2.3}
+\contentsline {subsection}{\numberline {4.2.4}Evaluation \& Reflection}{47}{subsection.4.2.4}
+\contentsline {section}{\numberline {4.3}Evaluation of Research}{48}{section.4.3}
+\contentsline {subsection}{\numberline {4.3.1}Researcher Client Agreement}{49}{subsection.4.3.1}
+\contentsline {subsection}{\numberline {4.3.2}Cyclical Process Model}{50}{subsection.4.3.2}
+\contentsline {subsection}{\numberline {4.3.3}Theory}{51}{subsection.4.3.3}
+\contentsline {subsection}{\numberline {4.3.4}Change through Action}{52}{subsection.4.3.4}
+\contentsline {subsection}{\numberline {4.3.5}Learning through reflection}{53}{subsection.4.3.5}
+\contentsline {chapter}{\numberline {5}Case}{54}{chapter.5}
+\contentsline {section}{\numberline {5.1}Background}{54}{section.5.1}
+\contentsline {section}{\numberline {5.2}Objectives}{55}{section.5.2}
+\contentsline {subsection}{\numberline {5.2.1}Objective \#1}{55}{subsection.5.2.1}
+\contentsline {subsection}{\numberline {5.2.2}Objective \#2}{55}{subsection.5.2.2}
+\contentsline {subsection}{\numberline {5.2.3}Objective \#3}{55}{subsection.5.2.3}
+\contentsline {subsection}{\numberline {5.2.4}Objective \#4}{55}{subsection.5.2.4}
+\contentsline {section}{\numberline {5.3}Refining and Defining the Requirements}{56}{section.5.3}
+\contentsline {subsection}{\numberline {5.3.1}Use Cases}{57}{subsection.5.3.1}
+\contentsline {section}{\numberline {5.4}Planning}{59}{section.5.4}
+\contentsline {section}{\numberline {5.5}Intervention}{61}{section.5.5}
+\contentsline {subsection}{\numberline {5.5.1}Setting up the Test Environment}{61}{subsection.5.5.1}
+\contentsline {subsection}{\numberline {5.5.2}Configuring DHIS2}{62}{subsection.5.5.2}
+\contentsline {subsection}{\numberline {5.5.3}Demo 1}{63}{subsection.5.5.3}
+\contentsline {subsection}{\numberline {5.5.4}Demo 2}{63}{subsection.5.5.4}
+\contentsline {subsection}{\numberline {5.5.5}Setting up the mobile instance}{64}{subsection.5.5.5}
+\contentsline {subsubsection}{User Importer}{64}{section*.11}
+\contentsline {subsection}{\numberline {5.5.6}Re-Supply Algorithm}{66}{subsection.5.5.6}
+\contentsline {subsubsection}{The Essential Predictore}{67}{section*.12}
+\contentsline {section}{\numberline {5.6}Demo 3}{68}{section.5.6}
+\contentsline {chapter}{\numberline {6}Discussion}{69}{chapter.6}
+\contentsline {section}{\numberline {6.1}Evaluation}{69}{section.6.1}
+\contentsline {subsection}{\numberline {6.1.1}Objectives}{69}{subsection.6.1.1}
+\contentsline {section}{\numberline {6.2}Reflection}{70}{section.6.2}
+\contentsline {subsection}{\numberline {6.2.1}Language}{70}{subsection.6.2.1}
+\contentsline {subsection}{\numberline {6.2.2}Programming}{71}{subsection.6.2.2}
+\contentsline {subsection}{\numberline {6.2.3}Power supply and Internet}{71}{subsection.6.2.3}
+\contentsline {subsection}{\numberline {6.2.4}Creative Use of DHIS2}{72}{subsection.6.2.4}
+\contentsline {section}{\numberline {6.3}Rwandas ICT Transformation}{72}{section.6.3}
+\contentsline {section}{\numberline {6.4}ICT to Facilitate Health Services}{73}{section.6.4}
+\contentsline {section}{\numberline {6.5}Avoiding developing pitfalls}{74}{section.6.5}
+\contentsline {section}{\numberline {6.6}Importance of cell phones}{75}{section.6.6}
+\contentsline {section}{\numberline {6.7}Vigor to developers}{75}{section.6.7}
+\contentsline {section}{\numberline {6.8}Transition to ICT}{75}{section.6.8}
+\contentsline {section}{\numberline {6.9}Investment}{76}{section.6.9}
+\contentsline {chapter}{\numberline {7}Conclusions}{77}{chapter.7}
